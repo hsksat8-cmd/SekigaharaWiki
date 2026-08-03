@@ -29,12 +29,16 @@ theme:
         icon: material/brightness-4
         name: ライトモードに切り替える
 
+
 nav:
   - ホーム: index.md
   - ゲーム:
-      - ゲーム概要: game/overview.md
+      - 概要: game/overview.md
       - プレイモード: gameplay/modes.md
+      - 観戦と字幕: gameplay/observation.md
       - 基本戦術: gameplay/tactics.md
+      - サブシナリオ: gameplay/subscenarios.md
+      - 戦績とランキング: gameplay/results-and-rankings.md
   - 戦闘システム:
       - 概要: systems/index.md
       - 士気: systems/morale.md
@@ -43,23 +47,26 @@ nav:
       - 部隊規模と各個撃破: systems/unit-size.md
       - 部隊AI: systems/ai.md
   - 陣形:
-      - 陣形の概要: formations/index.md
+      - 概要: formations/index.md
       - 方形: formations/square.md
       - 方形自由: formations/flexible-square.md
       - 鶴翼: formations/crane-wing.md
       - 縦深: formations/deep.md
       - 魚鱗: formations/fish-scale.md
   - シナリオ:
-      - シナリオ概要: scenarios/index.md
+      - 一覧: scenarios/index.md
       - 史実寄り: scenarios/historical.md
-      - 小早川静観: scenarios/kobayakawa-neutral.md
-      - 小早川西軍参戦: scenarios/kobayakawa-western.md
-      - ランダム: scenarios/random.md
+      - 毛利積極参戦: scenarios/mori-active.md
+      - 島津積極策: scenarios/shimazu-active.md
+      - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
+      - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
+      - 完全ランダム: scenarios/random.md
+      - ランダム架空大戦: scenarios/random-fictional-war.md
   - 陣形実験:
-      - 実験の方法: experiments/index.md
+      - 実験方法: experiments/index.md
       - 縦深 対 方形: experiments/deep-vs-square.md
   - 更新履歴:
-      - 更新履歴: updates/index.md
+      - 一覧: updates/index.md
       - Version 2.2.0: updates/v2.2.0.md
       - Version 2.1.0: updates/v2.1.0.md
       - Version 2.0.x: updates/v2.0.md
@@ -70,13 +77,15 @@ nav:
       - X投稿アーカイブ: reference/tweets.md
       - 用語集: reference/glossary.md
       - プライバシー: privacy.md
-
   - English:
       - Home: en/index.md
       - Game:
           - Overview: en/game/overview.md
           - Play Modes: en/gameplay/modes.md
+          - Observation and Subtitles: en/gameplay/observation.md
           - Basic Tactics: en/gameplay/tactics.md
+          - Sub-Scenarios: en/gameplay/subscenarios.md
+          - Results and Rankings: en/gameplay/results-and-rankings.md
       - Battle System:
           - Overview: en/systems/index.md
           - Morale: en/systems/morale.md
@@ -92,11 +101,14 @@ nav:
           - Deep: en/formations/deep.md
           - Fish Scale: en/formations/fish-scale.md
       - Scenarios:
-          - Overview: en/scenarios/index.md
+          - List: en/scenarios/index.md
           - Historically Inspired: en/scenarios/historical.md
-          - Kobayakawa Neutral: en/scenarios/kobayakawa-neutral.md
+          - Active Mori: en/scenarios/mori-active.md
+          - Active Shimazu: en/scenarios/shimazu-active.md
           - Kobayakawa Western: en/scenarios/kobayakawa-western.md
-          - Random: en/scenarios/random.md
+          - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
+          - Fully Random: en/scenarios/random.md
+          - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
       - Experiments:
           - Method: en/experiments/index.md
           - Deep vs. Square: en/experiments/deep-vs-square.md

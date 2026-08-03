@@ -1,0 +1,43 @@
+{
+  "source": "Microsoft Store product description provided by the user",
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "new_pages": [
+    "gameplay/observation.md",
+    "gameplay/subscenarios.md",
+    "gameplay/results-and-rankings.md",
+    "scenarios/mori-active.md",
+    "scenarios/shimazu-active.md",
+    "scenarios/mori-kobayakawa-western.md",
+    "scenarios/random-fictional-war.md",
+    "en/gameplay/observation.md",
+    "en/gameplay/subscenarios.md",
+    "en/gameplay/results-and-rankings.md",
+    "en/scenarios/mori-active.md",
+    "en/scenarios/shimazu-active.md",
+    "en/scenarios/mori-kobayakawa-western.md",
+    "en/scenarios/random-fictional-war.md"
+  ],
+  "updated_core_pages": [
+    "index.md",
+    "game/overview.md",
+    "gameplay/modes.md",
+    "gameplay/tactics.md",
+    "formations/index.md",
+    "scenarios/index.md",
+    "scenarios/historical.md",
+    "scenarios/kobayakawa-western.md",
+    "scenarios/random.md",
+    "en/index.md",
+    "en/game/overview.md",
+    "en/gameplay/modes.md",
+    "en/gameplay/tactics.md",
+    "en/formations/index.md",
+    "en/scenarios/index.md",
+    "en/scenarios/historical.md",
+    "en/scenarios/kobayakawa-western.md",
+    "en/scenarios/random.md"
+  ]
+}

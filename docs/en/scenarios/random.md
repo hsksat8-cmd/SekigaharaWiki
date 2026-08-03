@@ -1,20 +1,18 @@
-# Random Scenarios
+# Fully Random
 
 [日本語版](../../scenarios/random.md)
 
-Random scenarios can create very different battle conditions each time.
+Commander abilities and battle conditions vary, creating an unpredictable battle.
 
-## Randomized Troop Strength
+## Randomized Elements
 
-The total troop strength of each army remains unchanged, but each commander's troop count can vary from 0.5× to 2×, along with commander parameters.
+The Microsoft Store description explicitly states that commander abilities and battle conditions change.
 
-## Random Participation
+Development posts on X provide additional examples:
 
-In historically inspired scenarios, several commanders react to the battle situation. In random scenarios, participation is less dependent on battlefield conditions.
+- Troop strength assigned to individual commanders may vary
+- Commander parameters may change
+- Participation decisions may be less closely tied to battlefield conditions than in historically inspired scenarios
 
-Examples named in the posts include:
-
-- Kobayakawa Hideaki
-- Mori Hidemoto
-- Kikkawa Hiroie
-- Shimazu Yoshihiro
+!!! note
+    The exact range of randomization may depend on the game version and selected sub-scenario.

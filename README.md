@@ -70,3 +70,19 @@ Cloudflare Dashboardの `Web Analytics` でサイトを追加し、JavaScript Be
 - English: `https://hsksat8-cmd.github.io/SekigaharaWiki/en/`
 
 Cloudflare Web Analyticsは既存の同じトークンで両言語を計測できます。ダッシュボードでURLパス `/en/` を指定すると英語版だけに絞れます。
+
+## Microsoft Store情報の統合
+
+Microsoft Storeの現行製品説明を、日本語版・英語版の両方へ統合しています。
+
+追加・更新した主な内容:
+
+- 作業中にも楽しめる観戦主体という位置づけ
+- 兵士ドット／アニメーションと表示人数
+- 3種類の参加モード
+- リアルタイム字幕
+- 戦績表、累積ランキング、陣営別得点
+- 初期配置編集とサブシナリオ
+- インポート／エクスポート
+- 毛利積極参戦、島津積極策、毛利・小早川西軍積極参戦
+- 完全ランダム、ランダム架空大戦

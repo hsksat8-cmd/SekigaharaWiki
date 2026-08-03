@@ -1,18 +1,14 @@
-# Historically Inspired Scenarios
+# Historically Inspired
 
 [日本語版](../../scenarios/historical.md)
 
-Historically inspired scenarios use deployments and participation relationships that more closely resemble the Battle of Sekigahara.
+This scenario develops the Battle of Sekigahara under conditions inspired by history.
 
-## Western Army Difficulty
+## Characteristics
 
-Because Kobayakawa Hideaki may defect, the Western Army can collapse even after successfully responding to Tokugawa Ieyasu's unit.
+- Initial conditions inspired by the historical battle
+- Participation decisions and defection can change the course of battle
+- Kobayakawa Hideaki's actions have a major effect on the Western Army
+- Mori, Kikkawa, and Shimazu behavior can also affect the result
 
-The Western Army still has a chance when several conditions align:
-
-- Kobayakawa's defection is delayed
-- Mori Hidemoto and Kikkawa Hiroie enter early
-- Shimazu Yoshihiro participates effectively
-- A player-created commander succeeds in a local sector
-
-The archived posts show that replaying the same broad situation can still produce very different outcomes.
+Development posts on X show that even similar starting conditions can lead to different outcomes depending on timing and battlefield momentum.

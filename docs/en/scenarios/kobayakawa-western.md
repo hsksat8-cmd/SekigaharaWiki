@@ -1,9 +1,9 @@
-# Kobayakawa Joins the Western Army
+# Kobayakawa Actively Joins the Western Army
 
 [日本語版](../../scenarios/kobayakawa-western.md)
 
-Kobayakawa Hideaki joins the Western Army from the beginning.
+This what-if scenario tests a battle in which Kobayakawa Hideaki actively fights for the Western Army.
 
-The archived posts describe the Western Army as considerably stronger under this condition. Tokugawa Ieyasu's unit may attempt a central breakthrough, but defeat in detail may sometimes be more effective.
+Because Kobayakawa functions as part of the Western force, the Western Army has a stronger position than in the historically inspired scenario. The Eastern Army may need to seek an early decision through a central breakthrough or a concentrated attack on the enemy commander.
 
-Videos from the Version 2.0 period demonstrate this scenario with updated terrain and soldier animations.
+Development posts and gameplay videos on X and YouTube also show examples of this condition.

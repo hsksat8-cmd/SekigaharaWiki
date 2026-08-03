@@ -2,7 +2,8 @@
 
 <div class="hero" markdown="1">
 
-**関ヶ原の布陣・兵力・士気・武将の判断を変え、戦況の推移を観察するシミュレーションゲーム**の公式Wikiです。
+**作業中の傍らでも楽しめる、観戦主体の関ヶ原布陣シミュレーション。**  
+布陣、戦力集中、包囲、各個撃破、中央突破が戦局を変えます。
 
 [Microsoft Storeで見る](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=ja-jp&gl=JP){ .md-button .md-button--primary }
 [Xの開発記録を見る](https://x.com/IFHistorySim){ .md-button }
@@ -17,24 +18,34 @@
 ## ゲームの特徴
 
 <div class="stat-grid">
-  <div class="stat-card"><strong>自律的な部隊</strong><br>部隊は士気、位置関係、戦況などに応じて行動します。</div>
-  <div class="stat-card"><strong>IFシナリオ</strong><br>小早川秀秋の静観・西軍参加や、ランダム化された戦況を試せます。</div>
-  <div class="stat-card"><strong>5種類の陣形</strong><br>方形、方形自由、鶴翼、縦深、魚鱗を選択できます。</div>
-  <div class="stat-card"><strong>観戦と指揮</strong><br>観戦だけでなく、東軍・西軍またはユーザー武将を指揮できます。</div>
+  <div class="stat-card"><strong>自律的な合戦</strong><br>武将と部隊が目標や戦況に応じて行動します。</div>
+  <div class="stat-card"><strong>観戦と指揮</strong><br>作業中は観戦し、必要な場面だけ部隊へ指示できます。</div>
+  <div class="stat-card"><strong>5種類の陣形</strong><br>方形、方形自由、鶴翼、縦深、魚鱗を選べます。</div>
+  <div class="stat-card"><strong>豊富なIF</strong><br>毛利、島津、小早川の参戦条件やランダム戦を比較できます。</div>
 </div>
+
+## できること
+
+- 多数の兵士ドットまたは兵士アニメーションによる大規模戦闘
+- 観戦、東軍指揮、西軍指揮
+- 初期配置、初期目標、初期待機時間の設定
+- サブシナリオの保存、インポート、エクスポート
+- リアルタイム字幕と武将詳細表示
+- 武将別戦績、累積ランキング、陣営別得点
+- 1～50倍のマップ表示
+- 包囲、各個撃破、中央突破などの戦略
 
 ## はじめに読むページ
 
 - [ゲーム概要](game/overview.md)
 - [プレイモード](gameplay/modes.md)
-- [戦闘システム](systems/index.md)
+- [観戦とリアルタイム字幕](gameplay/observation.md)
+- [サブシナリオ](gameplay/subscenarios.md)
+- [戦績とランキング](gameplay/results-and-rankings.md)
+- [シナリオ一覧](scenarios/index.md)
 - [陣形の概要](formations/index.md)
-- [シナリオ概要](scenarios/index.md)
-- [陣形実験：縦深 対 方形](experiments/deep-vs-square.md)
 - [画像ギャラリー](reference/gallery.md)
 
-## このWikiについて
+## 情報源
 
-このWikiは、Xアカウント `@IFHistorySim` の投稿アーカイブを分類・統合して作成しています。投稿に書かれていない内容は推測で補わず、確認できたゲーム仕様と開発記録を中心にまとめています。
-
-[ゲーム紹介の元投稿](https://x.com/IFHistorySim/status/2067887775551242256)
+このWikiは、Microsoft Storeの現行製品説明と、Xアカウント `@IFHistorySim` の開発投稿を分類・統合して作成しています。バージョン別の機能はX投稿、現行の製品機能はMicrosoft Storeの説明を主な根拠としています。

@@ -2,23 +2,35 @@
 
 [日本語版](../../gameplay/tactics.md)
 
-## Break Morale First
+## Positioning and Concentration Matter More Than Numbers Alone
 
-A numerically inferior force that attacks head-on is likely to lose morale first. Positioning and combat conditions that reduce enemy morale are therefore crucial.
+Total troop strength does not decide the battle by itself. The position of each unit and the ability to concentrate force against a target are critical.
 
-## Defeat Isolated Units in Detail
+## Western Army: Encirclement and Defeat in Detail
 
-A large unit is not automatically stronger in every dot-to-dot engagement. Its strength becomes decisive when it attacks separated smaller units one by one.
+Because its main force is weaker, the Western Army benefits from:
 
-## Use Player-Created Commanders Locally
+- Encircling an enemy with multiple units
+- Destroying isolated enemy units one by one
+- Applying pressure from the flanks while watching for a central breakthrough
+- Avoiding an overly thin defense around its own commander
 
-A 5,000-strong unit should avoid direct combat against a much larger force. Better opportunities include:
+## Eastern Army: Central Breakthrough
 
-- Isolated enemy units
-- An exposed enemy commander
-- A sector where allied forces already have momentum
-- Entry from favorable terrain
+The Eastern Army can use Tokugawa Ieyasu's powerful unit to break through the center and directly target the enemy commander.
 
-## Balance Encirclement and Central Breakthrough
+Concentrating too heavily in the center, however, may leave units on the flanks isolated.
 
-Encirclement lowers enemy morale, but it also spreads out your own troops. If the center becomes too thin, the enemy may break through and decide the battle quickly.
+## Choosing Priorities
+
+Depending on the situation, you may need to switch between:
+
+- Advancing toward the enemy commander
+- Protecting your own commander
+- Completing an encirclement
+- Defeating isolated enemies in detail
+- Preserving a retreat route
+
+## Importance of Initial Deployment
+
+Units can be dragged to change their initial positions. Even small changes can alter the first contact, the possibility of encirclement, and the success of a central breakthrough.
