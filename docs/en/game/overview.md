@@ -1,6 +1,6 @@
 # Game Overview
 
-Sekigahara IF Battle Formation Simulator recreates the Battle of Sekigahara under a variety of conditions and lets the player observe autonomous unit behavior and changing battlefield momentum.
+Sekigahara: What-If Battle Simulator recreates the Battle of Sekigahara under a variety of conditions and lets the player observe autonomous unit behavior and changing battlefield momentum.
 
 [日本語版](../../game/overview.md)
 

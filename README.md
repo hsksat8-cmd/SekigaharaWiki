@@ -9,8 +9,8 @@ Xアーカイブの `tweets.js` を基礎資料として整理した、MkDocs Ma
 `mkdocs.yml` の次の2か所を変更してください。
 
 ```yaml
-site_url: https://YOUR_GITHUB_USERNAME.github.io/SekigaharaWiki/
-repo_url: https://github.com/YOUR_GITHUB_USERNAME/SekigaharaWiki
+site_url: https://hsksat8-cmd.github.io/SekigaharaWiki/
+repo_url: https://github.com/hsksat8-cmd/SekigaharaWiki
 ```
 
 ### 2. Cloudflare Web Analyticsトークン

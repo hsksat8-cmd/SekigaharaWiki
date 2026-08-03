@@ -1,6 +1,6 @@
 # 公開前チェックリスト
 
-- [ ] `mkdocs.yml` の `YOUR_GITHUB_USERNAME` を変更
+- [ ] `mkdocs.yml` の `hsksat8-cmd` を変更
 - [ ] `overrides/main.html` のCloudflareトークンを変更
 - [ ] `docs/privacy.md` の問い合わせ先を確認
 - [ ] Microsoft Storeの価格表記が現在も正しいか確認

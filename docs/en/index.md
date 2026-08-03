@@ -1,8 +1,8 @@
-# Sekigahara IF Battle Formation Simulator Wiki
+# Sekigahara: What-If Battle Simulator Wiki
 
 <div class="hero" markdown="1">
 
-This is the official wiki for **Sekigahara IF Battle Formation Simulator**, a game in which you change formations, troop strength, morale, and commander behavior, then observe how the battle develops.
+This is the official wiki for **Sekigahara: What-If Battle Simulator**, a game in which you change formations, troop strength, morale, and commander behavior, then observe how the battle develops.
 
 [View on Microsoft Store](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=en-us&gl=US){ .md-button .md-button--primary }
 [Development posts on X](https://x.com/IFHistorySim){ .md-button }
