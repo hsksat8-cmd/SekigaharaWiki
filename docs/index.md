@@ -1,6 +1,6 @@
 # 関ヶ原IF布陣シミュレータ Wiki
 
-<div class="hero">
+<div class="hero" markdown="1">
 
 **関ヶ原の布陣・兵力・士気・武将の判断を変え、戦況の推移を観察するシミュレーションゲーム**の公式Wikiです。
 
