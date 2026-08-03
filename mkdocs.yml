@@ -1,6 +1,6 @@
 site_name: 関ヶ原IF布陣シミュレータ Wiki
 site_description: 関ヶ原IF布陣シミュレータの公式仕様・戦闘システム・陣形実験・シナリオ解説
-site_url: https://hsksat8-cmd.github.io/SekigaharaWiki/
+site_url: https://YOUR_GITHUB_USERNAME.github.io/SekigaharaWiki/
 repo_url: https://github.com/YOUR_GITHUB_USERNAME/SekigaharaWiki
 repo_name: SekigaharaWiki
 edit_uri: edit/main/docs/
@@ -66,6 +66,7 @@ nav:
       - Version 1.2.0: updates/v1.2.0.md
   - 資料:
       - 動画・投稿一覧: reference/media.md
+      - 画像ギャラリー: reference/gallery.md
       - X投稿アーカイブ: reference/tweets.md
       - 用語集: reference/glossary.md
       - プライバシー: privacy.md

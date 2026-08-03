@@ -30,3 +30,7 @@ Version 2.2.0から、部隊は次の5陣形を選択できます。
 - 規模差がある場合、縦深が最も脆い
 
 [Version 2.2.0の陣形追加投稿](https://x.com/IFHistorySim/status/2083138779175628919)
+
+
+![Version 2.2.0の陣形例](../assets/images/v2-2-0-formations-example.jpg){ .wiki-image }
+<p class="image-caption">青軍の魚鱗系の配置と、赤軍の展開例</p>

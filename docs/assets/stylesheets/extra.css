@@ -30,3 +30,18 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .4rem;
 }
+
+
+.wiki-image {
+  display: block;
+  margin: 1rem auto;
+  border-radius: .4rem;
+}
+
+.image-caption {
+  text-align: center;
+  font-size: .9rem;
+  opacity: .85;
+  margin-top: -.4rem;
+  margin-bottom: 1.2rem;
+}

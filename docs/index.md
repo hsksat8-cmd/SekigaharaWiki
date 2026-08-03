@@ -10,6 +10,9 @@
 
 </div>
 
+![徳川家康のイメージビジュアル](assets/images/tokugawa-ieyasu-portrait.jpg){ .wiki-image }
+<p class="image-caption">徳川家康のイメージビジュアル（X投稿より）</p>
+
 ## ゲームの特徴
 
 <div class="stat-grid">
@@ -27,6 +30,7 @@
 - [陣形の概要](formations/index.md)
 - [シナリオ概要](scenarios/index.md)
 - [陣形実験：縦深 対 方形](experiments/deep-vs-square.md)
+- [画像ギャラリー](reference/gallery.md)
 
 ## このWikiについて
 

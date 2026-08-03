@@ -27,6 +27,15 @@ Version 2.0.0では関ヶ原の地形表現が更新され、拡大モードで�
 [Version 2.0.0の元投稿](https://x.com/IFHistorySim/status/2077689580266852834)  
 [兵士アニメーションについての元投稿](https://x.com/IFHistorySim/status/2077741357331034616)
 
+
+## イメージとスクリーンショット
+
+![Version 2.0.0のマップ全景](../assets/images/v2-0-0-map-overview.jpg){ .wiki-image }
+<p class="image-caption">Version 2.0.0で再現された関ヶ原の地形と初期配置</p>
+
+![拡大モードの戦闘シーン](../assets/images/v2-0-0-battle-animation.jpg){ .wiki-image }
+<p class="image-caption">拡大モードでは兵士のアニメーションが表示される</p>
+
 ## 販売情報
 
 X投稿時点ではMicrosoft Storeで500円と案内されています。価格は将来変更される可能性があるため、現在価格はストアページで確認してください。
