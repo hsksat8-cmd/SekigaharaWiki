@@ -7,6 +7,7 @@
 [Microsoft Storeで見る](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=ja-jp&gl=JP){ .md-button .md-button--primary }
 [Xの開発記録を見る](https://x.com/IFHistorySim){ .md-button }
 [YouTubeを見る](https://www.youtube.com/@IFHistorySim){ .md-button }
+[English](en/){ .md-button }
 
 </div>
 

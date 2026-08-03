@@ -61,3 +61,12 @@ Cloudflare Dashboardの `Web Analytics` でサイトを追加し、JavaScript Be
 ## 内容上の注意
 
 一部のX投稿は、アーカイブ上でも本文末尾が `…` で省略されています。そのため、Wikiでは確認できた範囲のみを記載し、推測で補完していません。
+
+## 英語版
+
+日本語版のURLは変更しません。
+
+- 日本語: `https://hsksat8-cmd.github.io/SekigaharaWiki/`
+- English: `https://hsksat8-cmd.github.io/SekigaharaWiki/en/`
+
+Cloudflare Web Analyticsは既存の同じトークンで両言語を計測できます。ダッシュボードでURLパス `/en/` を指定すると英語版だけに絞れます。
