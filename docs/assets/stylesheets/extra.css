@@ -1,0 +1,32 @@
+:root {
+  --md-primary-fg-color: #5d4037;
+  --md-accent-fg-color: #8d6e63;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+.hero {
+  padding: 1.4rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem;
+  background: var(--md-code-bg-color);
+}
+
+.source-note {
+  font-size: .82rem;
+  opacity: .8;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: .8rem;
+}
+
+.stat-card {
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .4rem;
+}

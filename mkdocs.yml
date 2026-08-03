@@ -1,0 +1,99 @@
+site_name: 関ヶ原IF布陣シミュレータ Wiki
+site_description: 関ヶ原IF布陣シミュレータの公式仕様・戦闘システム・陣形実験・シナリオ解説
+site_url: https://hsksat8-cmd.github.io/SekigaharaWiki/
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/SekigaharaWiki
+repo_name: SekigaharaWiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ja
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替える
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替える
+
+nav:
+  - ホーム: index.md
+  - ゲーム:
+      - ゲーム概要: game/overview.md
+      - プレイモード: gameplay/modes.md
+      - 基本戦術: gameplay/tactics.md
+  - 戦闘システム:
+      - 概要: systems/index.md
+      - 士気: systems/morale.md
+      - ダメージ計算: systems/damage.md
+      - 包囲と中央突破: systems/encirclement.md
+      - 部隊規模と各個撃破: systems/unit-size.md
+      - 部隊AI: systems/ai.md
+  - 陣形:
+      - 陣形の概要: formations/index.md
+      - 方形: formations/square.md
+      - 方形自由: formations/flexible-square.md
+      - 鶴翼: formations/crane-wing.md
+      - 縦深: formations/deep.md
+      - 魚鱗: formations/fish-scale.md
+  - シナリオ:
+      - シナリオ概要: scenarios/index.md
+      - 史実寄り: scenarios/historical.md
+      - 小早川静観: scenarios/kobayakawa-neutral.md
+      - 小早川西軍参戦: scenarios/kobayakawa-western.md
+      - ランダム: scenarios/random.md
+  - 陣形実験:
+      - 実験の方法: experiments/index.md
+      - 縦深 対 方形: experiments/deep-vs-square.md
+  - 更新履歴:
+      - 更新履歴: updates/index.md
+      - Version 2.2.0: updates/v2.2.0.md
+      - Version 2.1.0: updates/v2.1.0.md
+      - Version 2.0.x: updates/v2.0.md
+      - Version 1.2.0: updates/v1.2.0.md
+  - 資料:
+      - 動画・投稿一覧: reference/media.md
+      - X投稿アーカイブ: reference/tweets.md
+      - 用語集: reference/glossary.md
+      - プライバシー: privacy.md
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/outbound-links.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/IFHistorySim
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@IFHistorySim
+  analytics_notice: "Cloudflare Web Analyticsを使用します。Cookieは使用しません。"
