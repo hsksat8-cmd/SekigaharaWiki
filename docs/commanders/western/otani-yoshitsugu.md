@@ -2,24 +2,36 @@
 
 [English version](../../en/commanders/western/otani-yoshitsugu.md)
 
-![大谷吉継隊の旗印](../../assets/images/flags/otani-yoshitsugu.png){ .wiki-image width="25%" }
-<p class="image-caption">大谷吉継隊の旗印</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## ゲーム内データ
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../assets/images/flags/otani-yoshitsugu.png" alt="大谷吉継隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">大谷吉継隊の旗印</p>
+</div>
 
-| 項目 | 値 |
-|---|---:|
-| 軍 | 西軍 |
-| 区分 | 関ヶ原基本武将 |
-| 兵数 | 600 |
-| 開始士気 | 108 |
-| 攻撃 | 70 |
-| 防御 | 92 |
-| 積極性 | 52 |
-| 忠誠 | 96 |
-| 躊躇 | 12 |
-| 統率 | 96 |
-| 指揮信頼 | 90 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>ゲーム内データ</h2>
+<table>
+  <thead>
+    <tr><th>項目</th><th>値</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>軍</td><td>西軍</td></tr>
+    <tr><td>区分</td><td>関ヶ原基本武将</td></tr>
+    <tr><td>兵数</td><td>600</td></tr>
+    <tr><td>開始士気</td><td>108</td></tr>
+    <tr><td>攻撃</td><td>70</td></tr>
+    <tr><td>防御</td><td>92</td></tr>
+    <tr><td>積極性</td><td>52</td></tr>
+    <tr><td>忠誠</td><td>96</td></tr>
+    <tr><td>躊躇</td><td>12</td></tr>
+    <tr><td>統率</td><td>96</td></tr>
+    <tr><td>指揮信頼</td><td>90</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## ゲーム内での特徴
 

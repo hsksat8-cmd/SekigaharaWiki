@@ -2,24 +2,36 @@
 
 [English version](../../en/commanders/western/tachibana-muneshige.md)
 
-![立花宗茂隊の旗印](../../assets/images/flags/tachibana-muneshige.png){ .wiki-image width="25%" }
-<p class="image-caption">立花宗茂隊の旗印</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## ゲーム内データ
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../assets/images/flags/tachibana-muneshige.png" alt="立花宗茂隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">立花宗茂隊の旗印</p>
+</div>
 
-| 項目 | 値 |
-|---|---:|
-| 軍 | 西軍 |
-| 区分 | 架空拡張マップ追加武将 |
-| 兵数 | 4,000 |
-| 開始士気 | 109 |
-| 攻撃 | 92 |
-| 防御 | 84 |
-| 積極性 | 82 |
-| 忠誠 | 92 |
-| 躊躇 | 8 |
-| 統率 | 90 |
-| 指揮信頼 | 88 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>ゲーム内データ</h2>
+<table>
+  <thead>
+    <tr><th>項目</th><th>値</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>軍</td><td>西軍</td></tr>
+    <tr><td>区分</td><td>架空拡張マップ追加武将</td></tr>
+    <tr><td>兵数</td><td>4,000</td></tr>
+    <tr><td>開始士気</td><td>109</td></tr>
+    <tr><td>攻撃</td><td>92</td></tr>
+    <tr><td>防御</td><td>84</td></tr>
+    <tr><td>積極性</td><td>82</td></tr>
+    <tr><td>忠誠</td><td>92</td></tr>
+    <tr><td>躊躇</td><td>8</td></tr>
+    <tr><td>統率</td><td>90</td></tr>
+    <tr><td>指揮信頼</td><td>88</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## ゲーム内での特徴
 

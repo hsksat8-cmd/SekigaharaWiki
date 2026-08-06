@@ -2,24 +2,36 @@
 
 [English version](../../en/commanders/eastern/tokugawa-ieyasu.md)
 
-![徳川家康隊の旗印](../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image width="25%" }
-<p class="image-caption">徳川家康隊の旗印</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## ゲーム内データ
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../assets/images/flags/tokugawa-ieyasu.png" alt="徳川家康隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">徳川家康隊の旗印</p>
+</div>
 
-| 項目 | 値 |
-|---|---:|
-| 軍 | 東軍 |
-| 区分 | 関ヶ原基本武将 |
-| 兵数 | 30,000 |
-| 開始士気 | 108 |
-| 攻撃 | 74 |
-| 防御 | 92 |
-| 積極性 | 62 |
-| 忠誠 | 100 |
-| 躊躇 | 16 |
-| 統率 | 94 |
-| 指揮信頼 | 98 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>ゲーム内データ</h2>
+<table>
+  <thead>
+    <tr><th>項目</th><th>値</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>軍</td><td>東軍</td></tr>
+    <tr><td>区分</td><td>関ヶ原基本武将</td></tr>
+    <tr><td>兵数</td><td>30,000</td></tr>
+    <tr><td>開始士気</td><td>108</td></tr>
+    <tr><td>攻撃</td><td>74</td></tr>
+    <tr><td>防御</td><td>92</td></tr>
+    <tr><td>積極性</td><td>62</td></tr>
+    <tr><td>忠誠</td><td>100</td></tr>
+    <tr><td>躊躇</td><td>16</td></tr>
+    <tr><td>統率</td><td>94</td></tr>
+    <tr><td>指揮信頼</td><td>98</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## ゲーム内での特徴
 

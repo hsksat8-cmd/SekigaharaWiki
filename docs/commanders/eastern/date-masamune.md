@@ -2,24 +2,36 @@
 
 [English version](../../en/commanders/eastern/date-masamune.md)
 
-![伊達政宗隊の旗印](../../assets/images/flags/date-masamune.png){ .wiki-image width="25%" }
-<p class="image-caption">伊達政宗隊の旗印</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## ゲーム内データ
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../assets/images/flags/date-masamune.png" alt="伊達政宗隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">伊達政宗隊の旗印</p>
+</div>
 
-| 項目 | 値 |
-|---|---:|
-| 軍 | 東軍 |
-| 区分 | 架空拡張マップ追加武将 |
-| 兵数 | 17,000 |
-| 開始士気 | 105 |
-| 攻撃 | 86 |
-| 防御 | 76 |
-| 積極性 | 88 |
-| 忠誠 | 76 |
-| 躊躇 | 14 |
-| 統率 | 80 |
-| 指揮信頼 | 84 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>ゲーム内データ</h2>
+<table>
+  <thead>
+    <tr><th>項目</th><th>値</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>軍</td><td>東軍</td></tr>
+    <tr><td>区分</td><td>架空拡張マップ追加武将</td></tr>
+    <tr><td>兵数</td><td>17,000</td></tr>
+    <tr><td>開始士気</td><td>105</td></tr>
+    <tr><td>攻撃</td><td>86</td></tr>
+    <tr><td>防御</td><td>76</td></tr>
+    <tr><td>積極性</td><td>88</td></tr>
+    <tr><td>忠誠</td><td>76</td></tr>
+    <tr><td>躊躇</td><td>14</td></tr>
+    <tr><td>統率</td><td>80</td></tr>
+    <tr><td>指揮信頼</td><td>84</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## ゲーム内での特徴
 

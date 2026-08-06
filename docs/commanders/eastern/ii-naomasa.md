@@ -2,24 +2,36 @@
 
 [English version](../../en/commanders/eastern/ii-naomasa.md)
 
-![井伊直政隊の旗印](../../assets/images/flags/ii-naomasa.png){ .wiki-image width="25%" }
-<p class="image-caption">井伊直政隊の旗印</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## ゲーム内データ
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../assets/images/flags/ii-naomasa.png" alt="井伊直政隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">井伊直政隊の旗印</p>
+</div>
 
-| 項目 | 値 |
-|---|---:|
-| 軍 | 東軍 |
-| 区分 | 関ヶ原基本武将 |
-| 兵数 | 3,600 |
-| 開始士気 | 105 |
-| 攻撃 | 90 |
-| 防御 | 68 |
-| 積極性 | 94 |
-| 忠誠 | 92 |
-| 躊躇 | 8 |
-| 統率 | 76 |
-| 指揮信頼 | 82 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>ゲーム内データ</h2>
+<table>
+  <thead>
+    <tr><th>項目</th><th>値</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>軍</td><td>東軍</td></tr>
+    <tr><td>区分</td><td>関ヶ原基本武将</td></tr>
+    <tr><td>兵数</td><td>3,600</td></tr>
+    <tr><td>開始士気</td><td>105</td></tr>
+    <tr><td>攻撃</td><td>90</td></tr>
+    <tr><td>防御</td><td>68</td></tr>
+    <tr><td>積極性</td><td>94</td></tr>
+    <tr><td>忠誠</td><td>92</td></tr>
+    <tr><td>躊躇</td><td>8</td></tr>
+    <tr><td>統率</td><td>76</td></tr>
+    <tr><td>指揮信頼</td><td>82</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## ゲーム内での特徴
 
