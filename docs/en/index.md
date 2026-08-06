@@ -8,7 +8,7 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 [View on Microsoft Store](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=en-us&gl=US){ .md-button .md-button--primary }
 [Development posts on X](https://x.com/IFHistorySim){ .md-button }
 [Watch on YouTube](https://www.youtube.com/@IFHistorySim){ .md-button }
-[日本語版](../){ .md-button }
+[日本語版](../index.md){ .md-button }
 
 </div>
 
@@ -42,6 +42,7 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 - [Observation and Real-Time Subtitles](gameplay/observation.md)
 - [Sub-Scenarios](gameplay/subscenarios.md)
 - [Results and Rankings](gameplay/results-and-rankings.md)
+- [Commander List](commanders/index.md)
 - [Scenario List](scenarios/index.md)
 - [Formation Overview](formations/index.md)
 - [Image Gallery](reference/gallery.md)

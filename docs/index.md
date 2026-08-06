@@ -8,7 +8,7 @@
 [Microsoft Storeで見る](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=ja-jp&gl=JP){ .md-button .md-button--primary }
 [Xの開発記録を見る](https://x.com/IFHistorySim){ .md-button }
 [YouTubeを見る](https://www.youtube.com/@IFHistorySim){ .md-button }
-[English](en/){ .md-button }
+[English](en/index.md){ .md-button }
 
 </div>
 
@@ -42,6 +42,7 @@
 - [観戦とリアルタイム字幕](gameplay/observation.md)
 - [サブシナリオ](gameplay/subscenarios.md)
 - [戦績とランキング](gameplay/results-and-rankings.md)
+- [武将一覧](commanders/index.md)
 - [シナリオ一覧](scenarios/index.md)
 - [陣形の概要](formations/index.md)
 - [画像ギャラリー](reference/gallery.md)
