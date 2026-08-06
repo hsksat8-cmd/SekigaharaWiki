@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/hiratsuka-tamehiro.md)
 
-![Banner of Hiratsuka Tamehiro's unit](../../../assets/images/flags/hiratsuka-tamehiro.png){ .wiki-image }
+![Banner of Hiratsuka Tamehiro's unit](../../../assets/images/flags/hiratsuka-tamehiro.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

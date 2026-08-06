@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/nabeshima-naoshige.md)
 
-![Banner of Nabeshima Naoshige's unit](../../../assets/images/flags/nabeshima-naoshige.png){ .wiki-image }
+![Banner of Nabeshima Naoshige's unit](../../../assets/images/flags/nabeshima-naoshige.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

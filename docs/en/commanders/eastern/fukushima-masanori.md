@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/fukushima-masanori.md)
 
-![Banner of Fukushima Masanori's unit](../../../assets/images/flags/fukushima-masanori.png){ .wiki-image }
+![Banner of Fukushima Masanori's unit](../../../assets/images/flags/fukushima-masanori.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

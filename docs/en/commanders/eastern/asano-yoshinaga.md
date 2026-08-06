@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/asano-yoshinaga.md)
 
-![Banner of Asano Yoshinaga's unit](../../../assets/images/flags/asano-yoshinaga.png){ .wiki-image }
+![Banner of Asano Yoshinaga's unit](../../../assets/images/flags/asano-yoshinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

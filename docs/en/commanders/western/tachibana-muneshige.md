@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/tachibana-muneshige.md)
 
-![Banner of Tachibana Muneshige's unit](../../../assets/images/flags/tachibana-muneshige.png){ .wiki-image }
+![Banner of Tachibana Muneshige's unit](../../../assets/images/flags/tachibana-muneshige.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

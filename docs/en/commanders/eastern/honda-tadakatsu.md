@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/honda-tadakatsu.md)
 
-![Banner of Honda Tadakatsu's unit](../../../assets/images/flags/honda-tadakatsu.png){ .wiki-image }
+![Banner of Honda Tadakatsu's unit](../../../assets/images/flags/honda-tadakatsu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

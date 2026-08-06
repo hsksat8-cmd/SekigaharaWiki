@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/kato-kiyomasa.md)
 
-![Banner of Kato Kiyomasa's unit](../../../assets/images/flags/kato-kiyomasa.png){ .wiki-image }
+![Banner of Kato Kiyomasa's unit](../../../assets/images/flags/kato-kiyomasa.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

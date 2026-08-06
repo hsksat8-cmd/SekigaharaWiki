@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/kobayakawa-hideaki.md)
 
-![Banner of Kobayakawa Hideaki's unit](../../../assets/images/flags/kobayakawa-hideaki.png){ .wiki-image }
+![Banner of Kobayakawa Hideaki's unit](../../../assets/images/flags/kobayakawa-hideaki.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

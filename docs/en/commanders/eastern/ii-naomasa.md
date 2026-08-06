@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/ii-naomasa.md)
 
-![Banner of Ii Naomasa's unit](../../../assets/images/flags/ii-naomasa.png){ .wiki-image }
+![Banner of Ii Naomasa's unit](../../../assets/images/flags/ii-naomasa.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/todo-takatora.md)
 
-![Banner of Todo Takatora's unit](../../../assets/images/flags/todo-takatora.png){ .wiki-image }
+![Banner of Todo Takatora's unit](../../../assets/images/flags/todo-takatora.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/akaza-naoyasu.md)
 
-![Banner of Akaza Naoyasu's unit](../../../assets/images/flags/akaza-naoyasu.png){ .wiki-image }
+![Banner of Akaza Naoyasu's unit](../../../assets/images/flags/akaza-naoyasu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

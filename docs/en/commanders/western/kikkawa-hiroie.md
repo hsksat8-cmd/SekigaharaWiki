@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/kikkawa-hiroie.md)
 
-![Banner of Kikkawa Hiroie's unit](../../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image }
+![Banner of Kikkawa Hiroie's unit](../../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/kutsuki-mototsuna.md)
 
-![Banner of Kutsuki Mototsuna's unit](../../../assets/images/flags/kutsuki-mototsuna.png){ .wiki-image }
+![Banner of Kutsuki Mototsuna's unit](../../../assets/images/flags/kutsuki-mototsuna.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

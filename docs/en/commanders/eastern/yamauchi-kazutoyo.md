@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/yamauchi-kazutoyo.md)
 
-![Banner of Yamauchi Kazutoyo's unit](../../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image }
+![Banner of Yamauchi Kazutoyo's unit](../../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

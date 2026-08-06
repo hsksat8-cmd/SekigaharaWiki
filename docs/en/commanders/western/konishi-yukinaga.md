@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/konishi-yukinaga.md)
 
-![Banner of Konishi Yukinaga's unit](../../../assets/images/flags/konishi-yukinaga.png){ .wiki-image }
+![Banner of Konishi Yukinaga's unit](../../../assets/images/flags/konishi-yukinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

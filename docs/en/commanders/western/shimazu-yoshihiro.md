@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/shimazu-yoshihiro.md)
 
-![Banner of Shimazu Yoshihiro's unit](../../../assets/images/flags/shimazu-yoshihiro.png){ .wiki-image }
+![Banner of Shimazu Yoshihiro's unit](../../../assets/images/flags/shimazu-yoshihiro.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

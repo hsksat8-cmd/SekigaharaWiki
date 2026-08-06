@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/kyogoku-takatomo.md)
 
-![Banner of Kyogoku Takatomo's unit](../../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image }
+![Banner of Kyogoku Takatomo's unit](../../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/toda-shigemasa.md)
 
-![Banner of Toda Shigemasa's unit](../../../assets/images/flags/toda-shigemasa.png){ .wiki-image }
+![Banner of Toda Shigemasa's unit](../../../assets/images/flags/toda-shigemasa.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

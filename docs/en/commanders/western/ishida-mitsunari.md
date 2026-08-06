@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/ishida-mitsunari.md)
 
-![Banner of Ishida Mitsunari's unit](../../../assets/images/flags/ishida-mitsunari.png){ .wiki-image }
+![Banner of Ishida Mitsunari's unit](../../../assets/images/flags/ishida-mitsunari.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/tokugawa-ieyasu.md)
 
-![Banner of Tokugawa Ieyasu's unit](../../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image }
+![Banner of Tokugawa Ieyasu's unit](../../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

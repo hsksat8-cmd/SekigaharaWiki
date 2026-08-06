@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/uesugi-kagekatsu.md)
 
-![Banner of Uesugi Kagekatsu's unit](../../../assets/images/flags/uesugi-kagekatsu.png){ .wiki-image }
+![Banner of Uesugi Kagekatsu's unit](../../../assets/images/flags/uesugi-kagekatsu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

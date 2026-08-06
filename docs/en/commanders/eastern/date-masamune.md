@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/date-masamune.md)
 
-![Banner of Date Masamune's unit](../../../assets/images/flags/date-masamune.png){ .wiki-image }
+![Banner of Date Masamune's unit](../../../assets/images/flags/date-masamune.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

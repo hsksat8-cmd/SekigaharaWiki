@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/chosokabe-morichika.md)
 
-![Banner of Chosokabe Morichika's unit](../../../assets/images/flags/chosokabe-morichika.png){ .wiki-image }
+![Banner of Chosokabe Morichika's unit](../../../assets/images/flags/chosokabe-morichika.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

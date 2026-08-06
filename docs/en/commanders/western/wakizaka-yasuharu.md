@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/wakizaka-yasuharu.md)
 
-![Banner of Wakizaka Yasuharu's unit](../../../assets/images/flags/wakizaka-yasuharu.png){ .wiki-image }
+![Banner of Wakizaka Yasuharu's unit](../../../assets/images/flags/wakizaka-yasuharu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

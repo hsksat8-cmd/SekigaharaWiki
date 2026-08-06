@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/ukita-hideie.md)
 
-![Banner of Ukita Hideie's unit](../../../assets/images/flags/ukita-hideie.png){ .wiki-image }
+![Banner of Ukita Hideie's unit](../../../assets/images/flags/ukita-hideie.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

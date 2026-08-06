@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/mori-hidemoto.md)
 
-![Banner of Mori Hidemoto's unit](../../../assets/images/flags/mori-hidemoto.png){ .wiki-image }
+![Banner of Mori Hidemoto's unit](../../../assets/images/flags/mori-hidemoto.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

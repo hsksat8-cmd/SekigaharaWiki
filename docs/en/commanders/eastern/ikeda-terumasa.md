@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/ikeda-terumasa.md)
 
-![Banner of Ikeda Terumasa's unit](../../../assets/images/flags/ikeda-terumasa.png){ .wiki-image }
+![Banner of Ikeda Terumasa's unit](../../../assets/images/flags/ikeda-terumasa.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/satake-yoshinobu.md)
 
-![Banner of Satake Yoshinobu's unit](../../../assets/images/flags/satake-yoshinobu.png){ .wiki-image }
+![Banner of Satake Yoshinobu's unit](../../../assets/images/flags/satake-yoshinobu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

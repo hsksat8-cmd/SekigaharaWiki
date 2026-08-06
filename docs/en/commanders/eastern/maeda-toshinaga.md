@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/maeda-toshinaga.md)
 
-![Banner of Maeda Toshinaga's unit](../../../assets/images/flags/maeda-toshinaga.png){ .wiki-image }
+![Banner of Maeda Toshinaga's unit](../../../assets/images/flags/maeda-toshinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/hosokawa-tadaoki.md)
 
-![Banner of Hosokawa Tadaoki's unit](../../../assets/images/flags/hosokawa-tadaoki.png){ .wiki-image }
+![Banner of Hosokawa Tadaoki's unit](../../../assets/images/flags/hosokawa-tadaoki.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

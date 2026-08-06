@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/eastern/kuroda-nagamasa.md)
 
-![Banner of Kuroda Nagamasa's unit](../../../assets/images/flags/kuroda-nagamasa.png){ .wiki-image }
+![Banner of Kuroda Nagamasa's unit](../../../assets/images/flags/kuroda-nagamasa.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

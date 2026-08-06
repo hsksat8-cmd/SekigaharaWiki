@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/otani-yoshitsugu.md)
 
-![Banner of Otani Yoshitsugu's unit](../../../assets/images/flags/otani-yoshitsugu.png){ .wiki-image }
+![Banner of Otani Yoshitsugu's unit](../../../assets/images/flags/otani-yoshitsugu.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

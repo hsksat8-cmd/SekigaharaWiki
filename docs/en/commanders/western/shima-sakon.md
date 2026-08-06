@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/shima-sakon.md)
 
-![Banner of Shima Sakon's unit](../../../assets/images/flags/shima-sakon.png){ .wiki-image }
+![Banner of Shima Sakon's unit](../../../assets/images/flags/shima-sakon.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data

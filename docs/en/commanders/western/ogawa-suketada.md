@@ -2,7 +2,7 @@
 
 [日本語版](../../../commanders/western/ogawa-suketada.md)
 
-![Banner of Ogawa Suketada's unit](../../../assets/images/flags/ogawa-suketada.png){ .wiki-image }
+![Banner of Ogawa Suketada's unit](../../../assets/images/flags/ogawa-suketada.png){ .wiki-image width="25%" }
 <p class="image-caption">Unit banner</p>
 
 ## In-Game Data
