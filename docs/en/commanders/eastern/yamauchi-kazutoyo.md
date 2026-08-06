@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../assets/images/flags/yamauchi-kazutoyo.png" alt="Banner of Yamauchi Kazutoyo&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/yamauchi-kazutoyo.png" alt="Banner of Yamauchi Kazutoyo&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
