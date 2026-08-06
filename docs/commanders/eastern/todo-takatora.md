@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../assets/images/flags/todo-takatora.png" alt="藤堂高虎隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../assets/images/flags/todo-takatora.png" alt="藤堂高虎隊の旗印" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">藤堂高虎隊の旗印</p>
 </div>
 
