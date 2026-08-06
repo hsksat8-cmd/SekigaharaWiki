@@ -189,9 +189,6 @@ nav:
           - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
           - Fully Random: en/scenarios/random.md
           - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
-      - Experiments:
-          - Method: en/experiments/index.md
-          - Deep vs. Square: en/experiments/deep-vs-square.md
       - Updates:
           - History: en/updates/index.md
           - Version 2.2.0: en/updates/v2.2.0.md
