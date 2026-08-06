@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/satake-yoshinobu.md)
 
-![Banner of Satake Yoshinobu's unit](../../../assets/images/flags/satake-yoshinobu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/satake-yoshinobu.png" alt="Banner of Satake Yoshinobu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Additional commander for the fictional expanded map |
-| Troops | 12,000 |
-| Starting morale | 98 |
-| Attack | 66 |
-| Defense | 76 |
-| Aggressiveness | 42 |
-| Loyalty | 72 |
-| Hesitation | 48 |
-| Leadership | 80 |
-| Command confidence | 68 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Troops</td><td>12,000</td></tr>
+    <tr><td>Starting morale</td><td>98</td></tr>
+    <tr><td>Attack</td><td>66</td></tr>
+    <tr><td>Defense</td><td>76</td></tr>
+    <tr><td>Aggressiveness</td><td>42</td></tr>
+    <tr><td>Loyalty</td><td>72</td></tr>
+    <tr><td>Hesitation</td><td>48</td></tr>
+    <tr><td>Leadership</td><td>80</td></tr>
+    <tr><td>Command confidence</td><td>68</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

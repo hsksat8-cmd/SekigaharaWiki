@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/eastern/kato-kiyomasa.md)
 
-![Banner of Kato Kiyomasa's unit](../../../assets/images/flags/kato-kiyomasa.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/kato-kiyomasa.png" alt="Banner of Kato Kiyomasa&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Eastern Army |
-| Category | Additional commander for the fictional expanded map |
-| Troops | 10,000 |
-| Starting morale | 107 |
-| Attack | 92 |
-| Defense | 78 |
-| Aggressiveness | 92 |
-| Loyalty | 88 |
-| Hesitation | 8 |
-| Leadership | 78 |
-| Command confidence | 80 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Eastern Army</td></tr>
+    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Troops</td><td>10,000</td></tr>
+    <tr><td>Starting morale</td><td>107</td></tr>
+    <tr><td>Attack</td><td>92</td></tr>
+    <tr><td>Defense</td><td>78</td></tr>
+    <tr><td>Aggressiveness</td><td>92</td></tr>
+    <tr><td>Loyalty</td><td>88</td></tr>
+    <tr><td>Hesitation</td><td>8</td></tr>
+    <tr><td>Leadership</td><td>78</td></tr>
+    <tr><td>Command confidence</td><td>80</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

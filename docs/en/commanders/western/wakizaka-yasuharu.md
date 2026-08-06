@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/wakizaka-yasuharu.md)
 
-![Banner of Wakizaka Yasuharu's unit](../../../assets/images/flags/wakizaka-yasuharu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/wakizaka-yasuharu.png" alt="Banner of Wakizaka Yasuharu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 1,000 |
-| Starting morale | 90 |
-| Attack | 58 |
-| Defense | 54 |
-| Aggressiveness | 34 |
-| Loyalty | 40 |
-| Hesitation | 74 |
-| Leadership | 52 |
-| Command confidence | 38 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>1,000</td></tr>
+    <tr><td>Starting morale</td><td>90</td></tr>
+    <tr><td>Attack</td><td>58</td></tr>
+    <tr><td>Defense</td><td>54</td></tr>
+    <tr><td>Aggressiveness</td><td>34</td></tr>
+    <tr><td>Loyalty</td><td>40</td></tr>
+    <tr><td>Hesitation</td><td>74</td></tr>
+    <tr><td>Leadership</td><td>52</td></tr>
+    <tr><td>Command confidence</td><td>38</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

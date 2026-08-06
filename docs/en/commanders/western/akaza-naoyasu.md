@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/akaza-naoyasu.md)
 
-![Banner of Akaza Naoyasu's unit](../../../assets/images/flags/akaza-naoyasu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/akaza-naoyasu.png" alt="Banner of Akaza Naoyasu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 600 |
-| Starting morale | 89 |
-| Attack | 52 |
-| Defense | 50 |
-| Aggressiveness | 30 |
-| Loyalty | 36 |
-| Hesitation | 78 |
-| Leadership | 46 |
-| Command confidence | 34 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>600</td></tr>
+    <tr><td>Starting morale</td><td>89</td></tr>
+    <tr><td>Attack</td><td>52</td></tr>
+    <tr><td>Defense</td><td>50</td></tr>
+    <tr><td>Aggressiveness</td><td>30</td></tr>
+    <tr><td>Loyalty</td><td>36</td></tr>
+    <tr><td>Hesitation</td><td>78</td></tr>
+    <tr><td>Leadership</td><td>46</td></tr>
+    <tr><td>Command confidence</td><td>34</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

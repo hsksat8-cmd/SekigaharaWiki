@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/tachibana-muneshige.md)
 
-![Banner of Tachibana Muneshige's unit](../../../assets/images/flags/tachibana-muneshige.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/tachibana-muneshige.png" alt="Banner of Tachibana Muneshige&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Additional commander for the fictional expanded map |
-| Troops | 4,000 |
-| Starting morale | 109 |
-| Attack | 92 |
-| Defense | 84 |
-| Aggressiveness | 82 |
-| Loyalty | 92 |
-| Hesitation | 8 |
-| Leadership | 90 |
-| Command confidence | 88 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Troops</td><td>4,000</td></tr>
+    <tr><td>Starting morale</td><td>109</td></tr>
+    <tr><td>Attack</td><td>92</td></tr>
+    <tr><td>Defense</td><td>84</td></tr>
+    <tr><td>Aggressiveness</td><td>82</td></tr>
+    <tr><td>Loyalty</td><td>92</td></tr>
+    <tr><td>Hesitation</td><td>8</td></tr>
+    <tr><td>Leadership</td><td>90</td></tr>
+    <tr><td>Command confidence</td><td>88</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

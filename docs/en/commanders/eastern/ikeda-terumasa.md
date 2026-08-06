@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/eastern/ikeda-terumasa.md)
 
-![Banner of Ikeda Terumasa's unit](../../../assets/images/flags/ikeda-terumasa.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/ikeda-terumasa.png" alt="Banner of Ikeda Terumasa&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Eastern Army |
-| Category | Additional commander for the fictional expanded map |
-| Troops | 4,500 |
-| Starting morale | 98 |
-| Attack | 68 |
-| Defense | 72 |
-| Aggressiveness | 56 |
-| Loyalty | 82 |
-| Hesitation | 32 |
-| Leadership | 74 |
-| Command confidence | 76 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Eastern Army</td></tr>
+    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Troops</td><td>4,500</td></tr>
+    <tr><td>Starting morale</td><td>98</td></tr>
+    <tr><td>Attack</td><td>68</td></tr>
+    <tr><td>Defense</td><td>72</td></tr>
+    <tr><td>Aggressiveness</td><td>56</td></tr>
+    <tr><td>Loyalty</td><td>82</td></tr>
+    <tr><td>Hesitation</td><td>32</td></tr>
+    <tr><td>Leadership</td><td>74</td></tr>
+    <tr><td>Command confidence</td><td>76</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

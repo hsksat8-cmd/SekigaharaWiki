@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/uesugi-kagekatsu.md)
 
-![Banner of Uesugi Kagekatsu's unit](../../../assets/images/flags/uesugi-kagekatsu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/uesugi-kagekatsu.png" alt="Banner of Uesugi Kagekatsu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Additional commander for the fictional expanded map |
-| Troops | 16,000 |
-| Starting morale | 104 |
-| Attack | 80 |
-| Defense | 86 |
-| Aggressiveness | 68 |
-| Loyalty | 88 |
-| Hesitation | 22 |
-| Leadership | 86 |
-| Command confidence | 84 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Troops</td><td>16,000</td></tr>
+    <tr><td>Starting morale</td><td>104</td></tr>
+    <tr><td>Attack</td><td>80</td></tr>
+    <tr><td>Defense</td><td>86</td></tr>
+    <tr><td>Aggressiveness</td><td>68</td></tr>
+    <tr><td>Loyalty</td><td>88</td></tr>
+    <tr><td>Hesitation</td><td>22</td></tr>
+    <tr><td>Leadership</td><td>86</td></tr>
+    <tr><td>Command confidence</td><td>84</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

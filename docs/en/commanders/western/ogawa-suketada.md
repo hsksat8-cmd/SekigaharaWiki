@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/ogawa-suketada.md)
 
-![Banner of Ogawa Suketada's unit](../../../assets/images/flags/ogawa-suketada.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/ogawa-suketada.png" alt="Banner of Ogawa Suketada&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 2,100 |
-| Starting morale | 90 |
-| Attack | 56 |
-| Defense | 55 |
-| Aggressiveness | 32 |
-| Loyalty | 38 |
-| Hesitation | 76 |
-| Leadership | 50 |
-| Command confidence | 36 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>2,100</td></tr>
+    <tr><td>Starting morale</td><td>90</td></tr>
+    <tr><td>Attack</td><td>56</td></tr>
+    <tr><td>Defense</td><td>55</td></tr>
+    <tr><td>Aggressiveness</td><td>32</td></tr>
+    <tr><td>Loyalty</td><td>38</td></tr>
+    <tr><td>Hesitation</td><td>76</td></tr>
+    <tr><td>Leadership</td><td>50</td></tr>
+    <tr><td>Command confidence</td><td>36</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

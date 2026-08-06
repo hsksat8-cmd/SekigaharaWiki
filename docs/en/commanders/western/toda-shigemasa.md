@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/toda-shigemasa.md)
 
-![Banner of Toda Shigemasa's unit](../../../assets/images/flags/toda-shigemasa.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/toda-shigemasa.png" alt="Banner of Toda Shigemasa&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 1,500 |
-| Starting morale | 101 |
-| Attack | 72 |
-| Defense | 72 |
-| Aggressiveness | 66 |
-| Loyalty | 92 |
-| Hesitation | 20 |
-| Leadership | 76 |
-| Command confidence | 76 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>1,500</td></tr>
+    <tr><td>Starting morale</td><td>101</td></tr>
+    <tr><td>Attack</td><td>72</td></tr>
+    <tr><td>Defense</td><td>72</td></tr>
+    <tr><td>Aggressiveness</td><td>66</td></tr>
+    <tr><td>Loyalty</td><td>92</td></tr>
+    <tr><td>Hesitation</td><td>20</td></tr>
+    <tr><td>Leadership</td><td>76</td></tr>
+    <tr><td>Command confidence</td><td>76</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/eastern/hosokawa-tadaoki.md)
 
-![Banner of Hosokawa Tadaoki's unit](../../../assets/images/flags/hosokawa-tadaoki.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/hosokawa-tadaoki.png" alt="Banner of Hosokawa Tadaoki&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Eastern Army |
-| Category | Core Sekigahara commander |
-| Troops | 5,000 |
-| Starting morale | 103 |
-| Attack | 78 |
-| Defense | 76 |
-| Aggressiveness | 74 |
-| Loyalty | 84 |
-| Hesitation | 18 |
-| Leadership | 82 |
-| Command confidence | 80 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Eastern Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>5,000</td></tr>
+    <tr><td>Starting morale</td><td>103</td></tr>
+    <tr><td>Attack</td><td>78</td></tr>
+    <tr><td>Defense</td><td>76</td></tr>
+    <tr><td>Aggressiveness</td><td>74</td></tr>
+    <tr><td>Loyalty</td><td>84</td></tr>
+    <tr><td>Hesitation</td><td>18</td></tr>
+    <tr><td>Leadership</td><td>82</td></tr>
+    <tr><td>Command confidence</td><td>80</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/eastern/tokugawa-ieyasu.md)
 
-![Banner of Tokugawa Ieyasu's unit](../../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/tokugawa-ieyasu.png" alt="Banner of Tokugawa Ieyasu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Eastern Army |
-| Category | Core Sekigahara commander |
-| Troops | 30,000 |
-| Starting morale | 108 |
-| Attack | 74 |
-| Defense | 92 |
-| Aggressiveness | 62 |
-| Loyalty | 100 |
-| Hesitation | 16 |
-| Leadership | 94 |
-| Command confidence | 98 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Eastern Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>30,000</td></tr>
+    <tr><td>Starting morale</td><td>108</td></tr>
+    <tr><td>Attack</td><td>74</td></tr>
+    <tr><td>Defense</td><td>92</td></tr>
+    <tr><td>Aggressiveness</td><td>62</td></tr>
+    <tr><td>Loyalty</td><td>100</td></tr>
+    <tr><td>Hesitation</td><td>16</td></tr>
+    <tr><td>Leadership</td><td>94</td></tr>
+    <tr><td>Command confidence</td><td>98</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

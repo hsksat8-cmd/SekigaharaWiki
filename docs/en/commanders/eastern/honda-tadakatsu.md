@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/eastern/honda-tadakatsu.md)
 
-![Banner of Honda Tadakatsu's unit](../../../assets/images/flags/honda-tadakatsu.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/honda-tadakatsu.png" alt="Banner of Honda Tadakatsu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Eastern Army |
-| Category | Core Sekigahara commander |
-| Troops | 500 |
-| Starting morale | 111 |
-| Attack | 96 |
-| Defense | 90 |
-| Aggressiveness | 76 |
-| Loyalty | 96 |
-| Hesitation | 8 |
-| Leadership | 96 |
-| Command confidence | 90 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Eastern Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>500</td></tr>
+    <tr><td>Starting morale</td><td>111</td></tr>
+    <tr><td>Attack</td><td>96</td></tr>
+    <tr><td>Defense</td><td>90</td></tr>
+    <tr><td>Aggressiveness</td><td>76</td></tr>
+    <tr><td>Loyalty</td><td>96</td></tr>
+    <tr><td>Hesitation</td><td>8</td></tr>
+    <tr><td>Leadership</td><td>96</td></tr>
+    <tr><td>Command confidence</td><td>90</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

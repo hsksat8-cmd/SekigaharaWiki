@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/hiratsuka-tamehiro.md)
 
-![Banner of Hiratsuka Tamehiro's unit](../../../assets/images/flags/hiratsuka-tamehiro.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/hiratsuka-tamehiro.png" alt="Banner of Hiratsuka Tamehiro&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 1,500 |
-| Starting morale | 105 |
-| Attack | 84 |
-| Defense | 78 |
-| Aggressiveness | 80 |
-| Loyalty | 96 |
-| Hesitation | 12 |
-| Leadership | 82 |
-| Command confidence | 80 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>1,500</td></tr>
+    <tr><td>Starting morale</td><td>105</td></tr>
+    <tr><td>Attack</td><td>84</td></tr>
+    <tr><td>Defense</td><td>78</td></tr>
+    <tr><td>Aggressiveness</td><td>80</td></tr>
+    <tr><td>Loyalty</td><td>96</td></tr>
+    <tr><td>Hesitation</td><td>12</td></tr>
+    <tr><td>Leadership</td><td>82</td></tr>
+    <tr><td>Command confidence</td><td>80</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 

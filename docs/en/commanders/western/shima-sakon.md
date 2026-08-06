@@ -2,24 +2,36 @@
 
 [日本語版](../../../commanders/western/shima-sakon.md)
 
-![Banner of Shima Sakon's unit](../../../assets/images/flags/shima-sakon.png){ .wiki-image width="25%" }
-<p class="image-caption">Unit banner</p>
+<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-## In-Game Data
+<div class="commander-flag" style="flex:0 0 220px; text-align:center;">
+  <img src="../../../assets/images/flags/shima-sakon.png" alt="Banner of Shima Sakon&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <p class="image-caption">Unit banner</p>
+</div>
 
-| Attribute | Value |
-|---|---:|
-| Army | Western Army |
-| Category | Core Sekigahara commander |
-| Troops | 1,000 |
-| Starting morale | 107 |
-| Attack | 88 |
-| Defense | 74 |
-| Aggressiveness | 82 |
-| Loyalty | 92 |
-| Hesitation | 10 |
-| Leadership | 82 |
-| Command confidence | 80 |
+<div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
+  <h2>In-Game Data</h2>
+<table>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Army</td><td>Western Army</td></tr>
+    <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
+    <tr><td>Troops</td><td>1,000</td></tr>
+    <tr><td>Starting morale</td><td>107</td></tr>
+    <tr><td>Attack</td><td>88</td></tr>
+    <tr><td>Defense</td><td>74</td></tr>
+    <tr><td>Aggressiveness</td><td>82</td></tr>
+    <tr><td>Loyalty</td><td>92</td></tr>
+    <tr><td>Hesitation</td><td>10</td></tr>
+    <tr><td>Leadership</td><td>82</td></tr>
+    <tr><td>Command confidence</td><td>80</td></tr>
+  </tbody>
+</table>
+</div>
+
+</div>
 
 ## In-Game Characteristics
 
