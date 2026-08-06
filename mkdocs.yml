@@ -1,5 +1,5 @@
 site_name: 関ヶ原IF布陣シミュレータ Wiki
-site_description: 関ヶ原IF布陣シミュレータの公式仕様・戦闘システム・陣形実験・シナリオ解説
+site_description: 関ヶ原IF布陣シミュレータの公式仕様・戦闘システム・陣形・シナリオ解説
 site_url: https://hsksat8-cmd.github.io/SekigaharaWiki/
 repo_url: https://github.com/hsksat8-cmd/SekigaharaWiki
 repo_name: SekigaharaWiki
@@ -104,9 +104,6 @@ nav:
       - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
       - 完全ランダム: scenarios/random.md
       - ランダム架空大戦: scenarios/random-fictional-war.md
-  - 陣形実験:
-      - 実験方法: experiments/index.md
-      - 縦深 対 方形: experiments/deep-vs-square.md
   - 更新履歴:
       - 一覧: updates/index.md
       - Version 2.2.0: updates/v2.2.0.md

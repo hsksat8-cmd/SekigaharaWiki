@@ -2,13 +2,13 @@
 
 [日本語版](../../formations/fish-scale.md)
 
-Fish Scale concentrates pressure toward the front without becoming as narrow and deep as Deep Formation.
+A wedge-shaped attacking formation that concentrates pressure on a single point.
 
-## Characteristics
+## Best Uses
 
-- Strong against Crane Wing
-- Second-best at handling unequal force sizes
-- Not as strong as Deep in equal-size combat
-- A balanced choice when the player wants forward pressure without the extreme weakness of Deep
+- Breaking through a weakened front
+- Concentrated attacks against a flank
+- Driving into the enemy rear
+- Focusing pressure in a narrow area
 
-The archived source does not yet contain a detailed standalone Fish Scale experiment.
+Alongside Square, it is the most consistently strong formation.

@@ -2,14 +2,13 @@
 
 [日本語版](../../formations/deep.md)
 
-Deep Formation creates depth and increases pressure through the center.
+A formation with a narrow frontage and greater depth.
 
-## Characteristics
+## Best Uses
 
-- Strongest overall in equal-size combat
-- Applies heavy central pressure against Square and Flexible Square
-- Nearly equal against Crane Wing
-- Most vulnerable when force sizes differ
-- Requires caution against flanking and encirclement
+- Entering narrow breakthrough points
+- Concentrating on gaps in the enemy line
+- Breaking through the center of a Crane Wing formation
+- Exploiting gaps between friendly units
 
-In controlled experiments, Deep repeatedly pushed through the center, split the opposing Square Formation, and defeated the separated sections in detail.
+It is vulnerable to being flanked by broad-front formations such as Square and Fish Scale.

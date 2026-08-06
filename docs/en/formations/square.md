@@ -2,11 +2,12 @@
 
 [日本語版](../../formations/square.md)
 
-The Square Formation is a basic formation designed to preserve cohesion.
+A basic formation for frontal combat. Its width and depth are relatively even, making losses less likely to become concentrated in one area.
 
-## Characteristics
+## Best Uses
 
-- Maintained for up to 50 turns or until contact with the enemy
-- Stronger than Flexible Square
-- Disadvantaged against Deep in equal-size combat
-- Useful in crowded initial deployments where coordinated movement is important
+- Holding the main enemy force head-on
+- Maintaining a broad front
+- Stable frontal combat
+
+It has the best overall performance.

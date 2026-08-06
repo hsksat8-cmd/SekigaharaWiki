@@ -42,5 +42,3 @@
 
 ![Version 2.2.0の陣形例](../assets/images/v2-2-0-formations-example.jpg){ .wiki-image }
 <p class="image-caption">5種類の陣形が追加されたVersion 2.2.0の例</p>
-
-[元投稿を見る](https://x.com/IFHistorySim/status/2083138779175628919)
