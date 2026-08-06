@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/kobayakawa-hideaki.md)
 
-![小早川秀秋隊の旗印](../../assets/images/flags/kobayakawa-hideaki.png){ .wiki-image }
+![小早川秀秋隊の旗印](../../assets/images/flags/kobayakawa-hideaki.png){ .wiki-image width="25%" }
 <p class="image-caption">小早川秀秋隊の旗印</p>
 
 ## ゲーム内データ

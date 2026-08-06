@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/otani-yoshitsugu.md)
 
-![大谷吉継隊の旗印](../../assets/images/flags/otani-yoshitsugu.png){ .wiki-image }
+![大谷吉継隊の旗印](../../assets/images/flags/otani-yoshitsugu.png){ .wiki-image width="25%" }
 <p class="image-caption">大谷吉継隊の旗印</p>
 
 ## ゲーム内データ

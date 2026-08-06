@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/kyogoku-takatomo.md)
 
-![京極高知隊の旗印](../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image }
+![京極高知隊の旗印](../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image width="25%" }
 <p class="image-caption">京極高知隊の旗印</p>
 
 ## ゲーム内データ

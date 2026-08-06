@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/chosokabe-morichika.md)
 
-![長宗我部盛親隊の旗印](../../assets/images/flags/chosokabe-morichika.png){ .wiki-image }
+![長宗我部盛親隊の旗印](../../assets/images/flags/chosokabe-morichika.png){ .wiki-image width="25%" }
 <p class="image-caption">長宗我部盛親隊の旗印</p>
 
 ## ゲーム内データ

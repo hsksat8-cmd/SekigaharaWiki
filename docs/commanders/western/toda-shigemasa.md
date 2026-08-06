@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/toda-shigemasa.md)
 
-![戸田重政隊の旗印](../../assets/images/flags/toda-shigemasa.png){ .wiki-image }
+![戸田重政隊の旗印](../../assets/images/flags/toda-shigemasa.png){ .wiki-image width="25%" }
 <p class="image-caption">戸田重政隊の旗印</p>
 
 ## ゲーム内データ

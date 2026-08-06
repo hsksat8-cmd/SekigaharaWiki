@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/konishi-yukinaga.md)
 
-![小西行長隊の旗印](../../assets/images/flags/konishi-yukinaga.png){ .wiki-image }
+![小西行長隊の旗印](../../assets/images/flags/konishi-yukinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">小西行長隊の旗印</p>
 
 ## ゲーム内データ

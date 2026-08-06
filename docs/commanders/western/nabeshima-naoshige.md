@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/nabeshima-naoshige.md)
 
-![鍋島直茂隊の旗印](../../assets/images/flags/nabeshima-naoshige.png){ .wiki-image }
+![鍋島直茂隊の旗印](../../assets/images/flags/nabeshima-naoshige.png){ .wiki-image width="25%" }
 <p class="image-caption">鍋島直茂隊の旗印</p>
 
 ## ゲーム内データ

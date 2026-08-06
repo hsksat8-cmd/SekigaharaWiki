@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/hosokawa-tadaoki.md)
 
-![細川忠興隊の旗印](../../assets/images/flags/hosokawa-tadaoki.png){ .wiki-image }
+![細川忠興隊の旗印](../../assets/images/flags/hosokawa-tadaoki.png){ .wiki-image width="25%" }
 <p class="image-caption">細川忠興隊の旗印</p>
 
 ## ゲーム内データ

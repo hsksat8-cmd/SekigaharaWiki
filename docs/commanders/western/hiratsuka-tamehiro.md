@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/hiratsuka-tamehiro.md)
 
-![平塚為広隊の旗印](../../assets/images/flags/hiratsuka-tamehiro.png){ .wiki-image }
+![平塚為広隊の旗印](../../assets/images/flags/hiratsuka-tamehiro.png){ .wiki-image width="25%" }
 <p class="image-caption">平塚為広隊の旗印</p>
 
 ## ゲーム内データ

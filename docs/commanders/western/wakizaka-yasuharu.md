@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/wakizaka-yasuharu.md)
 
-![脇坂安治隊の旗印](../../assets/images/flags/wakizaka-yasuharu.png){ .wiki-image }
+![脇坂安治隊の旗印](../../assets/images/flags/wakizaka-yasuharu.png){ .wiki-image width="25%" }
 <p class="image-caption">脇坂安治隊の旗印</p>
 
 ## ゲーム内データ

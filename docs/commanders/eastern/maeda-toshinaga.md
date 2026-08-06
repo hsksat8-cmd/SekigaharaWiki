@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/maeda-toshinaga.md)
 
-![前田利長隊の旗印](../../assets/images/flags/maeda-toshinaga.png){ .wiki-image }
+![前田利長隊の旗印](../../assets/images/flags/maeda-toshinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">前田利長隊の旗印</p>
 
 ## ゲーム内データ

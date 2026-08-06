@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/ikeda-terumasa.md)
 
-![池田輝政隊の旗印](../../assets/images/flags/ikeda-terumasa.png){ .wiki-image }
+![池田輝政隊の旗印](../../assets/images/flags/ikeda-terumasa.png){ .wiki-image width="25%" }
 <p class="image-caption">池田輝政隊の旗印</p>
 
 ## ゲーム内データ

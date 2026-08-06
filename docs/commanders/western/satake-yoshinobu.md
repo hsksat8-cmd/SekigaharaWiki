@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/satake-yoshinobu.md)
 
-![佐竹義宣隊の旗印](../../assets/images/flags/satake-yoshinobu.png){ .wiki-image }
+![佐竹義宣隊の旗印](../../assets/images/flags/satake-yoshinobu.png){ .wiki-image width="25%" }
 <p class="image-caption">佐竹義宣隊の旗印</p>
 
 ## ゲーム内データ

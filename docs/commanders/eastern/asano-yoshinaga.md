@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/asano-yoshinaga.md)
 
-![浅野幸長隊の旗印](../../assets/images/flags/asano-yoshinaga.png){ .wiki-image }
+![浅野幸長隊の旗印](../../assets/images/flags/asano-yoshinaga.png){ .wiki-image width="25%" }
 <p class="image-caption">浅野幸長隊の旗印</p>
 
 ## ゲーム内データ

@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/yamauchi-kazutoyo.md)
 
-![山内一豊隊の旗印](../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image }
+![山内一豊隊の旗印](../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image width="25%" }
 <p class="image-caption">山内一豊隊の旗印</p>
 
 ## ゲーム内データ

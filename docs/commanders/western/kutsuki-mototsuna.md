@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/kutsuki-mototsuna.md)
 
-![朽木元綱隊の旗印](../../assets/images/flags/kutsuki-mototsuna.png){ .wiki-image }
+![朽木元綱隊の旗印](../../assets/images/flags/kutsuki-mototsuna.png){ .wiki-image width="25%" }
 <p class="image-caption">朽木元綱隊の旗印</p>
 
 ## ゲーム内データ

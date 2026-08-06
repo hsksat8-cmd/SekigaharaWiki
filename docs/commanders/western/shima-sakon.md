@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/shima-sakon.md)
 
-![島左近隊の旗印](../../assets/images/flags/shima-sakon.png){ .wiki-image }
+![島左近隊の旗印](../../assets/images/flags/shima-sakon.png){ .wiki-image width="25%" }
 <p class="image-caption">島左近隊の旗印</p>
 
 ## ゲーム内データ

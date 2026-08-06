@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/ii-naomasa.md)
 
-![井伊直政隊の旗印](../../assets/images/flags/ii-naomasa.png){ .wiki-image }
+![井伊直政隊の旗印](../../assets/images/flags/ii-naomasa.png){ .wiki-image width="25%" }
 <p class="image-caption">井伊直政隊の旗印</p>
 
 ## ゲーム内データ

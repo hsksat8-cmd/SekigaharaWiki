@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/kikkawa-hiroie.md)
 
-![吉川広家隊の旗印](../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image }
+![吉川広家隊の旗印](../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image width="25%" }
 <p class="image-caption">吉川広家隊の旗印</p>
 
 ## ゲーム内データ

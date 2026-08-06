@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/fukushima-masanori.md)
 
-![福島正則隊の旗印](../../assets/images/flags/fukushima-masanori.png){ .wiki-image }
+![福島正則隊の旗印](../../assets/images/flags/fukushima-masanori.png){ .wiki-image width="25%" }
 <p class="image-caption">福島正則隊の旗印</p>
 
 ## ゲーム内データ

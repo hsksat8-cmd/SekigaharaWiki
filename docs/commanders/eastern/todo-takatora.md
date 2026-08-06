@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/eastern/todo-takatora.md)
 
-![藤堂高虎隊の旗印](../../assets/images/flags/todo-takatora.png){ .wiki-image }
+![藤堂高虎隊の旗印](../../assets/images/flags/todo-takatora.png){ .wiki-image width="25%" }
 <p class="image-caption">藤堂高虎隊の旗印</p>
 
 ## ゲーム内データ

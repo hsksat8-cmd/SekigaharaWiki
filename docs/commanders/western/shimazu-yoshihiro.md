@@ -2,7 +2,7 @@
 
 [English version](../../en/commanders/western/shimazu-yoshihiro.md)
 
-![島津義弘隊の旗印](../../assets/images/flags/shimazu-yoshihiro.png){ .wiki-image }
+![島津義弘隊の旗印](../../assets/images/flags/shimazu-yoshihiro.png){ .wiki-image width="25%" }
 <p class="image-caption">島津義弘隊の旗印</p>
 
 ## ゲーム内データ
