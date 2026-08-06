@@ -1,8 +1,8 @@
 # 本多忠勝
 
-[English version](../../../en/commanders/eastern/honda-tadakatsu.md)
+[English version](../../en/commanders/eastern/honda-tadakatsu.md)
 
-![本多忠勝隊の旗印](../../../assets/images/flags/honda-tadakatsu.png){ .wiki-image }
+![本多忠勝隊の旗印](../../assets/images/flags/honda-tadakatsu.png){ .wiki-image }
 <p class="image-caption">本多忠勝隊の旗印</p>
 
 ## ゲーム内データ

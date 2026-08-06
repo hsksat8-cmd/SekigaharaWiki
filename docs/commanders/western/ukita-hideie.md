@@ -1,8 +1,8 @@
 # 宇喜多秀家
 
-[English version](../../../en/commanders/western/ukita-hideie.md)
+[English version](../../en/commanders/western/ukita-hideie.md)
 
-![宇喜多秀家隊の旗印](../../../assets/images/flags/ukita-hideie.png){ .wiki-image }
+![宇喜多秀家隊の旗印](../../assets/images/flags/ukita-hideie.png){ .wiki-image }
 <p class="image-caption">宇喜多秀家隊の旗印</p>
 
 ## ゲーム内データ

@@ -1,8 +1,8 @@
 # 小川祐忠
 
-[English version](../../../en/commanders/western/ogawa-suketada.md)
+[English version](../../en/commanders/western/ogawa-suketada.md)
 
-![小川祐忠隊の旗印](../../../assets/images/flags/ogawa-suketada.png){ .wiki-image }
+![小川祐忠隊の旗印](../../assets/images/flags/ogawa-suketada.png){ .wiki-image }
 <p class="image-caption">小川祐忠隊の旗印</p>
 
 ## ゲーム内データ

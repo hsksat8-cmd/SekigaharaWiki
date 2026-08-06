@@ -1,8 +1,8 @@
 # 石田三成
 
-[English version](../../../en/commanders/western/ishida-mitsunari.md)
+[English version](../../en/commanders/western/ishida-mitsunari.md)
 
-![石田三成隊の旗印](../../../assets/images/flags/ishida-mitsunari.png){ .wiki-image }
+![石田三成隊の旗印](../../assets/images/flags/ishida-mitsunari.png){ .wiki-image }
 <p class="image-caption">石田三成隊の旗印</p>
 
 ## ゲーム内データ

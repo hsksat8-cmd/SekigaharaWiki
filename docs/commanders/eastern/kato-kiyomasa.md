@@ -1,8 +1,8 @@
 # 加藤清正
 
-[English version](../../../en/commanders/eastern/kato-kiyomasa.md)
+[English version](../../en/commanders/eastern/kato-kiyomasa.md)
 
-![加藤清正隊の旗印](../../../assets/images/flags/kato-kiyomasa.png){ .wiki-image }
+![加藤清正隊の旗印](../../assets/images/flags/kato-kiyomasa.png){ .wiki-image }
 <p class="image-caption">加藤清正隊の旗印</p>
 
 ## ゲーム内データ

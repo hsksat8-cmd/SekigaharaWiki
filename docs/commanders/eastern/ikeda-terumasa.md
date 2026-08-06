@@ -1,8 +1,8 @@
 # 池田輝政
 
-[English version](../../../en/commanders/eastern/ikeda-terumasa.md)
+[English version](../../en/commanders/eastern/ikeda-terumasa.md)
 
-![池田輝政隊の旗印](../../../assets/images/flags/ikeda-terumasa.png){ .wiki-image }
+![池田輝政隊の旗印](../../assets/images/flags/ikeda-terumasa.png){ .wiki-image }
 <p class="image-caption">池田輝政隊の旗印</p>
 
 ## ゲーム内データ

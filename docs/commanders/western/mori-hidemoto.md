@@ -1,8 +1,8 @@
 # 毛利秀元
 
-[English version](../../../en/commanders/western/mori-hidemoto.md)
+[English version](../../en/commanders/western/mori-hidemoto.md)
 
-![毛利秀元隊の旗印](../../../assets/images/flags/mori-hidemoto.png){ .wiki-image }
+![毛利秀元隊の旗印](../../assets/images/flags/mori-hidemoto.png){ .wiki-image }
 <p class="image-caption">毛利秀元隊の旗印</p>
 
 ## ゲーム内データ

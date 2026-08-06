@@ -1,8 +1,8 @@
 # 黒田長政
 
-[English version](../../../en/commanders/eastern/kuroda-nagamasa.md)
+[English version](../../en/commanders/eastern/kuroda-nagamasa.md)
 
-![黒田長政隊の旗印](../../../assets/images/flags/kuroda-nagamasa.png){ .wiki-image }
+![黒田長政隊の旗印](../../assets/images/flags/kuroda-nagamasa.png){ .wiki-image }
 <p class="image-caption">黒田長政隊の旗印</p>
 
 ## ゲーム内データ

@@ -1,8 +1,8 @@
 # 伊達政宗
 
-[English version](../../../en/commanders/eastern/date-masamune.md)
+[English version](../../en/commanders/eastern/date-masamune.md)
 
-![伊達政宗隊の旗印](../../../assets/images/flags/date-masamune.png){ .wiki-image }
+![伊達政宗隊の旗印](../../assets/images/flags/date-masamune.png){ .wiki-image }
 <p class="image-caption">伊達政宗隊の旗印</p>
 
 ## ゲーム内データ

@@ -1,8 +1,8 @@
 # 島左近
 
-[English version](../../../en/commanders/western/shima-sakon.md)
+[English version](../../en/commanders/western/shima-sakon.md)
 
-![島左近隊の旗印](../../../assets/images/flags/shima-sakon.png){ .wiki-image }
+![島左近隊の旗印](../../assets/images/flags/shima-sakon.png){ .wiki-image }
 <p class="image-caption">島左近隊の旗印</p>
 
 ## ゲーム内データ

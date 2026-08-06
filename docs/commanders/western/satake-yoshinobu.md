@@ -1,8 +1,8 @@
 # 佐竹義宣
 
-[English version](../../../en/commanders/western/satake-yoshinobu.md)
+[English version](../../en/commanders/western/satake-yoshinobu.md)
 
-![佐竹義宣隊の旗印](../../../assets/images/flags/satake-yoshinobu.png){ .wiki-image }
+![佐竹義宣隊の旗印](../../assets/images/flags/satake-yoshinobu.png){ .wiki-image }
 <p class="image-caption">佐竹義宣隊の旗印</p>
 
 ## ゲーム内データ

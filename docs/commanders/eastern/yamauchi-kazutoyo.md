@@ -1,8 +1,8 @@
 # 山内一豊
 
-[English version](../../../en/commanders/eastern/yamauchi-kazutoyo.md)
+[English version](../../en/commanders/eastern/yamauchi-kazutoyo.md)
 
-![山内一豊隊の旗印](../../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image }
+![山内一豊隊の旗印](../../assets/images/flags/yamauchi-kazutoyo.png){ .wiki-image }
 <p class="image-caption">山内一豊隊の旗印</p>
 
 ## ゲーム内データ

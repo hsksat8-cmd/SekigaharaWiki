@@ -1,8 +1,8 @@
 # 上杉景勝
 
-[English version](../../../en/commanders/western/uesugi-kagekatsu.md)
+[English version](../../en/commanders/western/uesugi-kagekatsu.md)
 
-![上杉景勝隊の旗印](../../../assets/images/flags/uesugi-kagekatsu.png){ .wiki-image }
+![上杉景勝隊の旗印](../../assets/images/flags/uesugi-kagekatsu.png){ .wiki-image }
 <p class="image-caption">上杉景勝隊の旗印</p>
 
 ## ゲーム内データ

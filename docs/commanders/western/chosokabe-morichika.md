@@ -1,8 +1,8 @@
 # 長宗我部盛親
 
-[English version](../../../en/commanders/western/chosokabe-morichika.md)
+[English version](../../en/commanders/western/chosokabe-morichika.md)
 
-![長宗我部盛親隊の旗印](../../../assets/images/flags/chosokabe-morichika.png){ .wiki-image }
+![長宗我部盛親隊の旗印](../../assets/images/flags/chosokabe-morichika.png){ .wiki-image }
 <p class="image-caption">長宗我部盛親隊の旗印</p>
 
 ## ゲーム内データ

@@ -1,8 +1,8 @@
 # 立花宗茂
 
-[English version](../../../en/commanders/western/tachibana-muneshige.md)
+[English version](../../en/commanders/western/tachibana-muneshige.md)
 
-![立花宗茂隊の旗印](../../../assets/images/flags/tachibana-muneshige.png){ .wiki-image }
+![立花宗茂隊の旗印](../../assets/images/flags/tachibana-muneshige.png){ .wiki-image }
 <p class="image-caption">立花宗茂隊の旗印</p>
 
 ## ゲーム内データ

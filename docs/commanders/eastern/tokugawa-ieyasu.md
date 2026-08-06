@@ -1,8 +1,8 @@
 # 徳川家康
 
-[English version](../../../en/commanders/eastern/tokugawa-ieyasu.md)
+[English version](../../en/commanders/eastern/tokugawa-ieyasu.md)
 
-![徳川家康隊の旗印](../../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image }
+![徳川家康隊の旗印](../../assets/images/flags/tokugawa-ieyasu.png){ .wiki-image }
 <p class="image-caption">徳川家康隊の旗印</p>
 
 ## ゲーム内データ

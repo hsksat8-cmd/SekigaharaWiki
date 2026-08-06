@@ -1,8 +1,8 @@
 # 京極高知
 
-[English version](../../../en/commanders/eastern/kyogoku-takatomo.md)
+[English version](../../en/commanders/eastern/kyogoku-takatomo.md)
 
-![京極高知隊の旗印](../../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image }
+![京極高知隊の旗印](../../assets/images/flags/kyogoku-takatomo.png){ .wiki-image }
 <p class="image-caption">京極高知隊の旗印</p>
 
 ## ゲーム内データ

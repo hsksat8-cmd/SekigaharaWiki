@@ -1,8 +1,8 @@
 # 吉川広家
 
-[English version](../../../en/commanders/western/kikkawa-hiroie.md)
+[English version](../../en/commanders/western/kikkawa-hiroie.md)
 
-![吉川広家隊の旗印](../../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image }
+![吉川広家隊の旗印](../../assets/images/flags/kikkawa-hiroie.png){ .wiki-image }
 <p class="image-caption">吉川広家隊の旗印</p>
 
 ## ゲーム内データ

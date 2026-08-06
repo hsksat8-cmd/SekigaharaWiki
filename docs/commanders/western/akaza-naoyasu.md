@@ -1,8 +1,8 @@
 # 赤座直保
 
-[English version](../../../en/commanders/western/akaza-naoyasu.md)
+[English version](../../en/commanders/western/akaza-naoyasu.md)
 
-![赤座直保隊の旗印](../../../assets/images/flags/akaza-naoyasu.png){ .wiki-image }
+![赤座直保隊の旗印](../../assets/images/flags/akaza-naoyasu.png){ .wiki-image }
 <p class="image-caption">赤座直保隊の旗印</p>
 
 ## ゲーム内データ

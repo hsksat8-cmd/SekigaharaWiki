@@ -1,8 +1,8 @@
 # 井伊直政
 
-[English version](../../../en/commanders/eastern/ii-naomasa.md)
+[English version](../../en/commanders/eastern/ii-naomasa.md)
 
-![井伊直政隊の旗印](../../../assets/images/flags/ii-naomasa.png){ .wiki-image }
+![井伊直政隊の旗印](../../assets/images/flags/ii-naomasa.png){ .wiki-image }
 <p class="image-caption">井伊直政隊の旗印</p>
 
 ## ゲーム内データ
