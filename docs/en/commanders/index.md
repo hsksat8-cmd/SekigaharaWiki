@@ -5,7 +5,7 @@
 This section combines fixed in-game commander data, unit banners, brief careers, and cautious summaries of historical reputation.
 
 !!! info
-    The statistics were supplied by the user and exclude the random-ability scenario. Historical reputation and in-game values are presented separately.
+    The statistics are in-game values and exclude the random-ability scenario. Historical reputation and in-game values are presented separately.
 
 ## Core Map Commanders
 
