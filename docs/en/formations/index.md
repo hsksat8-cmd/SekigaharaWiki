@@ -2,7 +2,7 @@
 
 [日本語版](../../formations/index.md)
 
-The earlier experiments were removed because they were not fully conclusive. After conducting further tests, the formations appear to have the following characteristics.
+The formations have the following characteristics.
 
 ![Formation example from Version 2.2.0](../../assets/images/v2-2-0-formations-example.jpg){ .wiki-image }
 <p class="image-caption">The five available formations</p>
