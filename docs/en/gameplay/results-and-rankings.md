@@ -8,6 +8,19 @@ A results table is available after the battle.
 
 The game displays each commander's battle record and ranking.
 
+## Score Calculation
+
+The score is calculated as follows:
+
+**Score = enemy soldiers defeated + enemy commanders defeated × 3,000 + enemy army commander defeated × 10,000 + victory bonus × 10,000 - soldiers lost - commanders lost × 3,000**
+
+- Each enemy soldier defeated: **+1 point**
+- Each enemy commander defeated: **+3,000 points**
+- Defeating the enemy army commander: **+10,000 points**
+- Victory: **+10,000 points**
+- Each soldier lost: **-1 point**
+- Each commander lost: **-3,000 points**
+
 ## Cumulative Rankings
 
 Scores earned in individual battles are accumulated and shown in a ranking.
