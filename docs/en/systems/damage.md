@@ -22,5 +22,3 @@ An archived post gives the following weighting for damage and defense.
 | Soldier-dot morale | 26% |
 | Leadership | 8% |
 
-!!! note
-    The archived X post is truncated, so only the confirmed weights are shown here. The source does not confirm whether additional random factors or modifiers are applied.

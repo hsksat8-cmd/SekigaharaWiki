@@ -6,7 +6,6 @@
 
 戦闘開始後は各部隊が目標や戦況に応じて自律的に行動します。作業中に画面の片隅で戦況の変化を眺めたり、布陣やシナリオを変更して異なる結末を比較したりできます。
 
-!!! info "情報源"
     このページは、Microsoft Storeの現行製品説明と、Xの開発投稿を統合して整理しています。バージョン別の変更履歴は[更新履歴](../updates/index.md)を参照してください。
 
 ## ゲームの中心となる考え方
@@ -61,7 +60,3 @@ Ctrl＋左クリックの拡大モードでは、兵士のアニメーション�
 - [基本戦術](../gameplay/tactics.md)
 - [シナリオ一覧](../scenarios/index.md)
 - [陣形一覧](../formations/index.md)
-
-## 販売情報
-
-[Microsoft Storeで見る](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=ja-jp&gl=JP){ .md-button .md-button--primary }

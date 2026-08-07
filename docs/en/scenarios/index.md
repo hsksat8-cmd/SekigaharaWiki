@@ -2,7 +2,7 @@
 
 [日本語版](../../scenarios/index.md)
 
-The current Microsoft Store product description lists the following scenarios.
+The main included scenarios are listed below.
 
 | Scenario | Description |
 |---|---|

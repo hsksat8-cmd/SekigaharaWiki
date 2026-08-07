@@ -6,5 +6,3 @@ This what-if scenario has the Shimazu force participate actively from the beginn
 
 It allows you to observe how early Shimazu action changes local concentration of force and the Western Army's ability to form an encirclement.
 
-!!! note
-    The Microsoft Store description does not specify the exact objectives or ability modifiers.

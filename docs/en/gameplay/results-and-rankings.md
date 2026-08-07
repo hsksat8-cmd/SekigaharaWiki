@@ -23,4 +23,4 @@ The five highest past scores are also displayed.
 These features make it possible to compare not only victory and defeat, but also repeated attempts under the same conditions and the results of different deployments or orders.
 
 !!! note
-    The Microsoft Store description does not provide the detailed scoring formula.
+    The detailed scoring formula is not published.

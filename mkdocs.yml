@@ -106,6 +106,7 @@ nav:
       - ランダム架空大戦: scenarios/random-fictional-war.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.3.1: updates/v2.3.1.md
       - Version 2.2.0: updates/v2.2.0.md
       - Version 2.1.0: updates/v2.1.0.md
       - Version 2.0.x: updates/v2.0.md
@@ -113,7 +114,7 @@ nav:
   - 資料:
       - 動画・投稿一覧: reference/media.md
       - 画像ギャラリー: reference/gallery.md
-      - X投稿アーカイブ: reference/tweets.md
+      - 開発記録: reference/tweets.md
       - 用語集: reference/glossary.md
       - プライバシー: privacy.md
   - English:
@@ -189,6 +190,7 @@ nav:
           - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
           - Fully Random: en/scenarios/random.md
           - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
+      - Experiments:
       - Updates:
           - History: en/updates/index.md
           - Version 2.2.0: en/updates/v2.2.0.md

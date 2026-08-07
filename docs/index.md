@@ -12,9 +12,6 @@
 
 </div>
 
-![徳川家康のイメージビジュアル](assets/images/tokugawa-ieyasu-portrait.jpg){ .wiki-image }
-<p class="image-caption">徳川家康のイメージビジュアル（X投稿より）</p>
-
 ## ゲームの特徴
 
 <div class="stat-grid">
@@ -46,7 +43,3 @@
 - [シナリオ一覧](scenarios/index.md)
 - [陣形の概要](formations/index.md)
 - [画像ギャラリー](reference/gallery.md)
-
-## 情報源
-
-このWikiは、Microsoft Storeの現行製品説明と、Xアカウント `@IFHistorySim` の開発投稿を分類・統合して作成しています。バージョン別の機能はX投稿、現行の製品機能はMicrosoft Storeの説明を主な根拠としています。

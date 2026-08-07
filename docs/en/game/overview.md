@@ -6,9 +6,6 @@
 
 After the battle begins, each unit acts autonomously according to its objectives and the current situation. You can leave the battle running in a corner of the screen while working, or change the deployment and scenario to compare different outcomes.
 
-!!! info "Sources"
-    This page integrates the current Microsoft Store product description with development posts on X. See the [Update History](../updates/index.md) for version-specific changes.
-
 ## Core Strategic Idea
 
 Victory depends not only on troop strength, but also on unit positioning and the concentration of force.
@@ -59,7 +56,3 @@ Ctrl + left click activates a zoom mode with animated soldiers. Ctrl + mouse whe
 - [Basic Tactics](../gameplay/tactics.md)
 - [Scenario List](../scenarios/index.md)
 - [Formation Overview](../formations/index.md)
-
-## Availability
-
-[View on Microsoft Store](https://apps.microsoft.com/detail/9NB8RVSRWS1F?hl=en-us&gl=US){ .md-button .md-button--primary }

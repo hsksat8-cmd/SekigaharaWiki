@@ -6,7 +6,7 @@ Commander abilities and battle conditions vary, creating an unpredictable battle
 
 ## Randomized Elements
 
-The Microsoft Store description explicitly states that commander abilities and battle conditions change.
+Commander abilities and battle conditions change with each playthrough.
 
 Development posts on X provide additional examples:
 

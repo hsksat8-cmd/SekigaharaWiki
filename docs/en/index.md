@@ -12,9 +12,6 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 
 </div>
 
-![Tokugawa Ieyasu visual](../assets/images/tokugawa-ieyasu-portrait.jpg){ .wiki-image }
-<p class="image-caption">Tokugawa Ieyasu visual from an X post</p>
-
 ## Main Features
 
 <div class="stat-grid">
@@ -46,7 +43,3 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 - [Scenario List](scenarios/index.md)
 - [Formation Overview](formations/index.md)
 - [Image Gallery](reference/gallery.md)
-
-## Sources
-
-This wiki integrates the current Microsoft Store product description with development posts from the X account `@IFHistorySim`. Current product features are primarily based on the Store description, while version-specific changes are based on the archived X posts.

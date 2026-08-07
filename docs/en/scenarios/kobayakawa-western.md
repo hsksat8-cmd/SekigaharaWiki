@@ -2,8 +2,8 @@
 
 [日本語版](../../scenarios/kobayakawa-western.md)
 
-This what-if scenario tests a battle in which Kobayakawa Hideaki actively fights for the Western Army.
+This what-if scenario explores a battle in which Kobayakawa Hideaki's unit joins the Western Army.
 
-Because Kobayakawa functions as part of the Western force, the Western Army has a stronger position than in the historically inspired scenario. The Eastern Army may need to seek an early decision through a central breakthrough or a concentrated attack on the enemy commander.
+Banners are displayed for each unit, making the forces easier to distinguish. The large-scale battlefield can be viewed with the visual appeal of a Sengoku-period battle scroll.
 
-Development posts and gameplay videos on X and YouTube also show examples of this condition.
+[Watch the battle video](https://x.com/IFHistorySim/status/2085292061096632435/video/1)
