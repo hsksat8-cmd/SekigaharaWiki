@@ -2,7 +2,7 @@
 
 [English version](../en/formations/index.md)
 
-各陣形には次のような特徴があります。
+実験によると、各陣形には次のような特徴があります。
 
 ![Version 2.2.0の陣形例](../assets/images/v2-2-0-formations-example.jpg){ .wiki-image }
 <p class="image-caption">5種類の陣形</p>

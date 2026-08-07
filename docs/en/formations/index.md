@@ -2,7 +2,7 @@
 
 [日本語版](../../formations/index.md)
 
-The formations have the following characteristics.
+According to the experiments, the formations have the following characteristics.
 
 ![Formation example from Version 2.2.0](../../assets/images/v2-2-0-formations-example.jpg){ .wiki-image }
 <p class="image-caption">The five available formations</p>
