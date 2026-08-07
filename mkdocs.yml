@@ -108,10 +108,13 @@ nav:
   - 更新履歴:
       - 一覧: updates/index.md
       - Version 2.3.1: updates/v2.3.1.md
+      - Version 2.3.0: updates/v2.3.0.md
       - Version 2.2.0: updates/v2.2.0.md
       - Version 2.1.0: updates/v2.1.0.md
-      - Version 2.0.x: updates/v2.0.md
+      - Version 2.0.1: updates/v2.0.1.md
+      - Version 2.0.0: updates/v2.0.0.md
       - Version 1.2.0: updates/v1.2.0.md
+      - Version 1.1.0: updates/v1.1.0.md
   - 資料:
       - 動画・投稿一覧: reference/media.md
       - 画像ギャラリー: reference/gallery.md
@@ -195,10 +198,13 @@ nav:
       - Updates:
           - History: en/updates/index.md
           - Version 2.3.1: en/updates/v2.3.1.md
+          - Version 2.3.0: en/updates/v2.3.0.md
           - Version 2.2.0: en/updates/v2.2.0.md
           - Version 2.1.0: en/updates/v2.1.0.md
-          - Version 2.0.x: en/updates/v2.0.md
+          - Version 2.0.1: en/updates/v2.0.1.md
+          - Version 2.0.0: en/updates/v2.0.0.md
           - Version 1.2.0: en/updates/v1.2.0.md
+          - Version 1.1.0: en/updates/v1.1.0.md
       - Reference:
           - Image Gallery: en/reference/gallery.md
           - Glossary: en/reference/glossary.md

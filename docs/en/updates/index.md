@@ -1,9 +1,46 @@
 # Update History
 
+The English version information is translated from the Japanese version information.
 
 ## Version 2.3.1
-
-- Added banners to each unit
-- Featured a scenario in which Kobayakawa Hideaki joins the Western Army
+- Adjusted unit behavior to make movement more natural
 - [Details](v2.3.1.md)
 
+## Version 2.3.0
+- Added banners to each unit
+- [Details](v2.3.0.md)
+
+## Version 2.2.0
+- Added five selectable formations: Square, Flexible Square, Crane Wing, Deep, and Fish Scale
+- Adjusted unit behavior to favor movements characteristic of Sengoku-period commanders rather than purely game-like optimization
+- [Details](v2.2.0.md)
+
+## Version 2.1.0
+- Adjusted the overall map colors to a calmer tone
+- Made unit behavior more natural
+- [Details](v2.1.0.md)
+
+## Version 2.0.1
+- Adjusted the plains to a more natural color
+- [Details](v2.0.1.md)
+
+## Version 2.0.0
+- Recreated the terrain of Sekigahara more faithfully
+- Added soldier animations in `Ctrl` + left-click zoom mode to make battle scenes more dynamic
+- Added map zoom from 1× to 50× with `Ctrl` + mouse wheel
+- Added the ability to specify unit troop strength in sub-scenarios
+- [Details](v2.0.0.md)
+
+## Version 1.2.0
+- Added the ability to join either the Eastern or Western Army at any time and control every commander in that army
+- Added participation as up to three commanders, including user-created commanders
+- Added the ability to remove commanders and fight with a smaller number of units
+- Added real-time subtitles
+- Added battle records, commander rankings, cumulative rankings, army scores by scenario/sub-scenario, and the top five past scores
+- Made unit behavior more natural
+- [Details](v1.2.0.md)
+
+## Version 1.1.0
+- Added the ability to join the battlefield as one user-created commander with a freely chosen name
+- In the two newly added random scenarios, unit troop strength also varies randomly
+- [Details](v1.1.0.md)
