@@ -35,6 +35,7 @@ nav:
   - ゲーム:
       - 概要: game/overview.md
       - プレイモード: gameplay/modes.md
+      - キーボード・マウス操作: gameplay/controls.md
       - 観戦と字幕: gameplay/observation.md
       - 基本戦術: gameplay/tactics.md
       - サブシナリオ: gameplay/subscenarios.md
@@ -122,6 +123,7 @@ nav:
       - Game:
           - Overview: en/game/overview.md
           - Play Modes: en/gameplay/modes.md
+          - Keyboard and Mouse Controls: en/gameplay/controls.md
           - Observation and Subtitles: en/gameplay/observation.md
           - Basic Tactics: en/gameplay/tactics.md
           - Sub-Scenarios: en/gameplay/subscenarios.md

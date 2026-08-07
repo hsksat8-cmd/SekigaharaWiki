@@ -36,6 +36,7 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 
 - [Game Overview](game/overview.md)
 - [Play Modes](gameplay/modes.md)
+- [Keyboard and Mouse Controls](gameplay/controls.md)
 - [Observation and Real-Time Subtitles](gameplay/observation.md)
 - [Sub-Scenarios](gameplay/subscenarios.md)
 - [Results and Rankings](gameplay/results-and-rankings.md)

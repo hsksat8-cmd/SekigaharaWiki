@@ -36,6 +36,7 @@
 
 - [ゲーム概要](game/overview.md)
 - [プレイモード](gameplay/modes.md)
+- [キーボード・マウス操作](gameplay/controls.md)
 - [観戦とリアルタイム字幕](gameplay/observation.md)
 - [サブシナリオ](gameplay/subscenarios.md)
 - [戦績とランキング](gameplay/results-and-rankings.md)
