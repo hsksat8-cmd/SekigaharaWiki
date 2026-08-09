@@ -38,7 +38,7 @@ This changes display speed only, not battle rules.
 ### Decide winner at 8 PM
 
 - **On**: at 8 PM, the army with more remaining troops wins by advantage.
-- **Off**: the battle continues beyond 8 PM, normally until a commander is slain.
+- **Off**: the battle continues beyond 8 PM, normally until an army commander is defeated.
 
 This cannot be changed during a battle or replay.
 

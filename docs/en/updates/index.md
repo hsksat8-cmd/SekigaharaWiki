@@ -2,6 +2,13 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.3.2
+- Added a **Decide winner at 8 PM** toggle
+- Reduced the caption text size
+- When a unit parameter callout is displayed, quickly pressing `Ctrl` twice now shows the unit's troop count and morale in the captions
+- Adjusted unit behavior to make movement more natural
+- [Details](v2.3.2.md)
+
 ## Version 2.3.1
 - Adjusted unit behavior to make movement more natural
 - [Details](v2.3.1.md)

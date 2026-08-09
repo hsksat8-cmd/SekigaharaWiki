@@ -4,6 +4,15 @@
 
 A results table is available after the battle.
 
+## Determining the Winner
+
+There are two modes for determining the outcome of a battle.
+
+- **Determine the winner based on the situation at 8 PM**: the battle ends at 8 PM, and the army with more remaining troops wins by advantage.
+- **Continue until an army commander is defeated**: the battle continues beyond 8 PM and normally ends when an army commander is defeated.
+
+The **Decide winner at 8 PM** toggle can be changed before the battle starts. It cannot be changed during a battle or replay.
+
 ## Commander Records
 
 The game displays each commander's battle record and ranking.
