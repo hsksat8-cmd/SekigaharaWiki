@@ -4,231 +4,236 @@ site_url: https://hsksat8-cmd.github.io/SekigaharaWiki/
 repo_url: https://github.com/hsksat8-cmd/SekigaharaWiki
 repo_name: SekigaharaWiki
 edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: ja
   custom_dir: overrides
   features:
-  - navigation.tabs
-  - navigation.sections
-  - navigation.top
-  - navigation.footer
-  - search.highlight
-  - search.suggest
-  - content.code.copy
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
   palette:
-  - media: '(prefers-color-scheme: light)'
-    scheme: default
-    toggle:
-      icon: material/brightness-7
-      name: ダークモードに切り替える
-  - media: '(prefers-color-scheme: dark)'
-    scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: ライトモードに切り替える
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替える
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替える
+
+
 nav:
-- ホーム: index.md
-- ゲーム:
-  - 概要: game/overview.md
-  - プレイモード: gameplay/modes.md
-  - キーボード・マウス操作: gameplay/controls.md
-  - 観戦と字幕: gameplay/observation.md
-  - 基本戦術: gameplay/tactics.md
-  - サブシナリオ: gameplay/subscenarios.md
-  - 戦績とランキング: gameplay/results-and-rankings.md
-- 戦闘システム:
-  - 概要: systems/index.md
-  - 士気: systems/morale.md
-  - ダメージ計算: systems/damage.md
-  - 包囲と中央突破: systems/encirclement.md
-  - 部隊規模と各個撃破: systems/unit-size.md
-  - 部隊AI: systems/ai.md
-- 武将:
-  - 一覧: commanders/index.md
-  - 情報源と方針: commanders/sources.md
-  - 東軍:
-    - 一覧: commanders/eastern/index.md
-    - 井伊直政: commanders/eastern/ii-naomasa.md
-    - 京極高知: commanders/eastern/kyogoku-takatomo.md
-    - 伊達政宗: commanders/eastern/date-masamune.md
-    - 前田利長: commanders/eastern/maeda-toshinaga.md
-    - 加藤清正: commanders/eastern/kato-kiyomasa.md
-    - 山内一豊: commanders/eastern/yamauchi-kazutoyo.md
-    - 徳川家康: commanders/eastern/tokugawa-ieyasu.md
-    - 本多忠勝: commanders/eastern/honda-tadakatsu.md
-    - 池田輝政: commanders/eastern/ikeda-terumasa.md
-    - 浅野幸長: commanders/eastern/asano-yoshinaga.md
-    - 福島正則: commanders/eastern/fukushima-masanori.md
-    - 細川忠興: commanders/eastern/hosokawa-tadaoki.md
-    - 藤堂高虎: commanders/eastern/todo-takatora.md
-    - 黒田長政: commanders/eastern/kuroda-nagamasa.md
-  - 西軍:
-    - 一覧: commanders/western/index.md
-    - 上杉景勝: commanders/western/uesugi-kagekatsu.md
-    - 佐竹義宣: commanders/western/satake-yoshinobu.md
-    - 吉川広家: commanders/western/kikkawa-hiroie.md
-    - 大谷吉継: commanders/western/otani-yoshitsugu.md
-    - 宇喜多秀家: commanders/western/ukita-hideie.md
-    - 小川祐忠: commanders/western/ogawa-suketada.md
-    - 小早川秀秋: commanders/western/kobayakawa-hideaki.md
-    - 小西行長: commanders/western/konishi-yukinaga.md
-    - 島左近: commanders/western/shima-sakon.md
-    - 島津義弘: commanders/western/shimazu-yoshihiro.md
-    - 平塚為広: commanders/western/hiratsuka-tamehiro.md
-    - 戸田重政: commanders/western/toda-shigemasa.md
-    - 朽木元綱: commanders/western/kutsuki-mototsuna.md
-    - 毛利秀元: commanders/western/mori-hidemoto.md
-    - 石田三成: commanders/western/ishida-mitsunari.md
-    - 立花宗茂: commanders/western/tachibana-muneshige.md
-    - 脇坂安治: commanders/western/wakizaka-yasuharu.md
-    - 赤座直保: commanders/western/akaza-naoyasu.md
-    - 鍋島直茂: commanders/western/nabeshima-naoshige.md
-    - 長宗我部盛親: commanders/western/chosokabe-morichika.md
-- 陣形:
-  - 概要: formations/index.md
-  - 方形: formations/square.md
-  - 方形自由: formations/flexible-square.md
-  - 鶴翼: formations/crane-wing.md
-  - 縦深: formations/deep.md
-  - 魚鱗: formations/fish-scale.md
-- シナリオ:
-  - 一覧: scenarios/index.md
-  - 史実寄り: scenarios/historical.md
-  - 毛利積極参戦: scenarios/mori-active.md
-  - 島津積極策: scenarios/shimazu-active.md
-  - 小早川中立: scenarios/kobayakawa-neutral.md
-  - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
-  - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
-  - 完全ランダム: scenarios/random.md
-  - ランダム架空大戦: scenarios/random-fictional-war.md
-- 更新履歴:
-  - 一覧: updates/index.md
-  - Version 2.3.1: updates/v2.3.1.md
-  - Version 2.3.0: updates/v2.3.0.md
-  - Version 2.2.0: updates/v2.2.0.md
-  - Version 2.1.0: updates/v2.1.0.md
-  - Version 2.0.1: updates/v2.0.1.md
-  - Version 2.0.0: updates/v2.0.0.md
-  - Version 1.2.0: updates/v1.2.0.md
-  - Version 1.1.0: updates/v1.1.0.md
-- 資料:
-  - 動画・投稿一覧: reference/media.md
-  - 画像ギャラリー: reference/gallery.md
-  - 開発記録: reference/tweets.md
-  - 用語集: reference/glossary.md
-  - プライバシー: privacy.md
-- English:
-  - Home: en/index.md
-  - Game:
-    - Overview: en/game/overview.md
-    - Play Modes: en/gameplay/modes.md
-    - Keyboard and Mouse Controls: en/gameplay/controls.md
-    - Observation and Subtitles: en/gameplay/observation.md
-    - Basic Tactics: en/gameplay/tactics.md
-    - Sub-Scenarios: en/gameplay/subscenarios.md
-    - Results and Rankings: en/gameplay/results-and-rankings.md
-  - Battle System:
-    - Overview: en/systems/index.md
-    - Morale: en/systems/morale.md
-    - Damage Calculation: en/systems/damage.md
-    - Encirclement and Breakthrough: en/systems/encirclement.md
-    - Unit Size: en/systems/unit-size.md
-    - Unit AI: en/systems/ai.md
-  - Commanders:
-    - List: en/commanders/index.md
-    - Eastern Army:
-      - List: en/commanders/eastern/index.md
-      - Asano Yoshinaga: en/commanders/eastern/asano-yoshinaga.md
-      - Date Masamune: en/commanders/eastern/date-masamune.md
-      - Fukushima Masanori: en/commanders/eastern/fukushima-masanori.md
-      - Honda Tadakatsu: en/commanders/eastern/honda-tadakatsu.md
-      - Hosokawa Tadaoki: en/commanders/eastern/hosokawa-tadaoki.md
-      - Ii Naomasa: en/commanders/eastern/ii-naomasa.md
-      - Ikeda Terumasa: en/commanders/eastern/ikeda-terumasa.md
-      - Kato Kiyomasa: en/commanders/eastern/kato-kiyomasa.md
-      - Kuroda Nagamasa: en/commanders/eastern/kuroda-nagamasa.md
-      - Kyogoku Takatomo: en/commanders/eastern/kyogoku-takatomo.md
-      - Maeda Toshinaga: en/commanders/eastern/maeda-toshinaga.md
-      - Todo Takatora: en/commanders/eastern/todo-takatora.md
-      - Tokugawa Ieyasu: en/commanders/eastern/tokugawa-ieyasu.md
-      - Yamauchi Kazutoyo: en/commanders/eastern/yamauchi-kazutoyo.md
-    - Western Army:
-      - List: en/commanders/western/index.md
-      - Akaza Naoyasu: en/commanders/western/akaza-naoyasu.md
-      - Chosokabe Morichika: en/commanders/western/chosokabe-morichika.md
-      - Hiratsuka Tamehiro: en/commanders/western/hiratsuka-tamehiro.md
-      - Ishida Mitsunari: en/commanders/western/ishida-mitsunari.md
-      - Kikkawa Hiroie: en/commanders/western/kikkawa-hiroie.md
-      - Kobayakawa Hideaki: en/commanders/western/kobayakawa-hideaki.md
-      - Konishi Yukinaga: en/commanders/western/konishi-yukinaga.md
-      - Kutsuki Mototsuna: en/commanders/western/kutsuki-mototsuna.md
-      - Mori Hidemoto: en/commanders/western/mori-hidemoto.md
-      - Nabeshima Naoshige: en/commanders/western/nabeshima-naoshige.md
-      - Ogawa Suketada: en/commanders/western/ogawa-suketada.md
-      - Otani Yoshitsugu: en/commanders/western/otani-yoshitsugu.md
-      - Satake Yoshinobu: en/commanders/western/satake-yoshinobu.md
-      - Shima Sakon: en/commanders/western/shima-sakon.md
-      - Shimazu Yoshihiro: en/commanders/western/shimazu-yoshihiro.md
-      - Tachibana Muneshige: en/commanders/western/tachibana-muneshige.md
-      - Toda Shigemasa: en/commanders/western/toda-shigemasa.md
-      - Uesugi Kagekatsu: en/commanders/western/uesugi-kagekatsu.md
-      - Ukita Hideie: en/commanders/western/ukita-hideie.md
-      - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
-  - Formations:
-    - Overview: en/formations/index.md
-    - Square: en/formations/square.md
-    - Flexible Square: en/formations/flexible-square.md
-    - Crane Wing: en/formations/crane-wing.md
-    - Deep: en/formations/deep.md
-    - Fish Scale: en/formations/fish-scale.md
-  - Scenarios:
-    - List: en/scenarios/index.md
-    - Historically Inspired: en/scenarios/historical.md
-    - Active Mori: en/scenarios/mori-active.md
-    - Active Shimazu: en/scenarios/shimazu-active.md
-    - Kobayakawa Neutral: en/scenarios/kobayakawa-neutral.md
-    - Kobayakawa Western: en/scenarios/kobayakawa-western.md
-    - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
-    - Fully Random: en/scenarios/random.md
-    - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
-  - Updates:
-    - History: en/updates/index.md
-    - Version 2.3.1: en/updates/v2.3.1.md
-    - Version 2.3.0: en/updates/v2.3.0.md
-    - Version 2.2.0: en/updates/v2.2.0.md
-    - Version 2.1.0: en/updates/v2.1.0.md
-    - Version 2.0.1: en/updates/v2.0.1.md
-    - Version 2.0.0: en/updates/v2.0.0.md
-    - Version 1.2.0: en/updates/v1.2.0.md
-    - Version 1.1.0: en/updates/v1.1.0.md
-  - Reference:
-    - Image Gallery: en/reference/gallery.md
-    - Glossary: en/reference/glossary.md
-    - Privacy: en/privacy.md
+  - ホーム: index.md
+  - ゲーム:
+      - 概要: game/overview.md
+      - プレイモード: gameplay/modes.md
+      - 操作メニュー・キー・マウス操作: gameplay/controls.md
+      - 観戦と字幕: gameplay/observation.md
+      - 基本戦術: gameplay/tactics.md
+      - サブシナリオ: gameplay/subscenarios.md
+      - 戦績とランキング: gameplay/results-and-rankings.md
+  - 戦闘システム:
+      - 概要: systems/index.md
+      - 士気: systems/morale.md
+      - ダメージ計算: systems/damage.md
+      - 包囲と中央突破: systems/encirclement.md
+      - 部隊規模と各個撃破: systems/unit-size.md
+      - 部隊AI: systems/ai.md
+  - 武将:
+      - 一覧: commanders/index.md
+      - 情報源と方針: commanders/sources.md
+      - 東軍:
+          - 一覧: commanders/eastern/index.md
+          - 井伊直政: commanders/eastern/ii-naomasa.md
+          - 京極高知: commanders/eastern/kyogoku-takatomo.md
+          - 伊達政宗: commanders/eastern/date-masamune.md
+          - 前田利長: commanders/eastern/maeda-toshinaga.md
+          - 加藤清正: commanders/eastern/kato-kiyomasa.md
+          - 山内一豊: commanders/eastern/yamauchi-kazutoyo.md
+          - 徳川家康: commanders/eastern/tokugawa-ieyasu.md
+          - 本多忠勝: commanders/eastern/honda-tadakatsu.md
+          - 池田輝政: commanders/eastern/ikeda-terumasa.md
+          - 浅野幸長: commanders/eastern/asano-yoshinaga.md
+          - 福島正則: commanders/eastern/fukushima-masanori.md
+          - 細川忠興: commanders/eastern/hosokawa-tadaoki.md
+          - 藤堂高虎: commanders/eastern/todo-takatora.md
+          - 黒田長政: commanders/eastern/kuroda-nagamasa.md
+      - 西軍:
+          - 一覧: commanders/western/index.md
+          - 上杉景勝: commanders/western/uesugi-kagekatsu.md
+          - 佐竹義宣: commanders/western/satake-yoshinobu.md
+          - 吉川広家: commanders/western/kikkawa-hiroie.md
+          - 大谷吉継: commanders/western/otani-yoshitsugu.md
+          - 宇喜多秀家: commanders/western/ukita-hideie.md
+          - 小川祐忠: commanders/western/ogawa-suketada.md
+          - 小早川秀秋: commanders/western/kobayakawa-hideaki.md
+          - 小西行長: commanders/western/konishi-yukinaga.md
+          - 島左近: commanders/western/shima-sakon.md
+          - 島津義弘: commanders/western/shimazu-yoshihiro.md
+          - 平塚為広: commanders/western/hiratsuka-tamehiro.md
+          - 戸田重政: commanders/western/toda-shigemasa.md
+          - 朽木元綱: commanders/western/kutsuki-mototsuna.md
+          - 毛利秀元: commanders/western/mori-hidemoto.md
+          - 石田三成: commanders/western/ishida-mitsunari.md
+          - 立花宗茂: commanders/western/tachibana-muneshige.md
+          - 脇坂安治: commanders/western/wakizaka-yasuharu.md
+          - 赤座直保: commanders/western/akaza-naoyasu.md
+          - 鍋島直茂: commanders/western/nabeshima-naoshige.md
+          - 長宗我部盛親: commanders/western/chosokabe-morichika.md
+  - 陣形:
+      - 概要: formations/index.md
+      - 方形: formations/square.md
+      - 方形自由: formations/flexible-square.md
+      - 鶴翼: formations/crane-wing.md
+      - 縦深: formations/deep.md
+      - 魚鱗: formations/fish-scale.md
+  - シナリオ:
+      - 一覧: scenarios/index.md
+      - 史実寄り: scenarios/historical.md
+      - 毛利積極参戦: scenarios/mori-active.md
+      - 島津積極策: scenarios/shimazu-active.md
+      - 小早川中立: scenarios/kobayakawa-neutral.md
+      - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
+      - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
+      - 完全ランダム: scenarios/random.md
+      - ランダム架空大戦: scenarios/random-fictional-war.md
+  - 更新履歴:
+      - 一覧: updates/index.md
+      - Version 2.3.1: updates/v2.3.1.md
+      - Version 2.3.0: updates/v2.3.0.md
+      - Version 2.2.0: updates/v2.2.0.md
+      - Version 2.1.0: updates/v2.1.0.md
+      - Version 2.0.1: updates/v2.0.1.md
+      - Version 2.0.0: updates/v2.0.0.md
+      - Version 1.2.0: updates/v1.2.0.md
+      - Version 1.1.0: updates/v1.1.0.md
+  - 資料:
+      - 動画・投稿一覧: reference/media.md
+      - 画像ギャラリー: reference/gallery.md
+      - 開発記録: reference/tweets.md
+      - 用語集: reference/glossary.md
+      - プライバシー: privacy.md
+  - English:
+      - Home: en/index.md
+      - Game:
+          - Overview: en/game/overview.md
+          - Play Modes: en/gameplay/modes.md
+          - Controls and Menus: en/gameplay/controls.md
+          - Observation and Subtitles: en/gameplay/observation.md
+          - Basic Tactics: en/gameplay/tactics.md
+          - Sub-Scenarios: en/gameplay/subscenarios.md
+          - Results and Rankings: en/gameplay/results-and-rankings.md
+      - Battle System:
+          - Overview: en/systems/index.md
+          - Morale: en/systems/morale.md
+          - Damage Calculation: en/systems/damage.md
+          - Encirclement and Breakthrough: en/systems/encirclement.md
+          - Unit Size: en/systems/unit-size.md
+          - Unit AI: en/systems/ai.md
+      - Commanders:
+          - List: en/commanders/index.md
+          - Eastern Army:
+              - List: en/commanders/eastern/index.md
+              - Asano Yoshinaga: en/commanders/eastern/asano-yoshinaga.md
+              - Date Masamune: en/commanders/eastern/date-masamune.md
+              - Fukushima Masanori: en/commanders/eastern/fukushima-masanori.md
+              - Honda Tadakatsu: en/commanders/eastern/honda-tadakatsu.md
+              - Hosokawa Tadaoki: en/commanders/eastern/hosokawa-tadaoki.md
+              - Ii Naomasa: en/commanders/eastern/ii-naomasa.md
+              - Ikeda Terumasa: en/commanders/eastern/ikeda-terumasa.md
+              - Kato Kiyomasa: en/commanders/eastern/kato-kiyomasa.md
+              - Kuroda Nagamasa: en/commanders/eastern/kuroda-nagamasa.md
+              - Kyogoku Takatomo: en/commanders/eastern/kyogoku-takatomo.md
+              - Maeda Toshinaga: en/commanders/eastern/maeda-toshinaga.md
+              - Todo Takatora: en/commanders/eastern/todo-takatora.md
+              - Tokugawa Ieyasu: en/commanders/eastern/tokugawa-ieyasu.md
+              - Yamauchi Kazutoyo: en/commanders/eastern/yamauchi-kazutoyo.md
+          - Western Army:
+              - List: en/commanders/western/index.md
+              - Akaza Naoyasu: en/commanders/western/akaza-naoyasu.md
+              - Chosokabe Morichika: en/commanders/western/chosokabe-morichika.md
+              - Hiratsuka Tamehiro: en/commanders/western/hiratsuka-tamehiro.md
+              - Ishida Mitsunari: en/commanders/western/ishida-mitsunari.md
+              - Kikkawa Hiroie: en/commanders/western/kikkawa-hiroie.md
+              - Kobayakawa Hideaki: en/commanders/western/kobayakawa-hideaki.md
+              - Konishi Yukinaga: en/commanders/western/konishi-yukinaga.md
+              - Kutsuki Mototsuna: en/commanders/western/kutsuki-mototsuna.md
+              - Mori Hidemoto: en/commanders/western/mori-hidemoto.md
+              - Nabeshima Naoshige: en/commanders/western/nabeshima-naoshige.md
+              - Ogawa Suketada: en/commanders/western/ogawa-suketada.md
+              - Otani Yoshitsugu: en/commanders/western/otani-yoshitsugu.md
+              - Satake Yoshinobu: en/commanders/western/satake-yoshinobu.md
+              - Shima Sakon: en/commanders/western/shima-sakon.md
+              - Shimazu Yoshihiro: en/commanders/western/shimazu-yoshihiro.md
+              - Tachibana Muneshige: en/commanders/western/tachibana-muneshige.md
+              - Toda Shigemasa: en/commanders/western/toda-shigemasa.md
+              - Uesugi Kagekatsu: en/commanders/western/uesugi-kagekatsu.md
+              - Ukita Hideie: en/commanders/western/ukita-hideie.md
+              - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
+      - Formations:
+          - Overview: en/formations/index.md
+          - Square: en/formations/square.md
+          - Flexible Square: en/formations/flexible-square.md
+          - Crane Wing: en/formations/crane-wing.md
+          - Deep: en/formations/deep.md
+          - Fish Scale: en/formations/fish-scale.md
+      - Scenarios:
+          - List: en/scenarios/index.md
+          - Historically Inspired: en/scenarios/historical.md
+          - Active Mori: en/scenarios/mori-active.md
+          - Active Shimazu: en/scenarios/shimazu-active.md
+          - Kobayakawa Neutral: en/scenarios/kobayakawa-neutral.md
+          - Kobayakawa Western: en/scenarios/kobayakawa-western.md
+          - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
+          - Fully Random: en/scenarios/random.md
+          - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
+      - Updates:
+          - History: en/updates/index.md
+          - Version 2.3.1: en/updates/v2.3.1.md
+          - Version 2.3.0: en/updates/v2.3.0.md
+          - Version 2.2.0: en/updates/v2.2.0.md
+          - Version 2.1.0: en/updates/v2.1.0.md
+          - Version 2.0.1: en/updates/v2.0.1.md
+          - Version 2.0.0: en/updates/v2.0.0.md
+          - Version 1.2.0: en/updates/v1.2.0.md
+          - Version 1.1.0: en/updates/v1.1.0.md
+      - Reference:
+          - Image Gallery: en/reference/gallery.md
+          - Glossary: en/reference/glossary.md
+          - Privacy: en/privacy.md
+
 plugins:
-- search:
-    lang: ja
+  - search:
+      lang: ja
+
 markdown_extensions:
-- admonition
-- attr_list
-- def_list
-- footnotes
-- md_in_html
-- tables
-- toc:
-    permalink: true
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
 extra_css:
-- assets/stylesheets/extra.css
+  - assets/stylesheets/extra.css
+
 extra_javascript:
-- assets/javascripts/outbound-links.js
+  - assets/javascripts/outbound-links.js
+
 extra:
   social:
-  - icon: fontawesome/brands/x-twitter
-    link: https://x.com/IFHistorySim
-  - icon: fontawesome/brands/youtube
-    link: https://www.youtube.com/@IFHistorySim
-  analytics_notice: Cloudflare Web Analyticsを使用します。Cookieは使用しません。
-  analytics:
-    provider: google
-    property: G-D0VZQ6DSS0
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/IFHistorySim
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@IFHistorySim
+  analytics_notice: "Cloudflare Web Analyticsを使用します。Cookieは使用しません。"

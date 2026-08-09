@@ -2,28 +2,26 @@
 
 [日本語版](../../gameplay/modes.md)
 
-You can enter the battle at any time in one of three modes. Orders are issued by right-clicking a unit.
+## Participation
 
-## Observe All Except Selected Commanders
+Choose who you control. The side cannot be changed after the battle starts.
 
-You can give orders to up to three player-created or historical commanders on the same side.
+### Observe
 
-- Player-created commanders can be freely named
-- All other units continue to act autonomously
-- You can intervene locally while observing the entire battle
+All units are AI-controlled.
 
-## Command the Eastern Army
+### Join Eastern Army
 
-You can issue orders to every Eastern Army commander.
+You can issue orders to participating commanders on the Eastern Army side.
 
-This supports strategies such as a central breakthrough led by Tokugawa Ieyasu or a concentrated advance toward the enemy commander.
+### Join Western Army
 
-## Command the Western Army
+You can issue orders to participating commanders on the Western Army side.
 
-You can issue orders to every Western Army commander.
+## Join as Commander
 
-Coordination is especially important for encirclement, defeat in detail, and protecting the Western commander.
+Select an existing commander to control, or create a user commander. Up to three commanders may participate.
 
-## From Observation to Intervention
+User commanders can have custom troop strength, placement, initial target, formation, and formation-hold turns.
 
-The game is primarily designed for observation, but you can issue orders only when needed. This makes it suitable for leaving the battle running while working and intervening at decisive moments.
+To issue an order, right-click the target unit and use the unit command dialog.
