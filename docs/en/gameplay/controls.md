@@ -76,7 +76,7 @@ Sets how many soldiers one troop dot represents: 10 or 20. Changing it recreates
 
 ### Dot HP
 
-Sets durability from 1/4 to 16× Standard. Changing it recreates the initial state.
+Sets the durability of all troop dots to 1/4×, 1/2×, Standard, 2×, 4×, or 8×. Changing this setting recreates the initial state. Higher values increase the number of turns before the battle is decided, making them useful when you want more time to consider the situation. In the mode that determines the winner based on the situation at 8 PM, the result is decided by the number of troops remaining at 8 PM. Therefore, higher Dot HP values favor the Western Army, which begins with the larger total force.
 
 ### Captions
 
