@@ -50,3 +50,11 @@ This section combines fixed in-game commander data, unit banners, brief careers,
 | Chosokabe Morichika | West | 6,600 | 97 | 68 | 68 | 72 | [View](western/chosokabe-morichika.md) |
 | Tachibana Muneshige | West | 4,000 | 109 | 92 | 84 | 90 | [View](western/tachibana-muneshige.md) |
 | Nabeshima Naoshige | West | 12,000 | 102 | 74 | 82 | 84 | [View](western/nabeshima-naoshige.md) |
+
+## User Commanders
+
+| Commander | Army | Initial Troops | Morale | Atk | Def | Leadership | Details |
+|---|---|---:|---:|---:|---:|---:|---|
+| User Commander 1 | Eastern / Western | 5,000 | 100 | 72 | 72 | 80 | [View](user/user-commander-1.md) |
+| User Commander 2 | Eastern / Western | 5,000 | 100 | 72 | 72 | 80 | [View](user/user-commander-2.md) |
+| User Commander 3 | Eastern / Western | 5,000 | 100 | 72 | 72 | 80 | [View](user/user-commander-3.md) |

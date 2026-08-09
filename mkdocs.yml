@@ -50,6 +50,11 @@ nav:
   - 武将:
       - 一覧: commanders/index.md
       - 情報源と方針: commanders/sources.md
+      - ユーザー武将:
+          - 一覧: commanders/user/index.md
+          - ユーザー武将1: commanders/user/user-commander-1.md
+          - ユーザー武将2: commanders/user/user-commander-2.md
+          - ユーザー武将3: commanders/user/user-commander-3.md
       - 東軍:
           - 一覧: commanders/eastern/index.md
           - 井伊直政: commanders/eastern/ii-naomasa.md
@@ -141,6 +146,11 @@ nav:
           - Unit AI: en/systems/ai.md
       - Commanders:
           - List: en/commanders/index.md
+          - User Commanders:
+              - List: en/commanders/user/index.md
+              - User Commander 1: en/commanders/user/user-commander-1.md
+              - User Commander 2: en/commanders/user/user-commander-2.md
+              - User Commander 3: en/commanders/user/user-commander-3.md
           - Eastern Army:
               - List: en/commanders/eastern/index.md
               - Asano Yoshinaga: en/commanders/eastern/asano-yoshinaga.md
