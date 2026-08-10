@@ -2,6 +2,10 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.3.3
+- Improved the smoothness of the animations.
+- [Details](v2.3.3.md)
+
 ## Version 2.3.2
 - Added a **Decide winner at 8 PM** toggle
 - Reduced the caption text size
