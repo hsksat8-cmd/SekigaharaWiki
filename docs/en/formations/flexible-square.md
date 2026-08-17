@@ -1,14 +1,15 @@
-# Flexible Square Formation
+# Flexible Square
 
 [日本語版](../../formations/flexible-square.md)
 
-This formation does not maintain a fixed shape from the start, allowing its dots to respond more easily to targets and local battlefield conditions.
+## Characteristics after the introduction of matchlocks
 
-## Best Uses
+A balanced formation with more flexibility than Square in both lines of fire and troop movement.
 
-- Filling gaps between allied units
-- Naturally concentrating after contact
-- Moving around an enemy flank
-- Following and supporting other units
+## Recommended Use
 
-It is better suited to mobile support than to maintaining a fixed frontal line.
+Around 30–45% matchlocks. Spread according to the battle line while preserving allied lines of fire and retaining guards.
+
+## Weaknesses
+
+Its pressure on both wings and encirclement ability are not as strong as Crane Wing. At 60% matchlocks, the density of spear and cavalry guards is likely to become insufficient.

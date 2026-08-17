@@ -1,14 +1,15 @@
-# Deep Formation
+# Deep
 
 [日本語版](../../formations/deep.md)
 
-A formation with a narrow frontage and greater depth.
+## Characteristics after the introduction of matchlocks
 
-## Best Uses
+Its front-to-back depth is strong for breakthroughs and frontal pressure, but rear-rank matchlocks are easily blocked by the front ranks.
 
-- Entering narrow breakthrough points
-- Concentrating on gaps in the enemy line
-- Breaking through the center of a Crane Wing formation
-- Exploiting gaps between friendly units
+## Recommended Use
 
-It is vulnerable to being flanked by broad-front formations such as Square and Fish Scale.
+Keep the matchlock ratio low and mix them through the front and rear ranks. Put spears and cavalry forward and use them to quickly break enemy Matchlock Ashigaru with charges.
+
+## Weaknesses
+
+It does not work well with a high matchlock ratio. Lines of fire become congested while advancing, and it is vulnerable to flanking fire from Crane Wing and Fish Scale.

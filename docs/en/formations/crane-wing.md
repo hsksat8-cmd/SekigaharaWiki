@@ -1,13 +1,15 @@
-# Crane Wing Formation
+# Crane Wing
 
 [日本語版](../../formations/crane-wing.md)
 
-Weak in frontal combat and intended for flank attacks after the enemy has become engaged head-on with another unit.
+## Characteristics after the introduction of matchlocks
 
-## Best Uses
+Makes it easy to deploy Matchlock Ashigaru on both wings and create multiple lines of fire from the sides. As the formation envelops the enemy, pressure from the flanks and rear also increases.
 
-- Flanking after another unit fixes the enemy in place
-- Extending both wings around the enemy to create flank or rear attacks
-- Supporting an encirclement
+## Recommended Use
 
-It is not suited to attacking the main enemy force head-on by itself.
+Best suited to a high matchlock ratio. Keep spear and cavalry guards in the center, wear down the enemy with matchlocks on both wings, then envelop them.
+
+## Weaknesses
+
+If enemy spears or cavalry reach the wings first, the lower-durability Matchlock Ashigaru can collapse quickly. When there is a large difference in troop strength, it is better not to spread the wings too widely.

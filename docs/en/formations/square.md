@@ -1,13 +1,15 @@
-# Square Formation
+# Square
 
 [日本語版](../../formations/square.md)
 
-A basic formation for frontal combat. Its width and depth are relatively even, making losses less likely to become concentrated in one area.
+## Characteristics after the introduction of matchlocks
 
-## Best Uses
+Its dense shape is easy to defend, and guards for Matchlock Ashigaru also remain concentrated.
 
-- Holding the main enemy force head-on
-- Maintaining a broad front
-- Stable frontal combat
+## Recommended Use
 
-It has the best overall performance.
+Hold the center and fight steadily from the front with around 30% matchlocks. Absorb the enemy charge, then counterattack enemy Matchlock Ashigaru with spears and cavalry.
+
+## Weaknesses
+
+Allied troops can easily block lines of fire. At high matchlock ratios, congestion in the front ranks reduces firing opportunities for the rear ranks.

@@ -2,6 +2,15 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.4.0
+- Added Matchlock Ashigaru.
+- Adjusted unit behavior to make movement more natural.
+- [Details](v2.4.0.md)
+
+## Version 2.3.4
+- Made the animation display more realistic.
+- [Details](v2.3.4.md)
+
 ## Version 2.3.3
 - Improved the smoothness of the animations.
 - [Details](v2.3.3.md)

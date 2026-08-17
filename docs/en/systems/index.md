@@ -4,6 +4,7 @@
 
 Battle results are shaped by the following elements:
 
+- Unit types
 - Unit attack and defense
 - Unit morale
 - Soldier-dot morale

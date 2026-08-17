@@ -1,14 +1,15 @@
-# Fish Scale Formation
+# Fish Scale
 
 [日本語版](../../formations/fish-scale.md)
 
-A wedge-shaped attacking formation that concentrates pressure on a single point.
+## Characteristics after the introduction of matchlocks
 
-## Best Uses
+Combines forward offensive pressure with lateral spread, making matchlock lines of fire relatively easy to create.
 
-- Breaking through a weakened front
-- Concentrated attacks against a flank
-- Driving into the enemy rear
-- Focusing pressure in a narrow area
+## Recommended Use
 
-Alongside Square, it is the most consistently strong formation.
+Suited to medium-to-high matchlock ratios. Pressure enemy Matchlock Ashigaru with spears and cavalry at the front, while supporting them with matchlocks from behind and the flanks.
+
+## Weaknesses
+
+Vulnerable to Crane Wing's broad encirclement and fire from both wings. If the front stops advancing, Matchlock Ashigaru can lose useful firing positions.
