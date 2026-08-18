@@ -2,8 +2,6 @@
 
 [日本語版](../../systems/damage.md)
 
-An archived post gives the following weighting for damage and defense.
-
 ## Attack
 
 | Factor | Weight |
