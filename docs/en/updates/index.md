@@ -2,6 +2,11 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.4.1
+- Adjusted unit behavior to make movement more natural.
+- Adjusted the game balance.
+- [Details](v2.4.1.md)
+
 ## Version 2.4.0
 - Added Matchlock Ashigaru.
 - Adjusted unit behavior to make movement more natural.

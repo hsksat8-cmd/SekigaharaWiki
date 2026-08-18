@@ -113,6 +113,7 @@ nav:
       - ランダム架空大戦: scenarios/random-fictional-war.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.4.1: updates/v2.4.1.md
       - Version 2.4.0: updates/v2.4.0.md
       - Version 2.3.4: updates/v2.3.4.md
       - Version 2.3.3: updates/v2.3.3.md
@@ -213,6 +214,7 @@ nav:
           - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.4.1: en/updates/v2.4.1.md
           - Version 2.4.0: en/updates/v2.4.0.md
           - Version 2.3.4: en/updates/v2.3.4.md
           - Version 2.3.3: en/updates/v2.3.3.md
