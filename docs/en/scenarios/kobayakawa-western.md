@@ -1,9 +1,5 @@
-# Kobayakawa Actively Joins the Western Army
+# Kobayakawa Fights for the West
 
 [日本語版](../../scenarios/kobayakawa-western.md)
 
-This what-if scenario explores a battle in which Kobayakawa Hideaki's unit joins the Western Army.
-
-Banners are displayed for each unit, making the forces easier to distinguish. The large-scale battlefield can be viewed with the visual appeal of a Sengoku-period battle scroll.
-
-[Watch the battle video](https://x.com/IFHistorySim/status/2085292061096632435/video/1)
+Kobayakawa's main unit and four accompanying units launch an offensive for the Western Army immediately after the battle begins. No defection occurs. With the Western Army starting at +10 morale and the Eastern Army at -3, the Western Army can apply heavy pressure from the Mount Matsuo area.

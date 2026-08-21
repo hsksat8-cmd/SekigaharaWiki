@@ -104,13 +104,22 @@ nav:
   - シナリオ:
       - 一覧: scenarios/index.md
       - 史実寄り: scenarios/historical.md
-      - 毛利積極参戦: scenarios/mori-active.md
+      - 西軍有利: scenarios/western-advantage.md
+      - 東軍有利: scenarios/eastern-advantage.md
+      - 小早川静観: scenarios/kobayakawa-neutral.md
+      - 小早川・毛利静観: scenarios/kobayakawa-mori-observe.md
+      - 毛利参戦: scenarios/mori-joins.md
       - 島津積極策: scenarios/shimazu-active.md
-      - 小早川中立: scenarios/kobayakawa-neutral.md
+      - 毛利積極参戦: scenarios/mori-active.md
+      - 毛利積極参戦・小早川静観: scenarios/mori-active-kobayakawa-observes.md
       - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
       - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
       - 完全ランダム: scenarios/random.md
+      - 兵数を含む完全ランダム: scenarios/random-with-troop-counts.md
       - ランダム架空大戦: scenarios/random-fictional-war.md
+      - 兵数を含むランダム架空大戦: scenarios/random-fictional-war-with-troop-counts.md
+      - 陣形実験1: scenarios/formation-experiment-1.md
+      - 陣形実験2: scenarios/formation-experiment-2.md
   - 更新履歴:
       - 一覧: updates/index.md
       - Version 2.4.3: updates/v2.4.3.md
@@ -206,14 +215,23 @@ nav:
           - Fish Scale: en/formations/fish-scale.md
       - Scenarios:
           - List: en/scenarios/index.md
-          - Historically Inspired: en/scenarios/historical.md
-          - Active Mori: en/scenarios/mori-active.md
-          - Active Shimazu: en/scenarios/shimazu-active.md
-          - Kobayakawa Neutral: en/scenarios/kobayakawa-neutral.md
-          - Kobayakawa Western: en/scenarios/kobayakawa-western.md
-          - Mori and Kobayakawa Western: en/scenarios/mori-kobayakawa-western.md
+          - Historical: en/scenarios/historical.md
+          - Western Advantage: en/scenarios/western-advantage.md
+          - Eastern Advantage: en/scenarios/eastern-advantage.md
+          - Kobayakawa Observes: en/scenarios/kobayakawa-neutral.md
+          - Kobayakawa and Mori Observe: en/scenarios/kobayakawa-mori-observe.md
+          - Mori Joins: en/scenarios/mori-joins.md
+          - Shimazu Active: en/scenarios/shimazu-active.md
+          - Mori Active: en/scenarios/mori-active.md
+          - Mori Active, Kobayakawa Observes: en/scenarios/mori-active-kobayakawa-observes.md
+          - Kobayakawa Fights for the West: en/scenarios/kobayakawa-western.md
+          - Mori and Kobayakawa Fight for the West: en/scenarios/mori-kobayakawa-western.md
           - Fully Random: en/scenarios/random.md
+          - Fully Random with Troop Counts: en/scenarios/random-with-troop-counts.md
           - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
+          - Random Fictional Grand Battle with Troop Counts: en/scenarios/random-fictional-war-with-troop-counts.md
+          - Formation Experiment 1: en/scenarios/formation-experiment-1.md
+          - Formation Experiment 2: en/scenarios/formation-experiment-2.md
       - Updates:
           - History: en/updates/index.md
           - Version 2.4.3: en/updates/v2.4.3.md

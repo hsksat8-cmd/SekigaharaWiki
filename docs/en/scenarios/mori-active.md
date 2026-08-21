@@ -1,8 +1,5 @@
-# Active Mori Participation
+# Mori Active
 
 [日本語版](../../scenarios/mori-active.md)
 
-This scenario recreates the battle with Mori forces participating actively.
-
-It allows you to compare how earlier and more aggressive Mori participation changes Western Army concentration and the overall battle line.
-
+Mori Hidemoto and Kikkawa Hiroie do not remain on the sidelines after the battle begins and instead advance as part of the Western Army. The Western Army starts with +8 morale. Kobayakawa retains the normal possibility of defecting.

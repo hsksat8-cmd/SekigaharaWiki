@@ -1,14 +1,5 @@
-# Historically Inspired
+# Historical
 
 [日本語版](../../scenarios/historical.md)
 
-This scenario develops the Battle of Sekigahara under conditions inspired by history.
-
-## Characteristics
-
-- Initial conditions inspired by the historical battle
-- Participation decisions and defection can change the course of battle
-- Kobayakawa Hideaki's actions have a major effect on the Western Army
-- Mori, Kikkawa, and Shimazu behavior can also affect the result
-
-even similar starting conditions can lead to different outcomes depending on timing and battlefield momentum.
+Uses the standard Sekigahara deployment. The Eastern Army starts with +3 morale. From turn 20 onward, Kobayakawa makes defection checks based on factors such as an Eastern Army advantage, losses suffered by Otani's unit, and declining Western Army morale. The Mori forces generally tend to remain on the sidelines.

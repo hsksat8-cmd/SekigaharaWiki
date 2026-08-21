@@ -2,17 +2,4 @@
 
 [日本語版](../../scenarios/random.md)
 
-Commander abilities and battle conditions vary, creating an unpredictable battle.
-
-## Randomized Elements
-
-Commander abilities and battle conditions change with each playthrough.
-
-Development posts on X provide additional examples:
-
-- Troop strength assigned to individual commanders may vary
-- Commander parameters may change
-- Participation decisions may be less closely tied to battlefield conditions than in historically inspired scenarios
-
-!!! note
-    The exact range of randomization may depend on the game version and selected sub-scenario.
+Uses the standard-size Sekigahara map and standard deployment while randomizing each commander's morale, aggressiveness, loyalty, and hesitation. Kobayakawa begins by observing and then, between turns 20 and 200, joins or defects according to a probability calibrated to reach a cumulative 50% chance over that period.

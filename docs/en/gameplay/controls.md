@@ -86,6 +86,14 @@ Shows or hides automatic battle captions. It does not affect battle results or l
 
 Opens current battle rankings, side scores, and cumulative rankings.
 
+### Automatic Overview button
+
+Toggles Automatic Overview Mode on or off.
+
+### `<<` / `>>` buttons
+
+Returns to the previous scene or advances to the next scene in Automatic Overview Mode.
+
 ## Top Controls
 
 ### Official Wiki
