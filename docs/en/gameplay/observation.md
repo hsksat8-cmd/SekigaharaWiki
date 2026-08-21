@@ -8,6 +8,10 @@ Sekigahara: What-If Battle Simulator is designed to be enjoyable as an observati
 
 After the battle begins, each unit acts autonomously according to its objectives and battlefield conditions. Constant input is not required.
 
+## Automatic Overview Mode
+
+In Automatic Overview Mode, the camera automatically cycles between the entire battlefield and the areas where combat is taking place, using animated battle views along the way. This allows you to understand both the overall situation and the fighting status of individual units simply by watching.
+
 ## Real-Time Subtitles
 
 Real-time subtitles appear during the battle.

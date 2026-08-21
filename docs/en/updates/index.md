@@ -2,6 +2,16 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.4.3
+- Added support for a trial version. In the trial version, only the **Kobayakawa and Mori Remain Neutral** scenario can be selected, and only **one user commander unit** can be added.
+- [Details](v2.4.3.md)
+
+## Version 2.4.2
+- Added Automatic Overview Mode.
+- Adjusted unit behavior to make movement more natural.
+- Adjusted the game balance.
+- [Details](v2.4.2.md)
+
 ## Version 2.4.1
 - Adjusted unit behavior to make movement more natural.
 - Adjusted the game balance.
