@@ -281,3 +281,6 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@IFHistorySim
   analytics_notice: "Cloudflare Web Analyticsを使用します。Cookieは使用しません。"
+  analytics:
+    provider: google
+    property: G-D0VZQ6DSS0
