@@ -6,7 +6,6 @@
 
 戦闘開始後は各部隊が目標や戦況に応じて自律的に行動します。作業中に画面の片隅で戦況の変化を眺めたり、布陣やシナリオを変更して異なる結末を比較したりできます。
 
-    このページは、Microsoft Storeの現行製品説明と、Xの開発投稿を統合して整理しています。バージョン別の変更履歴は[更新履歴](../updates/index.md)を参照してください。
 
 ## ゲームの中心となる考え方
 
@@ -51,12 +50,14 @@ Ctrl＋左クリックの拡大モードでは、兵士のアニメーション�
 ![拡大モードの戦闘シーン](../assets/images/v2-0-0-battle-animation.jpg){ .wiki-image }
 <p class="image-caption">兵士アニメーションが表示される拡大モード</p>
 
-## 関連ページ
+## 次に読むページ
 
 - [プレイモード](../gameplay/modes.md)
-- [観戦・字幕](../gameplay/observation.md)
+- [操作メニュー・キー・マウス操作](../gameplay/controls.md)
+- [観戦とリアルタイム字幕](../gameplay/observation.md)
+- [戦闘システム](../systems/index.md)
+- [陣形の概要](../formations/index.md)
+- [陣形と鉄砲足軽比率の実験](../formations/experiments.md)
+- [シナリオ一覧](../scenarios/index.md)
 - [サブシナリオ](../gameplay/subscenarios.md)
 - [戦績とランキング](../gameplay/results-and-rankings.md)
-- [基本戦術](../gameplay/tactics.md)
-- [シナリオ一覧](../scenarios/index.md)
-- [陣形一覧](../formations/index.md)

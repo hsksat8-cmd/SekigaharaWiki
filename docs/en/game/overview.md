@@ -47,12 +47,14 @@ Ctrl + left click activates a zoom mode with animated soldiers. Ctrl + mouse whe
 ![Battle animation in zoom mode](../../assets/images/v2-0-0-battle-animation.jpg){ .wiki-image }
 <p class="image-caption">Animated soldiers in zoom mode</p>
 
-## Related Pages
+## Next Pages
 
 - [Play Modes](../gameplay/modes.md)
+- [Controls and Menus](../gameplay/controls.md)
 - [Observation and Real-Time Subtitles](../gameplay/observation.md)
+- [Battle System](../systems/index.md)
+- [Formation Overview](../formations/index.md)
+- [Formation and Matchlock Ashigaru Experiments](../formations/experiments.md)
+- [Scenario List](../scenarios/index.md)
 - [Sub-Scenarios](../gameplay/subscenarios.md)
 - [Results and Rankings](../gameplay/results-and-rankings.md)
-- [Basic Tactics](../gameplay/tactics.md)
-- [Scenario List](../scenarios/index.md)
-- [Formation Overview](../formations/index.md)

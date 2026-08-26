@@ -32,15 +32,25 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 - Zoom the map from 1× to 50×
 - Recreate encirclement, defeat in detail, and central breakthroughs
 
-## Recommended Pages
+## Getting Started
 
-- [Game Overview](game/overview.md)
-- [Play Modes](gameplay/modes.md)
-- [Keyboard and Mouse Controls](gameplay/controls.md)
-- [Observation and Real-Time Subtitles](gameplay/observation.md)
-- [Sub-Scenarios](gameplay/subscenarios.md)
-- [Results and Rankings](gameplay/results-and-rankings.md)
-- [Commander List](commanders/index.md)
-- [Scenario List](scenarios/index.md)
-- [Formation Overview](formations/index.md)
-- [Image Gallery](reference/gallery.md)
+If this is your first visit, the following order provides the clearest introduction to the game.
+
+1. [Game Overview](game/overview.md) — the overall concept and main features
+2. [Play Modes](gameplay/modes.md) — observing, joining the Eastern Army, and joining the Western Army
+3. [Controls and Menus](gameplay/controls.md) — top-menu commands and basic controls
+4. [Observation and Real-Time Subtitles](gameplay/observation.md) — observation features including Automatic Overview Mode
+
+## Find a Topic
+
+| What you want to know | Page |
+|---|---|
+| Battle rules and calculations | [Battle System](systems/index.md) |
+| Characteristics of the five formations | [Formation Overview](formations/index.md) |
+| Formation and matchlock-proportion experiment results | [Formation and Matchlock Ashigaru Experiments](formations/experiments.md) |
+| Differences between scenarios | [Scenario List](scenarios/index.md) |
+| Commander statistics and characteristics | [Commander List](commanders/index.md) |
+| Create battles with your own conditions | [Sub-Scenarios](gameplay/subscenarios.md) |
+| View battle records and rankings | [Results and Rankings](gameplay/results-and-rankings.md) |
+| Check recent changes | [Update History](updates/index.md) |
+| View images and videos | [Image Gallery](reference/gallery.md) / [YouTube](https://www.youtube.com/@IFHistorySim) |

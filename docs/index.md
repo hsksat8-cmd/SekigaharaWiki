@@ -32,15 +32,25 @@
 - 1～50倍のマップ表示
 - 包囲、各個撃破、中央突破などの戦略
 
-## はじめに読むページ
+## はじめに
 
-- [ゲーム概要](game/overview.md)
-- [プレイモード](gameplay/modes.md)
-- [キーボード・マウス操作](gameplay/controls.md)
-- [観戦とリアルタイム字幕](gameplay/observation.md)
-- [サブシナリオ](gameplay/subscenarios.md)
-- [戦績とランキング](gameplay/results-and-rankings.md)
-- [武将一覧](commanders/index.md)
-- [シナリオ一覧](scenarios/index.md)
-- [陣形の概要](formations/index.md)
-- [画像ギャラリー](reference/gallery.md)
+初めて見る場合は、次の順に読むとゲームの流れをつかみやすくなります。
+
+1. [ゲーム概要](game/overview.md) — ゲーム全体の目的と特徴
+2. [プレイモード](gameplay/modes.md) — 観戦、東軍参加、西軍参加の違い
+3. [操作メニュー・キー・マウス操作](gameplay/controls.md) — 上部メニューと基本操作
+4. [観戦とリアルタイム字幕](gameplay/observation.md) — 自動俯瞰を含む観戦機能
+
+## 目的別に読む
+
+| 知りたいこと | ページ |
+|---|---|
+| 戦闘ルールと判定 | [戦闘システム](systems/index.md) |
+| 5種類の陣形の特徴 | [陣形の概要](formations/index.md) |
+| 陣形と鉄砲足軽比率の実験結果 | [陣形と鉄砲足軽比率の実験](formations/experiments.md) |
+| シナリオごとの違い | [シナリオ一覧](scenarios/index.md) |
+| 武将の能力値と特徴 | [武将一覧](commanders/index.md) |
+| 自分の条件で戦闘を作る | [サブシナリオ](gameplay/subscenarios.md) |
+| 戦績・ランキングを見る | [戦績とランキング](gameplay/results-and-rankings.md) |
+| 最近の変更点を確認する | [更新履歴](updates/index.md) |
+| 画像や動画を見る | [画像ギャラリー](reference/gallery.md) / [動画・投稿一覧](reference/media.md) |
