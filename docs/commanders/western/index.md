@@ -22,5 +22,6 @@
 | 上杉景勝 | 西 | 16,000 | 104 | 80 | 86 | 86 | [表示](uesugi-kagekatsu.md) |
 | 佐竹義宣 | 西 | 12,000 | 98 | 66 | 76 | 80 | [表示](satake-yoshinobu.md) |
 | 長宗我部盛親 | 西 | 6,600 | 97 | 68 | 68 | 72 | [表示](chosokabe-morichika.md) |
-| 立花宗茂 | 西 | 4,000 | 109 | 92 | 84 | 90 | [表示](tachibana-muneshige.md) |
+| 立花宗茂 | 西 | 5,500 | 109 | 92 | 84 | 90 | [表示](tachibana-muneshige.md) |
 | 鍋島直茂 | 西 | 12,000 | 102 | 74 | 82 | 84 | [表示](nabeshima-naoshige.md) |
+| 丹羽長重 | 西 | 6,000 | 101 | 74 | 85 | 83 | [表示](niwa-nagashige.md) |

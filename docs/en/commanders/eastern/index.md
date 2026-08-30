@@ -12,9 +12,9 @@
 | Honda Tadakatsu | East | 500 | 111 | 96 | 90 | 96 | [View](honda-tadakatsu.md) |
 | Todo Takatora | East | 2,500 | 101 | 72 | 74 | 78 | [View](todo-takatora.md) |
 | Kyogoku Takatomo | East | 3,000 | 97 | 64 | 68 | 70 | [View](kyogoku-takatomo.md) |
-| Date Masamune | East | 17,000 | 105 | 86 | 76 | 80 | [View](date-masamune.md) |
-| Maeda Toshinaga | East | 18,000 | 102 | 70 | 82 | 84 | [View](maeda-toshinaga.md) |
+| Date Masamune | East | 13,600 | 105 | 86 | 76 | 80 | [View](date-masamune.md) |
+| Maeda Toshinaga | East | 14,400 | 102 | 70 | 82 | 84 | [View](maeda-toshinaga.md) |
 | Kato Kiyomasa | East | 10,000 | 107 | 92 | 78 | 78 | [View](kato-kiyomasa.md) |
-| Asano Yoshinaga | East | 6,500 | 99 | 70 | 70 | 72 | [View](asano-yoshinaga.md) |
+| Asano Yoshinaga | East | 5,100 | 99 | 70 | 70 | 72 | [View](asano-yoshinaga.md) |
 | Ikeda Terumasa | East | 4,500 | 98 | 68 | 72 | 74 | [View](ikeda-terumasa.md) |
-| Yamauchi Kazutoyo | East | 2,050 | 97 | 62 | 68 | 70 | [View](yamauchi-kazutoyo.md) |
+| Yamauchi Kazutoyo | East | 2,100 | 97 | 62 | 68 | 70 | [View](yamauchi-kazutoyo.md) |

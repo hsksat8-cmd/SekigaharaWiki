@@ -39,17 +39,18 @@ This section combines fixed in-game commander data, unit banners, brief careers,
 
 | Commander | Army | Troops | Morale | Atk | Def | Leadership | Details |
 |---|---|---:|---:|---:|---:|---:|---|
-| Date Masamune | East | 17,000 | 105 | 86 | 76 | 80 | [View](eastern/date-masamune.md) |
-| Maeda Toshinaga | East | 18,000 | 102 | 70 | 82 | 84 | [View](eastern/maeda-toshinaga.md) |
+| Date Masamune | East | 13,600 | 105 | 86 | 76 | 80 | [View](eastern/date-masamune.md) |
+| Maeda Toshinaga | East | 14,400 | 102 | 70 | 82 | 84 | [View](eastern/maeda-toshinaga.md) |
 | Kato Kiyomasa | East | 10,000 | 107 | 92 | 78 | 78 | [View](eastern/kato-kiyomasa.md) |
-| Asano Yoshinaga | East | 6,500 | 99 | 70 | 70 | 72 | [View](eastern/asano-yoshinaga.md) |
+| Asano Yoshinaga | East | 5,100 | 99 | 70 | 70 | 72 | [View](eastern/asano-yoshinaga.md) |
 | Ikeda Terumasa | East | 4,500 | 98 | 68 | 72 | 74 | [View](eastern/ikeda-terumasa.md) |
-| Yamauchi Kazutoyo | East | 2,050 | 97 | 62 | 68 | 70 | [View](eastern/yamauchi-kazutoyo.md) |
+| Yamauchi Kazutoyo | East | 2,100 | 97 | 62 | 68 | 70 | [View](eastern/yamauchi-kazutoyo.md) |
 | Uesugi Kagekatsu | West | 16,000 | 104 | 80 | 86 | 86 | [View](western/uesugi-kagekatsu.md) |
 | Satake Yoshinobu | West | 12,000 | 98 | 66 | 76 | 80 | [View](western/satake-yoshinobu.md) |
 | Chosokabe Morichika | West | 6,600 | 97 | 68 | 68 | 72 | [View](western/chosokabe-morichika.md) |
-| Tachibana Muneshige | West | 4,000 | 109 | 92 | 84 | 90 | [View](western/tachibana-muneshige.md) |
+| Tachibana Muneshige | West | 5,500 | 109 | 92 | 84 | 90 | [View](western/tachibana-muneshige.md) |
 | Nabeshima Naoshige | West | 12,000 | 102 | 74 | 82 | 84 | [View](western/nabeshima-naoshige.md) |
+| Niwa Nagashige | West | 6,000 | 101 | 74 | 85 | 83 | [View](western/niwa-nagashige.md) |
 
 ## User Commanders
 

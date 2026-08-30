@@ -39,17 +39,18 @@
 
 | 武将 | 軍 | 兵数 | 士気 | 攻 | 防 | 統率 | 詳細 |
 |---|---|---:|---:|---:|---:|---:|---|
-| 伊達政宗 | 東 | 17,000 | 105 | 86 | 76 | 80 | [表示](eastern/date-masamune.md) |
-| 前田利長 | 東 | 18,000 | 102 | 70 | 82 | 84 | [表示](eastern/maeda-toshinaga.md) |
+| 伊達政宗 | 東 | 13,600 | 105 | 86 | 76 | 80 | [表示](eastern/date-masamune.md) |
+| 前田利長 | 東 | 14,400 | 102 | 70 | 82 | 84 | [表示](eastern/maeda-toshinaga.md) |
 | 加藤清正 | 東 | 10,000 | 107 | 92 | 78 | 78 | [表示](eastern/kato-kiyomasa.md) |
-| 浅野幸長 | 東 | 6,500 | 99 | 70 | 70 | 72 | [表示](eastern/asano-yoshinaga.md) |
+| 浅野幸長 | 東 | 5,100 | 99 | 70 | 70 | 72 | [表示](eastern/asano-yoshinaga.md) |
 | 池田輝政 | 東 | 4,500 | 98 | 68 | 72 | 74 | [表示](eastern/ikeda-terumasa.md) |
-| 山内一豊 | 東 | 2,050 | 97 | 62 | 68 | 70 | [表示](eastern/yamauchi-kazutoyo.md) |
+| 山内一豊 | 東 | 2,100 | 97 | 62 | 68 | 70 | [表示](eastern/yamauchi-kazutoyo.md) |
 | 上杉景勝 | 西 | 16,000 | 104 | 80 | 86 | 86 | [表示](western/uesugi-kagekatsu.md) |
 | 佐竹義宣 | 西 | 12,000 | 98 | 66 | 76 | 80 | [表示](western/satake-yoshinobu.md) |
 | 長宗我部盛親 | 西 | 6,600 | 97 | 68 | 68 | 72 | [表示](western/chosokabe-morichika.md) |
-| 立花宗茂 | 西 | 4,000 | 109 | 92 | 84 | 90 | [表示](western/tachibana-muneshige.md) |
+| 立花宗茂 | 西 | 5,500 | 109 | 92 | 84 | 90 | [表示](western/tachibana-muneshige.md) |
 | 鍋島直茂 | 西 | 12,000 | 102 | 74 | 82 | 84 | [表示](western/nabeshima-naoshige.md) |
+| 丹羽長重 | 西 | 6,000 | 101 | 74 | 85 | 83 | [表示](western/niwa-nagashige.md) |
 
 ## ユーザー武将
 

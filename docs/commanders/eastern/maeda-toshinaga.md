@@ -18,7 +18,7 @@
   <tbody>
     <tr><td>軍</td><td>東軍</td></tr>
     <tr><td>区分</td><td>架空拡張マップ追加武将</td></tr>
-    <tr><td>兵数</td><td>18,000</td></tr>
+    <tr><td>兵数</td><td>14,400</td></tr>
     <tr><td>開始士気</td><td>102</td></tr>
     <tr><td>攻撃</td><td>70</td></tr>
     <tr><td>防御</td><td>82</td></tr>

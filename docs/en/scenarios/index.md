@@ -25,12 +25,13 @@ Scenario names below match the names shown in the game's English scenario menu.
 | [Kobayakawa Fights for the West](kobayakawa-western.md) | Kobayakawa and four accompanying units attack for the Western Army immediately; Western Army +10, Eastern Army -3. |
 | [Mori and Kobayakawa Fight for the West](mori-kobayakawa-western.md) | Mori and Kobayakawa actively fight for the Western Army; Western Army +14, Eastern Army -6. |
 
-## Random Battles
+## Fictional and Random Battles
 
 | Scenario | Summary |
 |---|---|
 | [Fully Random](random.md) | Randomizes each commander's morale, aggressiveness, loyalty, and hesitation on the standard deployment. |
 | [Fully Random with Troop Counts](random-with-troop-counts.md) | Adds randomized troop allocation among units while preserving each army's total strength. |
+| [Fictional Grand Battle](fictional-grand-battle.md) | Uses fixed commander attributes and base troop counts on the four-times-larger battlefield, while shuffling designated starting-position slots. |
 | [Random Fictional Grand Battle](random-fictional-war.md) | Uses a battlefield four times larger, adds extra daimyo, and varies traits and starting positions. |
 | [Random Fictional Grand Battle with Troop Counts](random-fictional-war-with-troop-counts.md) | Adds unit-by-unit troop-count variation to Random Fictional Grand Battle. |
 

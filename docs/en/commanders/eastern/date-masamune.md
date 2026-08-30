@@ -18,7 +18,7 @@
   <tbody>
     <tr><td>Army</td><td>Eastern Army</td></tr>
     <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
-    <tr><td>Troops</td><td>17,000</td></tr>
+    <tr><td>Troops</td><td>13,600</td></tr>
     <tr><td>Starting morale</td><td>105</td></tr>
     <tr><td>Attack</td><td>86</td></tr>
     <tr><td>Defense</td><td>76</td></tr>

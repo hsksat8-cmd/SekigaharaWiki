@@ -22,5 +22,6 @@
 | Uesugi Kagekatsu | West | 16,000 | 104 | 80 | 86 | 86 | [View](uesugi-kagekatsu.md) |
 | Satake Yoshinobu | West | 12,000 | 98 | 66 | 76 | 80 | [View](satake-yoshinobu.md) |
 | Chosokabe Morichika | West | 6,600 | 97 | 68 | 68 | 72 | [View](chosokabe-morichika.md) |
-| Tachibana Muneshige | West | 4,000 | 109 | 92 | 84 | 90 | [View](tachibana-muneshige.md) |
+| Tachibana Muneshige | West | 5,500 | 109 | 92 | 84 | 90 | [View](tachibana-muneshige.md) |
 | Nabeshima Naoshige | West | 12,000 | 102 | 74 | 82 | 84 | [View](nabeshima-naoshige.md) |
+| Niwa Nagashige | West | 6,000 | 101 | 74 | 85 | 83 | [View](niwa-nagashige.md) |

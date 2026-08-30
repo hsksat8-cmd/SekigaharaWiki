@@ -71,9 +71,10 @@ nav:
           - 毛利積極参戦・小早川静観: scenarios/mori-active-kobayakawa-observes.md
           - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
           - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
-      - ランダム戦:
+      - 架空・ランダム戦:
           - 完全ランダム: scenarios/random.md
           - 兵数を含む完全ランダム: scenarios/random-with-troop-counts.md
+          - 架空大戦: scenarios/fictional-grand-battle.md
           - ランダム架空大戦: scenarios/random-fictional-war.md
           - 兵数を含むランダム架空大戦: scenarios/random-fictional-war-with-troop-counts.md
       - 検証用:
@@ -124,6 +125,7 @@ nav:
           - 脇坂安治: commanders/western/wakizaka-yasuharu.md
           - 赤座直保: commanders/western/akaza-naoyasu.md
           - 鍋島直茂: commanders/western/nabeshima-naoshige.md
+          - 丹羽長重: commanders/western/niwa-nagashige.md
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
@@ -189,9 +191,10 @@ nav:
               - Mori Active, Kobayakawa Observes: en/scenarios/mori-active-kobayakawa-observes.md
               - Kobayakawa Fights for the West: en/scenarios/kobayakawa-western.md
               - Mori and Kobayakawa Fight for the West: en/scenarios/mori-kobayakawa-western.md
-          - Random Battles:
+          - Fictional and Random Battles:
               - Fully Random: en/scenarios/random.md
               - Fully Random with Troop Counts: en/scenarios/random-with-troop-counts.md
+              - Fictional Grand Battle: en/scenarios/fictional-grand-battle.md
               - Random Fictional Grand Battle: en/scenarios/random-fictional-war.md
               - Random Fictional Grand Battle with Troop Counts: en/scenarios/random-fictional-war-with-troop-counts.md
           - Testing:
@@ -232,6 +235,7 @@ nav:
               - Kutsuki Mototsuna: en/commanders/western/kutsuki-mototsuna.md
               - Mori Hidemoto: en/commanders/western/mori-hidemoto.md
               - Nabeshima Naoshige: en/commanders/western/nabeshima-naoshige.md
+              - Niwa Nagashige: en/commanders/western/niwa-nagashige.md
               - Ogawa Suketada: en/commanders/western/ogawa-suketada.md
               - Otani Yoshitsugu: en/commanders/western/otani-yoshitsugu.md
               - Satake Yoshinobu: en/commanders/western/satake-yoshinobu.md
