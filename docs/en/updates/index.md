@@ -2,6 +2,41 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.5.4
+- Made minor fixes.
+- [Details](v2.5.4.md)
+
+## Version 2.5.3
+- Made unit behavior more natural.
+- [Details](v2.5.3.md)
+
+## Version 2.5.2
+- Added troop counts alongside unit banners below the map.
+- [Details](v2.5.2.md)
+
+## Version 2.5.1
+- Color-coded the army affiliation of unit names in the subtitles.
+- Added the banners of the main units shown on the map below the map.
+- [Details](v2.5.1.md)
+
+## Version 2.5.0
+- Added a Fictional Grand Battle scenario in which commander parameters are fixed at their base values instead of being randomly increased or decreased.
+- Added Niwa Nagashige as a Western Army commander.
+- Made minor adjustments to the game balance.
+- [Details](v2.5.0.md)
+
+## Version 2.4.7
+- Made minor adjustments to the game balance.
+- [Details](v2.4.7.md)
+
+## Version 2.4.5
+- Fixed the Automatic Overview Mode display in experiment scenarios.
+- [Details](v2.4.5.md)
+
+## Version 2.4.4
+- Made minor fixes to the trial version.
+- [Details](v2.4.4.md)
+
 ## Version 2.4.3
 - Added support for a trial version. In the trial version, only the **Kobayakawa and Mori Observe** scenario can be selected, and only **one user commander unit** can be added.
 - [Details](v2.4.3.md)
