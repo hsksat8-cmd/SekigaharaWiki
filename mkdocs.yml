@@ -29,7 +29,6 @@ theme:
         icon: material/brightness-4
         name: ライトモードに切り替える
 
-
 nav:
   - ホーム: index.md
   - ゲームガイド:
@@ -70,6 +69,8 @@ nav:
           - 毛利積極参戦: scenarios/mori-active.md
           - 毛利積極参戦・小早川静観: scenarios/mori-active-kobayakawa-observes.md
           - 小早川西軍積極参戦: scenarios/kobayakawa-western.md
+          - 小早川西軍積極参戦・毛利静観: scenarios/kobayakawa-western-mori-observes.md
+          - ユーザー武将鶴翼参戦 - 小早川西軍積極参戦・毛利静観: scenarios/user-crane-kobayakawa-western-mori-observes.md
           - 毛利・小早川西軍積極参戦: scenarios/mori-kobayakawa-western.md
       - 架空・ランダム戦:
           - 完全ランダム: scenarios/random.md
@@ -129,6 +130,9 @@ nav:
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.5.7: updates/v2.5.7.md
+      - Version 2.5.6: updates/v2.5.6.md
+      - Version 2.5.5: updates/v2.5.5.md
       - Version 2.5.4: updates/v2.5.4.md
       - Version 2.5.3: updates/v2.5.3.md
       - Version 2.5.2: updates/v2.5.2.md
@@ -198,6 +202,8 @@ nav:
               - Mori Active: en/scenarios/mori-active.md
               - Mori Active, Kobayakawa Observes: en/scenarios/mori-active-kobayakawa-observes.md
               - Kobayakawa Fights for the West: en/scenarios/kobayakawa-western.md
+              - Kobayakawa Fights for the West, Mori Observes: en/scenarios/kobayakawa-western-mori-observes.md
+              - User Commander Crane Wing — Kobayakawa Fights for the West, Mori Observes: en/scenarios/user-crane-kobayakawa-western-mori-observes.md
               - Mori and Kobayakawa Fight for the West: en/scenarios/mori-kobayakawa-western.md
           - Fictional and Random Battles:
               - Fully Random: en/scenarios/random.md
@@ -256,6 +262,9 @@ nav:
               - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.5.7: en/updates/v2.5.7.md
+          - Version 2.5.6: en/updates/v2.5.6.md
+          - Version 2.5.5: en/updates/v2.5.5.md
           - Version 2.5.4: en/updates/v2.5.4.md
           - Version 2.5.3: en/updates/v2.5.3.md
           - Version 2.5.2: en/updates/v2.5.2.md

@@ -1,3 +1,4 @@
+
 # シナリオ一覧
 
 [English version](../en/scenarios/index.md)
@@ -23,6 +24,8 @@
 | [毛利積極参戦](mori-active.md) | 毛利秀元・吉川広家が開戦直後から西軍として前進。西軍開始士気 +8。 |
 | [毛利積極参戦・小早川静観](mori-active-kobayakawa-observes.md) | 毛利勢は積極参戦し、小早川勢は静観を続けます。 |
 | [小早川西軍積極参戦](kobayakawa-western.md) | 小早川本隊と追随4隊が西軍のまま即時攻勢。西軍 +10、東軍 -3。 |
+| [小早川西軍積極参戦・毛利静観](kobayakawa-western-mori-observes.md) | 小早川勢は西軍として積極参戦し、毛利秀元隊と吉川広家隊は最後まで静観します。 |
+| [ユーザー武将鶴翼参戦 - 小早川西軍積極参戦・毛利静観](user-crane-kobayakawa-western-mori-observes.md) | 上記条件にユーザー武将1（兵数7,500、鶴翼、鉄砲足軽比率30%）を加え、小早川勢との連携介入を行う既定シナリオです。 |
 | [毛利・小早川西軍積極参戦](mori-kobayakawa-western.md) | 毛利・小早川がともに西軍で積極参戦。西軍 +14、東軍 -6。 |
 
 ## 架空・ランダム戦

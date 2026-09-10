@@ -1,3 +1,4 @@
+
 # Scenario List
 
 [日本語版](../../scenarios/index.md)
@@ -23,6 +24,8 @@ Scenario names below match the names shown in the game's English scenario menu.
 | [Mori Active](mori-active.md) | Mori Hidemoto and Kikkawa Hiroie advance for the Western Army from the start; Western Army begins at +8 morale. |
 | [Mori Active, Kobayakawa Observes](mori-active-kobayakawa-observes.md) | Mori participates actively while Kobayakawa continues to observe. |
 | [Kobayakawa Fights for the West](kobayakawa-western.md) | Kobayakawa and four accompanying units attack for the Western Army immediately; Western Army +10, Eastern Army -3. |
+| [Kobayakawa Fights for the West, Mori Observes](kobayakawa-western-mori-observes.md) | Kobayakawa fights actively for the Western Army while the Mori Hidemoto and Kikkawa Hiroie units remain observers until the end. |
+| [User Commander Crane Wing — Kobayakawa Fights for the West, Mori Observes](user-crane-kobayakawa-western-mori-observes.md) | Adds User Commander 1 (7,500 troops, Crane Wing, 30% matchlocks) for player-directed intervention alongside Kobayakawa's offensive. |
 | [Mori and Kobayakawa Fight for the West](mori-kobayakawa-western.md) | Mori and Kobayakawa actively fight for the Western Army; Western Army +14, Eastern Army -6. |
 
 ## Fictional and Random Battles

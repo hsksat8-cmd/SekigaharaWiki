@@ -2,6 +2,19 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.5.7
+- Added **Kobayakawa Fights for the West, Mori Observes** and **User Commander Crane Wing — Kobayakawa Fights for the West, Mori Observes**.
+- In Automatic Overview Mode, user-controllable units are now brought into focus periodically.
+- [Details](v2.5.7.md)
+
+## Version 2.5.6
+- Made unit behavior more natural.
+- [Details](v2.5.6.md)
+
+## Version 2.5.5
+- After the battle outcome is decided, the game now replays situations in which a commander-in-chief was killed.
+- [Details](v2.5.5.md)
+
 ## Version 2.5.4
 - Made minor fixes.
 - [Details](v2.5.4.md)
