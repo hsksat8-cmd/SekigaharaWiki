@@ -2,6 +2,15 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.6.0
+- In the Crane Wing and Fish Scale formations, the proportion of Matchlock Ashigaru has been increased on the left and right wings. In the Deep formation, the proportion of Matchlock Ashigaru has been increased in the rear ranks.
+- Made unit behavior more natural.
+- [Details](v2.6.0.md)
+
+## Version 2.5.8
+- Improved processing speed.
+- [Details](v2.5.8.md)
+
 ## Version 2.5.7
 - Added **Kobayakawa Fights for the West, Mori Observes** and **User Commander Crane Wing — Kobayakawa Fights for the West, Mori Observes**.
 - In Automatic Overview Mode, user-controllable units are now brought into focus periodically.

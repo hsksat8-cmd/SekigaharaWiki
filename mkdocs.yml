@@ -130,6 +130,8 @@ nav:
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.6.0: updates/v2.6.0.md
+      - Version 2.5.8: updates/v2.5.8.md
       - Version 2.5.7: updates/v2.5.7.md
       - Version 2.5.6: updates/v2.5.6.md
       - Version 2.5.5: updates/v2.5.5.md
@@ -262,6 +264,8 @@ nav:
               - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.6.0: en/updates/v2.6.0.md
+          - Version 2.5.8: en/updates/v2.5.8.md
           - Version 2.5.7: en/updates/v2.5.7.md
           - Version 2.5.6: en/updates/v2.5.6.md
           - Version 2.5.5: en/updates/v2.5.5.md

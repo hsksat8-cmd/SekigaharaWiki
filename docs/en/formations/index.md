@@ -15,6 +15,8 @@ According to the experiments, the formations have the following characteristics.
 | Deep | Its front-to-back depth is strong for breakthroughs and frontal pressure, but rear-rank matchlocks are easily blocked by the front ranks. | Keep the matchlock ratio low and mix them through the front and rear ranks. Put spears and cavalry forward and use them to quickly break enemy Matchlock Ashigaru with charges. | It does not work well with a high matchlock ratio. Lines of fire become congested while advancing, and it is vulnerable to flanking fire from Crane Wing and Fish Scale. |
 | Fish Scale | Combines forward offensive pressure with lateral spread, making matchlock lines of fire relatively easy to create. | Suited to medium-to-high matchlock ratios. Pressure enemy Matchlock Ashigaru with spears and cavalry at the front, while supporting them with matchlocks from behind and the flanks. | Vulnerable to Crane Wing's broad encirclement and fire from both wings. If the front stops advancing, Matchlock Ashigaru can lose useful firing positions. |
 
+In Version 2.6.0, the proportion of Matchlock Ashigaru has been increased on the left and right wings of the Crane Wing and Fish Scale formations, and in the rear ranks of the Deep formation.
+
 Detailed trial conditions, round-robin results, and unequal-strength comparisons are available in [Formation and Matchlock Ashigaru Experiments](experiments.md).
 
 ## Practical Use

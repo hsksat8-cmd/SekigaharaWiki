@@ -6,6 +6,8 @@
 
 Combines forward offensive pressure with lateral spread, making matchlock lines of fire relatively easy to create.
 
+In Version 2.6.0, the proportion of Matchlock Ashigaru has been increased on the left and right wings.
+
 ## Recommended Use
 
 Suited to medium-to-high matchlock ratios. Pressure enemy Matchlock Ashigaru with spears and cavalry at the front, while supporting them with matchlocks from behind and the flanks.

@@ -6,6 +6,8 @@
 
 Makes it easy to deploy Matchlock Ashigaru on both wings and create multiple lines of fire from the sides. As the formation envelops the enemy, pressure from the flanks and rear also increases.
 
+In Version 2.6.0, the proportion of Matchlock Ashigaru has been increased on the left and right wings.
+
 ## Recommended Use
 
 Best suited to a high matchlock ratio. Keep spear and cavalry guards in the center, wear down the enemy with matchlocks on both wings, then envelop them.
