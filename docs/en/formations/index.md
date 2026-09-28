@@ -17,7 +17,7 @@ According to the experiments, the formations have the following characteristics.
 
 In Version 2.6.0, the proportion of Matchlock Ashigaru has been increased on the left and right wings of the Crane Wing and Fish Scale formations, and in the rear ranks of the Deep formation.
 
-Detailed trial conditions, round-robin results, and unequal-strength comparisons are available in [Formation and Matchlock Ashigaru Experiments](experiments.md).
+Detailed trial conditions, round-robin results, and unequal-strength comparisons are available in [Formation and Matchlock Ashigaru Experiments](experiments.md). Tests comparing formations and matchlock proportions in a pincer attack are available in [Pincer Attack Experiment](pincer-experiment.md).
 
 ## Practical Use
 

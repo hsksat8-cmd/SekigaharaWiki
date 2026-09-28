@@ -50,6 +50,7 @@ nav:
   - 陣形:
       - 概要: formations/index.md
       - 陣形と鉄砲足軽比率の実験: formations/experiments.md
+      - 挟撃実験: formations/pincer-experiment.md
       - 方形: formations/square.md
       - 方形自由: formations/flexible-square.md
       - 鶴翼: formations/crane-wing.md
@@ -185,6 +186,7 @@ nav:
       - Formations:
           - Overview: en/formations/index.md
           - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
+          - Pincer Attack Experiment: en/formations/pincer-experiment.md
           - Square: en/formations/square.md
           - Flexible Square: en/formations/flexible-square.md
           - Crane Wing: en/formations/crane-wing.md
