@@ -47,6 +47,7 @@ nav:
       - 包囲と中央突破: systems/encirclement.md
       - 部隊規模と各個撃破: systems/unit-size.md
       - 部隊AI: systems/ai.md
+      - 部隊戦術実験: systems/unit-tactics-experiment.md
   - 陣形:
       - 概要: formations/index.md
       - 陣形と鉄砲足軽比率の実験: formations/experiments.md
@@ -131,6 +132,7 @@ nav:
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.6.1: updates/v2.6.1.md
       - Version 2.6.0: updates/v2.6.0.md
       - Version 2.5.8: updates/v2.5.8.md
       - Version 2.5.7: updates/v2.5.7.md
@@ -183,6 +185,7 @@ nav:
           - Encirclement and Breakthrough: en/systems/encirclement.md
           - Unit Size: en/systems/unit-size.md
           - Unit AI: en/systems/ai.md
+          - Unit Tactics Experiment: en/systems/unit-tactics-experiment.md
       - Formations:
           - Overview: en/formations/index.md
           - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
@@ -266,6 +269,7 @@ nav:
               - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.6.1: en/updates/v2.6.1.md
           - Version 2.6.0: en/updates/v2.6.0.md
           - Version 2.5.8: en/updates/v2.5.8.md
           - Version 2.5.7: en/updates/v2.5.7.md

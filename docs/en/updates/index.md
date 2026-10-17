@@ -2,6 +2,10 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.6.1
+- Added the ability to select each unit's tactical stance—Charge, Aggressive, Normal, Defensive, or Retreat—in sub-scenarios and through user commands.
+- [Details](v2.6.1.md)
+
 ## Version 2.6.0
 - In the Crane Wing and Fish Scale formations, the proportion of Matchlock Ashigaru has been increased on the left and right wings. In the Deep formation, the proportion of Matchlock Ashigaru has been increased in the rear ranks.
 - Made unit behavior more natural.

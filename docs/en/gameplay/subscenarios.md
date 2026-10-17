@@ -11,6 +11,9 @@ Sub-scenarios support the following operations:
 - Placement of created commanders
 - Initial objectives
 - Initial waiting times
+- Unit tactical stance (Charge, Aggressive, Normal, Defensive, Retreat)
+
+The selected tactical stance is stored in the sub-scenario and affects each unit's behavior from the start of the battle. See [Unit AI](../systems/ai.md) for details.
 
 ## Editing Initial Deployment
 
@@ -31,4 +34,3 @@ This allows customized conditions to be archived or moved together.
 - The entire troop count of a user commander consumes that army's +15,000 allowance.
 - Increases to existing units use the same allowance. Reducing a unit does not restore the amount available for later increases.
 - Values above the limits are adjusted automatically, with separate messages for the 20,000-per-unit limit and the +15,000-per-army limit.
-

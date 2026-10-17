@@ -34,3 +34,11 @@ Depending on the situation, you may need to switch between:
 ## Importance of Initial Deployment
 
 Units can be dragged to change their initial positions. Even small changes can alter the first contact, the possibility of encirclement, and the success of a central breakthrough.
+
+## Choosing a Unit Tactical Stance
+
+Starting with Version 2.6.1, each unit can be assigned **Charge, Aggressive, Normal, Defensive, or Retreat** in sub-scenarios and through user commands during battle.
+
+The effect of a stance depends on the role of the unit rather than following a simple strongest-to-weakest order. In the comparison experiment, Aggressive was relatively stable in one-on-one battles, while the highest observed Western Army win rate in the pincer setup came from Normal on the front unit and Charge on the rear unit.
+
+See the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for the full conditions and results.

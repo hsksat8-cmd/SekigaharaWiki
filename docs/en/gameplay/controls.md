@@ -48,7 +48,7 @@ Select a standard scenario, formation experiment, or saved subscenario. Changing
 
 ### Save subscenario
 
-Saves initial placement, commander states, targets, waiting periods, formations, and formation-hold turns. Available before the battle starts.
+Saves initial placement, commander states, targets, waiting periods, formations, formation-hold turns, and unit tactical stances. Available before the battle starts.
 
 ### Rename / Delete
 
@@ -56,7 +56,16 @@ Renames or removes the selected saved subscenario.
 
 ### Join as commander
 
-Select an existing commander to control, or create a user commander. Up to three commanders may participate. User commanders can have custom troop strength, abilities, placement, target, formation, and formation-hold turns.
+Select an existing commander to control, or create a user commander. Up to three commanders may participate. User commanders can have custom troop strength, abilities, placement, target, formation, formation-hold turns, and an initial tactical stance.
+
+### Unit Tactical Stance
+
+Each unit can be assigned one of five tactical stances: **Charge, Aggressive, Normal, Defensive, or Retreat**.
+
+- In a sub-scenario, the stance can be saved as the unit's initial tactical setting.
+- During battle, right-click a controllable unit to open the unit command dialog and change its tactical stance as a user command.
+
+The stance does not directly modify accuracy, attack power, or defense. Instead, it shifts the Unit AI's action decisions toward offense or defense. See [Unit AI](../systems/ai.md) and the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for details.
 
 ### Remove user commander
 
@@ -127,7 +136,7 @@ Zooms only the battlefield map from 1× to 50×. At zoom above 1×, drag an empt
 |---|---|
 | Hover a unit dot or banner | Show its unit data |
 | Left click a unit dot or banner | Select that unit |
-| Right click a controllable unit or banner | Open the unit command dialog |
+| Right click a controllable unit or banner | Open the unit command dialog; the unit tactical stance can also be changed there |
 | Drag an empty map area | Pan the map when map zoom is above 1× |
 | Before the battle begins, drag a unit dot | Move that unit’s initial position |
 | Left click while choosing a target or placement | Confirm the selected map position |
