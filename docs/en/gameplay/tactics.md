@@ -15,6 +15,8 @@ Because its main force is weaker, the Western Army benefits from:
 - Applying pressure from the flanks while watching for a central breakthrough
 - Avoiding an overly thin defense around its own commander
 
+See the [Pincer Attack Experiment](../formations/pincer-experiment.md) for comparisons of pincer attacks using different formations and matchlock ratios.
+
 ## Eastern Army: Central Breakthrough
 
 The Eastern Army can use Tokugawa Ieyasu's powerful unit to break through the center and directly target the enemy commander.
@@ -42,3 +44,5 @@ Starting with Version 2.6.1, each unit can be assigned **Charge, Aggressive, Nor
 The effect of a stance depends on the role of the unit rather than following a simple strongest-to-weakest order. In the comparison experiment, Aggressive was relatively stable in one-on-one battles, while the highest observed Western Army win rate in the pincer setup came from Normal on the front unit and Charge on the rear unit.
 
 See the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for the full conditions and results.
+
+See [Experiments](../experiments/index.md) for all experiment results collected in one section.

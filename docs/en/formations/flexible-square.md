@@ -13,3 +13,8 @@ Around 30–45% matchlocks. Spread according to the battle line while preserving
 ## Weaknesses
 
 Its pressure on both wings and encirclement ability are not as strong as Crane Wing. At 60% matchlocks, the density of spear and cavalry guards is likely to become insufficient.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Pincer Attack Experiment](pincer-experiment.md)

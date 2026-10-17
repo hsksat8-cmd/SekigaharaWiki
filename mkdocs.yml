@@ -47,16 +47,18 @@ nav:
       - 包囲と中央突破: systems/encirclement.md
       - 部隊規模と各個撃破: systems/unit-size.md
       - 部隊AI: systems/ai.md
-      - 部隊戦術実験: systems/unit-tactics-experiment.md
   - 陣形:
       - 概要: formations/index.md
-      - 陣形と鉄砲足軽比率の実験: formations/experiments.md
-      - 挟撃実験: formations/pincer-experiment.md
       - 方形: formations/square.md
       - 方形自由: formations/flexible-square.md
       - 鶴翼: formations/crane-wing.md
       - 縦深: formations/deep.md
       - 魚鱗: formations/fish-scale.md
+  - 実験:
+      - 概要: experiments/index.md
+      - 陣形と鉄砲足軽比率の実験: formations/experiments.md
+      - 挟撃実験: formations/pincer-experiment.md
+      - 部隊戦術実験: systems/unit-tactics-experiment.md
   - シナリオ:
       - 一覧: scenarios/index.md
       - 基本・勢力差:
@@ -185,16 +187,18 @@ nav:
           - Encirclement and Breakthrough: en/systems/encirclement.md
           - Unit Size: en/systems/unit-size.md
           - Unit AI: en/systems/ai.md
-          - Unit Tactics Experiment: en/systems/unit-tactics-experiment.md
       - Formations:
           - Overview: en/formations/index.md
-          - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
-          - Pincer Attack Experiment: en/formations/pincer-experiment.md
           - Square: en/formations/square.md
           - Flexible Square: en/formations/flexible-square.md
           - Crane Wing: en/formations/crane-wing.md
           - Deep: en/formations/deep.md
           - Fish Scale: en/formations/fish-scale.md
+      - Experiments:
+          - Overview: en/experiments/index.md
+          - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
+          - Pincer Attack Experiment: en/formations/pincer-experiment.md
+          - Unit Tactics Experiment: en/systems/unit-tactics-experiment.md
       - Scenarios:
           - List: en/scenarios/index.md
           - Basic and Army Advantage:

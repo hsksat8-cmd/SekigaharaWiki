@@ -31,3 +31,5 @@ A tactical stance does not directly modify attack power, defense, or accuracy. I
 | Retreat | Always chooses Retreat |
 
 See the [Unit Tactics Experiment](unit-tactics-experiment.md) for the comparison results.
+See [Experiments](../experiments/index.md) for all experiment results collected in one section.
+

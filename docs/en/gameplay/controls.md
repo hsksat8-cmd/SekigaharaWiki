@@ -65,7 +65,7 @@ Each unit can be assigned one of five tactical stances: **Charge, Aggressive, No
 - In a sub-scenario, the stance can be saved as the unit's initial tactical setting.
 - During battle, right-click a controllable unit to open the unit command dialog and change its tactical stance as a user command.
 
-The stance does not directly modify accuracy, attack power, or defense. Instead, it shifts the Unit AI's action decisions toward offense or defense. See [Unit AI](../systems/ai.md) and the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for details.
+The stance does not directly modify accuracy, attack power, or defense. Instead, it shifts the Unit AI's action decisions toward offense or defense. See [Unit AI](../systems/ai.md) and the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for details. All experiment results are collected under [Experiments](../experiments/index.md).
 
 ### Remove user commander
 

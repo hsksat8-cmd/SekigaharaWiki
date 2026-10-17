@@ -2,6 +2,8 @@
 
 [日本語版](../../systems/unit-tactics-experiment.md)
 
+[Experiments](../experiments/index.md)
+
 This experiment compares how selectable unit tactical stances affect battle results.
 
 Starting with Version 2.6.1, each unit can use **Charge, Aggressive, Normal, Defensive, or Retreat**. A tactical stance does not directly modify accuracy, attack power, defense, or other combat stats. Instead, it shifts the action selected by the existing situation-evaluation logic toward offense or defense.

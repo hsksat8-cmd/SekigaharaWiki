@@ -15,3 +15,9 @@ Best suited to a high matchlock ratio. Keep spear and cavalry guards in the cent
 ## Weaknesses
 
 If enemy spears or cavalry reach the wings first, the lower-durability Matchlock Ashigaru can collapse quickly. When there is a large difference in troop strength, it is better not to spread the wings too widely.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Pincer Attack Experiment](pincer-experiment.md)
+

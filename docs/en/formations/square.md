@@ -13,3 +13,8 @@ Hold the center and fight steadily from the front with around 30% matchlocks. Ab
 ## Weaknesses
 
 Allied troops can easily block lines of fire. At high matchlock ratios, congestion in the front ranks reduces firing opportunities for the rear ranks.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Pincer Attack Experiment](pincer-experiment.md)

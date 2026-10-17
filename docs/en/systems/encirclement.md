@@ -23,3 +23,9 @@ At the unit level, encirclement has both benefits and risks.
 - May allow the enemy to break through and decide the battle
 
 The Western Army may be forced to rely on encirclement because its commander unit is weaker, but it must remain alert to a central breakthrough by a large force such as Tokugawa Ieyasu's unit.
+
+## Related Experiments
+
+See the [Pincer Attack Experiment](../formations/pincer-experiment.md) for tests comparing formations, matchlock ratios, and force differences when the same enemy is attacked from the front and rear.
+
+See the [Unit Tactics Experiment](unit-tactics-experiment.md) for comparisons of tactical stances used by the front and rear units in a pincer attack.

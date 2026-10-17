@@ -2,6 +2,8 @@
 
 [日本語版](../../formations/pincer-experiment.md)
 
+[Experiments](../experiments/index.md)
+
 ![Pincer attack experiment deployment](../../assets/images/pincer-experiment-layout.png){ .wiki-image }
 <p class="image-caption">Pincer attack experiment deployment. User Commander 2 on the left and User Commander 1 in the center engage each other, while User Commander 3 on the right attacks the central unit from behind.</p>
 
@@ -181,3 +183,9 @@ The pincer attack experiment confirmed the following points under the tested con
 - The same formation performed differently in the frontal and rear roles.
 - Even when the Western Army achieved the better loss exchange in some trials, the Eastern Army still won every 15,000-troop battle.
 - The highest average exchange efficiency against an Eastern Army force of 15,000 was 0.975, which was not enough to overturn the numerical disadvantage through attrition alone.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Unit Tactics Experiment](../systems/unit-tactics-experiment.md)
+

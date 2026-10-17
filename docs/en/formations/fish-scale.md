@@ -15,3 +15,9 @@ Suited to medium-to-high matchlock ratios. Pressure enemy Matchlock Ashigaru wit
 ## Weaknesses
 
 Vulnerable to Crane Wing's broad encirclement and fire from both wings. If the front stops advancing, Matchlock Ashigaru can lose useful firing positions.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Pincer Attack Experiment](pincer-experiment.md)
+

@@ -15,3 +15,9 @@ Keep the matchlock ratio low and mix them through the front and rear ranks. Put 
 ## Weaknesses
 
 It does not work well with a high matchlock ratio. Lines of fire become congested while advancing, and it is vulnerable to flanking fire from Crane Wing and Fish Scale.
+
+## Related Experiments
+
+- [Formation and Matchlock Ashigaru Experiments](experiments.md)
+- [Pincer Attack Experiment](pincer-experiment.md)
+

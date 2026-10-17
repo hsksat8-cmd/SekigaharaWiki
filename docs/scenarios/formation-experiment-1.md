@@ -6,5 +6,5 @@
 
 ## 関連ページ
 
-鉄砲足軽比率と5陣形の比較結果は[陣形と鉄砲足軽比率の実験](../formations/experiments.md)を参照してください。
-
+- 実験結果の一覧は[実験](../experiments/index.md)を参照してください。
+- 鉄砲足軽比率と5陣形の比較結果は[陣形と鉄砲足軽比率の実験](../formations/experiments.md)を参照してください。

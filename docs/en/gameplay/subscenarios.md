@@ -13,7 +13,7 @@ Sub-scenarios support the following operations:
 - Initial waiting times
 - Unit tactical stance (Charge, Aggressive, Normal, Defensive, Retreat)
 
-The selected tactical stance is stored in the sub-scenario and affects each unit's behavior from the start of the battle. See [Unit AI](../systems/ai.md) for details.
+The selected tactical stance is stored in the sub-scenario and affects each unit's behavior from the start of the battle. See [Unit AI](../systems/ai.md) for behavior details and the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for comparison results.
 
 ## Editing Initial Deployment
 

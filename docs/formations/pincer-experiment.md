@@ -2,6 +2,8 @@
 
 [English version](../en/formations/pincer-experiment.md)
 
+[実験一覧](../experiments/index.md)
+
 ![挟撃実験の配置](../assets/images/pincer-experiment-layout.png){ .wiki-image }
 <p class="image-caption">挟撃実験の配置。左のユーザー武将2部隊と中央のユーザー武将1部隊が戦い、右のユーザー武将3部隊が背後から中央の部隊を攻撃する。</p>
 
@@ -183,3 +185,9 @@
 - 正面と背面では、同じ陣形でも性能が異なった
 - 損害交換で西軍が上回る試行があっても、東軍15,000人の勝利は変わらなかった
 - 東軍15,000人に対する最高平均交換効率は0.975で、兵力差を消耗戦だけで覆す水準には達しなかった
+
+## 関連する実験
+
+- [陣形と鉄砲足軽比率の実験](experiments.md)
+- [部隊戦術実験](../systems/unit-tactics-experiment.md)
+
