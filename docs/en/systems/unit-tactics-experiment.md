@@ -117,7 +117,7 @@ However, in the three battles won with the rear unit set to Aggressive, average 
 
 The experiment suggests that tactical stance effectiveness depends on the **role assigned to the unit**, rather than on a simple strongest-to-weakest ranking.
 
-- In one-on-one combat, Aggressive was relatively stable because it retained situation-based decision making
+- In one-on-one combat, Aggressive retained situation-based decision making and produced relatively stable results approaching those of Normal
 - For the front unit in the pincer attack, Normal was effective at holding the enemy while adapting to the situation
 - For the rear unit in the pincer attack, Charge strongly benefited from uninterrupted pressure
 - Defensive may help preserve a front unit, but can reduce pressure in a pincer attack

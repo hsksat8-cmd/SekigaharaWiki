@@ -47,7 +47,7 @@ If this is your first visit, the following order provides the clearest introduct
 |---|---|
 | Battle rules and calculations | [Battle System](systems/index.md) |
 | Characteristics of the five formations | [Formation Overview](formations/index.md) |
-| Formation and matchlock-proportion experiment results | [Formation and Matchlock Ashigaru Experiments](formations/experiments.md) |
+| Experiment results on formations, pincer attacks, and unit tactics | [Experiments](experiments/index.md) |
 | Differences between scenarios | [Scenario List](scenarios/index.md) |
 | Commander statistics and characteristics | [Commander List](commanders/index.md) |
 | Create battles with your own conditions | [Sub-Scenarios](gameplay/subscenarios.md) |

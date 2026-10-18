@@ -47,7 +47,7 @@
 |---|---|
 | 戦闘ルールと判定 | [戦闘システム](systems/index.md) |
 | 5種類の陣形の特徴 | [陣形の概要](formations/index.md) |
-| 陣形と鉄砲足軽比率の実験結果 | [陣形と鉄砲足軽比率の実験](formations/experiments.md) |
+| 陣形・挟撃・部隊戦術などの実験結果 | [実験](experiments/index.md) |
 | シナリオごとの違い | [シナリオ一覧](scenarios/index.md) |
 | 武将の能力値と特徴 | [武将一覧](commanders/index.md) |
 | 自分の条件で戦闘を作る | [サブシナリオ](gameplay/subscenarios.md) |
