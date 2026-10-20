@@ -20,4 +20,4 @@ Version 2.6.0では、後衛で鉄砲足軽の比率を高めています。
 
 - [陣形と鉄砲足軽比率の実験](experiments.md)
 - [挟撃実験](pincer-experiment.md)
-
+- [背面部隊の縦深陣形と鉄砲比率の比較](../experiments/pincer/rear-deep-matchlock.md)

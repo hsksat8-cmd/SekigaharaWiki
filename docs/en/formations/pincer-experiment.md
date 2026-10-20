@@ -2,7 +2,7 @@
 
 [日本語版](../../formations/pincer-experiment.md)
 
-[Experiments](../experiments/index.md)
+[Comprehensive Pincer Attack Experiments](../experiments/pincer/index.md)
 
 ![Pincer attack experiment deployment](../../assets/images/pincer-experiment-layout.png){ .wiki-image }
 <p class="image-caption">Pincer attack experiment deployment. User Commander 2 on the left and User Commander 1 in the center engage each other, while User Commander 3 on the right attacks the central unit from behind.</p>
@@ -189,3 +189,6 @@ The pincer attack experiment confirmed the following points under the tested con
 - [Formation and Matchlock Ashigaru Experiments](experiments.md)
 - [Unit Tactics Experiment](../systems/unit-tactics-experiment.md)
 
+## Related Pincer Experiments
+
+- [Rear Unit: Deep Formation and Matchlock Ratio Comparison](../experiments/pincer/rear-deep-matchlock.md)

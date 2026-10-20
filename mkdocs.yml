@@ -57,7 +57,10 @@ nav:
   - 実験:
       - 概要: experiments/index.md
       - 陣形と鉄砲足軽比率の実験: formations/experiments.md
-      - 挟撃実験: formations/pincer-experiment.md
+      - 挟撃総合実験:
+          - 概要: experiments/pincer/index.md
+          - 挟撃実験: formations/pincer-experiment.md
+          - 背面部隊の縦深陣形と鉄砲比率の比較: experiments/pincer/rear-deep-matchlock.md
       - 部隊戦術実験: systems/unit-tactics-experiment.md
   - シナリオ:
       - 一覧: scenarios/index.md
@@ -197,7 +200,10 @@ nav:
       - Experiments:
           - Overview: en/experiments/index.md
           - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
-          - Pincer Attack Experiment: en/formations/pincer-experiment.md
+          - Comprehensive Pincer Attack Experiments:
+              - Overview: en/experiments/pincer/index.md
+              - Pincer Attack Experiment: en/formations/pincer-experiment.md
+              - Rear Unit: Deep Formation and Matchlock Ratio Comparison: en/experiments/pincer/rear-deep-matchlock.md
           - Unit Tactics Experiment: en/systems/unit-tactics-experiment.md
       - Scenarios:
           - List: en/scenarios/index.md

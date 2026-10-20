@@ -10,8 +10,8 @@ The results should be treated as tendencies observed under the stated conditions
 
 - [Formation and Matchlock Ashigaru Experiments](../formations/experiments.md)  
   Compares the five formations and different matchlock ratios in equal-strength and unequal-strength battles.
-- [Pincer Attack Experiment](../formations/pincer-experiment.md)  
-  Compares formations, matchlock ratios, and force differences when front and rear units attack the same enemy from both sides.
+- [Comprehensive Pincer Attack Experiments](pincer/index.md)  
+  Brings together pincer-attack tests, including the broad formation, matchlock-ratio, and force-difference comparison as well as more focused tests of rear-unit formation and matchlock ratios.
 - [Unit Tactics Experiment](../systems/unit-tactics-experiment.md)  
   Compares how tactical stances such as Charge, Aggressive, Normal, and Defensive affect one-on-one battles and pincer attacks.
 

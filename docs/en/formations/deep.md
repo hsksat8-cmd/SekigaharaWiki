@@ -20,4 +20,4 @@ It does not work well with a high matchlock ratio. Lines of fire become congeste
 
 - [Formation and Matchlock Ashigaru Experiments](experiments.md)
 - [Pincer Attack Experiment](pincer-experiment.md)
-
+- [Rear Unit: Deep Formation and Matchlock Ratio Comparison](../experiments/pincer/rear-deep-matchlock.md)

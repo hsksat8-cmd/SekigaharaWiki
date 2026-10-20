@@ -2,7 +2,7 @@
 
 [English version](../en/formations/pincer-experiment.md)
 
-[実験一覧](../experiments/index.md)
+[挟撃総合実験](../experiments/pincer/index.md)
 
 ![挟撃実験の配置](../assets/images/pincer-experiment-layout.png){ .wiki-image }
 <p class="image-caption">挟撃実験の配置。左のユーザー武将2部隊と中央のユーザー武将1部隊が戦い、右のユーザー武将3部隊が背後から中央の部隊を攻撃する。</p>
@@ -191,3 +191,6 @@
 - [陣形と鉄砲足軽比率の実験](experiments.md)
 - [部隊戦術実験](../systems/unit-tactics-experiment.md)
 
+## 関連する挟撃実験
+
+- [背面部隊の縦深陣形と鉄砲比率の比較](../experiments/pincer/rear-deep-matchlock.md)

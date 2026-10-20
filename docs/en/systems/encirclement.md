@@ -29,3 +29,5 @@ The Western Army may be forced to rely on encirclement because its commander uni
 See the [Pincer Attack Experiment](../formations/pincer-experiment.md) for tests comparing formations, matchlock ratios, and force differences when the same enemy is attacked from the front and rear.
 
 See the [Unit Tactics Experiment](unit-tactics-experiment.md) for comparisons of tactical stances used by the front and rear units in a pincer attack.
+
+See [Comprehensive Pincer Attack Experiments](../experiments/pincer/index.md) for tests comparing formations, matchlock ratios, force differences, and rear-unit conditions in pincer attacks.

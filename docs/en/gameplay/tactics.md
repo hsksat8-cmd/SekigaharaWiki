@@ -17,6 +17,8 @@ Because its main force is weaker, the Western Army benefits from:
 
 See the [Pincer Attack Experiment](../formations/pincer-experiment.md) for comparisons of pincer attacks using different formations and matchlock ratios.
 
+For comparisons of pincer attacks using different formations, matchlock ratios, and rear-unit conditions, see [Comprehensive Pincer Attack Experiments](../experiments/pincer/index.md).
+
 ## Eastern Army: Central Breakthrough
 
 The Eastern Army can use Tokugawa Ieyasu's powerful unit to break through the center and directly target the enemy commander.
