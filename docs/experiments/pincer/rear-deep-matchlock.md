@@ -1,6 +1,6 @@
 # 背面部隊の縦深陣形と鉄砲比率の比較
 
-[English version](../../../en/experiments/pincer/rear-deep-matchlock.md)
+[English version](../../en/experiments/pincer/rear-deep-matchlock.md)
 
 [挟撃総合実験](index.md)
 
