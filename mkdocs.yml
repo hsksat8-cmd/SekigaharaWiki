@@ -203,7 +203,7 @@ nav:
           - Comprehensive Pincer Attack Experiments:
               - Overview: en/experiments/pincer/index.md
               - Pincer Attack Experiment: en/formations/pincer-experiment.md
-              - Rear Unit: Deep Formation and Matchlock Ratio Comparison: en/experiments/pincer/rear-deep-matchlock.md
+              - "Rear Unit: Deep Formation and Matchlock Ratio Comparison": en/experiments/pincer/rear-deep-matchlock.md
           - Unit Tactics Experiment: en/systems/unit-tactics-experiment.md
       - Scenarios:
           - List: en/scenarios/index.md
