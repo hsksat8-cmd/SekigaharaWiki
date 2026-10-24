@@ -128,3 +128,16 @@ The experiment suggests that tactical stance effectiveness depends on the **role
 Each condition used 10 to 12 trials, and the trials were not paired one-to-one with the same random seed. Because combat outcomes vary with random factors, differences in win rates should be treated as **observed tendencies under these conditions**, not as definitive performance differences.
 
 Battle outcomes are also determined by factors other than troop losses, including the death of the army commander and unit routs. Some winning battles therefore include high losses, and some losing units were not completely destroyed.
+
+## Normal Tactic vs. Charge Tactic
+
+In a one-on-one battle, the well-balanced **Normal tactic** has the overall advantage.
+
+The **Charge tactic** gains momentum early in the battle, but gradually falls behind the Normal tactic, which can flexibly switch between offense and defense as the situation changes.
+
+With the Normal tactic, a unit temporarily retreats when the situation becomes unfavorable. This can sometimes allow the opponent to gain momentum, but it can also reset an unfavorable situation and disrupt the balance of an enemy formation that is currently in a strong position.
+
+### YouTube Reference Video
+
+[Unit Tactics Comparison Experiment — One-on-One: Normal Tactic (Blue) vs. Charge Tactic (Red)](https://youtu.be/0mD00WVXVvE?si=q2YVq37m12GYEi-v)
+
