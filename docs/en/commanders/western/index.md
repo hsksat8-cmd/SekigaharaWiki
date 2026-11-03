@@ -24,4 +24,4 @@
 | Chosokabe Morichika | West | 6,600 | 97 | 68 | 68 | 72 | [View](chosokabe-morichika.md) |
 | Tachibana Muneshige | West | 5,500 | 109 | 92 | 84 | 90 | [View](tachibana-muneshige.md) |
 | Nabeshima Naoshige | West | 12,000 | 102 | 74 | 82 | 84 | [View](nabeshima-naoshige.md) |
-| Niwa Nagashige | West | 6,000 | 101 | 74 | 85 | 83 | [View](niwa-nagashige.md) |
+| Niwa Nagashige | West | 3,700 | 101 | 74 | 85 | 83 | [View](niwa-nagashige.md) |

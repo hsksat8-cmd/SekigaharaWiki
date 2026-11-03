@@ -48,7 +48,7 @@ Select a standard scenario, formation experiment, or saved subscenario. Changing
 
 ### Save subscenario
 
-Saves initial placement, commander states, targets, waiting periods, formations, formation-hold turns, and unit tactical stances. Available before the battle starts.
+Saves initial placement, commander states, targets, waiting periods, formations, formation-hold turns, unit composition, and unit tactical stances. Available before the battle starts.
 
 ### Rename / Delete
 
@@ -56,7 +56,13 @@ Renames or removes the selected saved subscenario.
 
 ### Join as commander
 
-Select an existing commander to control, or create a user commander. Up to three commanders may participate. User commanders can have custom troop strength, abilities, placement, target, formation, formation-hold turns, and an initial tactical stance.
+Select an existing commander to control, or create a user commander. Up to three commanders may participate. User commanders can have custom troop strength, abilities, placement, target, formation, formation-hold turns, unit composition, and an initial tactical stance.
+
+### Unit Composition
+
+Starting with Version 2.7.0, each unit can use either the **Normal** or **All-Cavalry** composition.
+
+All-Cavalry can only be selected for units with 6,600 troops or fewer. Conversion reduces troop strength by 15%, and troop increases for an All-Cavalry unit consume 1.15 times the added amount from the army's troop-increase allowance. See [All-Cavalry Units](../systems/all-cavalry-units.md) for details.
 
 ### Unit Tactical Stance
 
@@ -116,6 +122,10 @@ Zooms the entire application, including the map, menus, and text.
 ### Map zoom
 
 Zooms only the battlefield map from 1× to 50×. At zoom above 1×, drag an empty map area with the left mouse button to pan.
+
+### Collapsible Panels
+
+Starting with Version 2.7.0, the **title, menu, log panel, and status panel** can be collapsed, allowing more screen space to be used for the battlefield map.
 
 ## Keyboard Controls
 

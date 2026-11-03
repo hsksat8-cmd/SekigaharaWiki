@@ -18,7 +18,7 @@
   <tbody>
     <tr><td>Army</td><td>Western Army</td></tr>
     <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
-    <tr><td>Troops</td><td>6,000</td></tr>
+    <tr><td>Troops</td><td>3,700</td></tr>
     <tr><td>Starting morale</td><td>101</td></tr>
     <tr><td>Attack</td><td>74</td></tr>
     <tr><td>Defense</td><td>85</td></tr>
@@ -35,7 +35,7 @@
 
 ## In-Game Characteristics
 
-Niwa Nagashige commands 6,000 troops and is configured as a defense- and command-oriented commander, with Defense 85, Command Confidence 84, and Leadership 83. Starting morale is 101 and hesitation is 28.
+Niwa Nagashige commands 3,700 troops and is configured as a defense- and command-oriented commander, with Defense 85, Command Confidence 84, and Leadership 83. Starting morale is 101 and hesitation is 28.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.

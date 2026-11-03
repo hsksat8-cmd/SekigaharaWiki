@@ -8,7 +8,8 @@ This fictional grand battle uses a battlefield four times larger and adds 12 pro
 - Starting-position slots are randomly exchanged within designated groups on the same side.
 - Kobayakawa Hideaki and his four accompanying units remain on the sidelines for the first 400 turns. Over the following 200 turns, they join with a cumulative 50% probability. They are more likely to join the army that has suffered fewer losses at that point.
 - Unlike **Random Fictional Grand Battle with Troop Counts**, troop counts are not randomized.
-- Base total strength is 105,700 for the Eastern Army and 130,500 for the Western Army, for a combined total of 236,200 troops.
+- Starting with Version 2.7.0, **four medium-sized units** are randomly converted into [All-Cavalry Units](../systems/all-cavalry-units.md).
+- Base total strength is 107,800 for the Eastern Army and 128,200 for the Western Army, for a combined total of 236,000 troops. Units selected as All-Cavalry receive the 15% troop reduction, so the actual total strength at the start of battle varies from these base totals.
 
 Starting morale is the normalized in-game value. Abbreviations in the table are Agg = Aggressiveness and Hes = Hesitation.
 
@@ -24,12 +25,12 @@ Starting morale is the normalized in-game value. Abbreviations in the table are 
 | Honda Tadakatsu | 500 | 111 | 96 | 90 | 76 | 96 | 8 | 96 | 90 |
 | Todo Takatora | 2,500 | 101 | 72 | 74 | 68 | 76 | 28 | 78 | 86 |
 | Kyogoku Takatomo | 3,000 | 97 | 64 | 68 | 54 | 78 | 36 | 70 | 72 |
-| Date Masamune | 13,600 | 105 | 86 | 76 | 88 | 76 | 14 | 80 | 84 |
-| Maeda Toshinaga | 14,400 | 102 | 70 | 82 | 54 | 84 | 34 | 84 | 82 |
+| Date Masamune | 14,100 | 105 | 86 | 76 | 88 | 76 | 14 | 80 | 84 |
+| Maeda Toshinaga | 15,100 | 102 | 70 | 82 | 54 | 84 | 34 | 84 | 82 |
 | Kato Kiyomasa | 10,000 | 107 | 92 | 78 | 92 | 88 | 8 | 78 | 80 |
 | Asano Yoshinaga | 5,100 | 99 | 70 | 70 | 64 | 80 | 28 | 72 | 74 |
 | Ikeda Terumasa | 4,500 | 98 | 68 | 72 | 56 | 82 | 32 | 74 | 76 |
-| Yamauchi Kazutoyo | 2,100 | 97 | 62 | 68 | 54 | 78 | 34 | 70 | 70 |
+| Yamauchi Kazutoyo | 3,000 | 97 | 62 | 68 | 54 | 78 | 34 | 70 | 70 |
 
 ## Western Army
 
@@ -55,10 +56,11 @@ Starting morale is the normalized in-game value. Abbreviations in the table are 
 | Chosokabe Morichika | 6,600 | 97 | 68 | 68 | 54 | 74 | 40 | 72 | 64 |
 | Tachibana Muneshige | 5,500 | 109 | 92 | 84 | 82 | 92 | 8 | 90 | 88 |
 | Nabeshima Naoshige | 12,000 | 102 | 74 | 82 | 58 | 78 | 30 | 84 | 84 |
-| Niwa Nagashige | 6,000 | 101 | 74 | 85 | 60 | 84 | 28 | 83 | 84 |
+| Niwa Nagashige | 3,700 | 101 | 74 | 85 | 60 | 84 | 28 | 83 | 84 |
 
 ## Related Pages
 
+- [All-Cavalry Units](../systems/all-cavalry-units.md)
 - [Random Fictional Grand Battle](random-fictional-war.md)
 - [Random Fictional Grand Battle with Troop Counts](random-fictional-war-with-troop-counts.md)
 - [Commander List](../commanders/index.md)

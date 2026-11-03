@@ -2,6 +2,14 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.7.0
+- Added Normal and All-Cavalry as selectable unit compositions.
+- All-Cavalry units receive a 15% troop reduction, consume 1.15× troop-increase allowance, and are limited to units of 6,600 troops or fewer.
+- Increased cavalry movement speed to 1.5× Ashigaru speed.
+- Updated unit scoring to normalize troop exchange by troop strength at the start of battle.
+- In Fictional Grand Battle scenarios, four medium-sized units are randomly converted to All-Cavalry.
+- [Details](v2.7.0.md)
+
 ## Version 2.6.1
 - Added the ability to select each unit's tactical stance—Charge, Aggressive, Normal, Defensive, or Retreat—in sub-scenarios and through user commands.
 - [Details](v2.6.1.md)

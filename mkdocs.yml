@@ -42,6 +42,7 @@ nav:
   - 戦闘システム:
       - 概要: systems/index.md
       - 兵種: systems/unit-types.md
+      - 全騎馬部隊: systems/all-cavalry-units.md
       - 士気: systems/morale.md
       - ダメージ計算: systems/damage.md
       - 包囲と中央突破: systems/encirclement.md
@@ -137,6 +138,7 @@ nav:
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.7.0: updates/v2.7.0.md
       - Version 2.6.1: updates/v2.6.1.md
       - Version 2.6.0: updates/v2.6.0.md
       - Version 2.5.8: updates/v2.5.8.md
@@ -185,6 +187,7 @@ nav:
       - Battle System:
           - Overview: en/systems/index.md
           - Unit Types: en/systems/unit-types.md
+          - All-Cavalry Units: en/systems/all-cavalry-units.md
           - Morale: en/systems/morale.md
           - Damage Calculation: en/systems/damage.md
           - Encirclement and Breakthrough: en/systems/encirclement.md
@@ -279,6 +282,7 @@ nav:
               - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.7.0: en/updates/v2.7.0.md
           - Version 2.6.1: en/updates/v2.6.1.md
           - Version 2.6.0: en/updates/v2.6.0.md
           - Version 2.5.8: en/updates/v2.5.8.md

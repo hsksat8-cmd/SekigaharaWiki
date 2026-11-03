@@ -17,18 +17,20 @@ The **Decide winner at 8 PM** toggle can be changed before the battle starts. It
 
 The game displays each commander's battle record and ranking.
 
-## Score Calculation
+## Unit Score
 
-The score is calculated as follows:
+Starting with Version 2.7.0, unit scores normalize troop exchange by troop strength at the start of battle.
 
-**Score = enemy soldiers defeated + enemy commanders defeated × 3,000 + enemy army commander defeated × 10,000 + victory bonus × 10,000 - soldiers lost - commanders lost × 3,000**
+**Unit Score = (Enemy troops defeated − Own troops lost) ÷ Troops at the start of battle × 10,000 + Enemy commanders defeated × 3,000 + Enemy army commanders defeated × 10,000 − Own commanders defeated × 3,000 + Victory Bonus**
 
-- Each enemy soldier defeated: **+1 point**
+- Troop-exchange score: **(Enemy troops defeated − Own troops lost) ÷ Troops at the start of battle × 10,000**
 - Each enemy commander defeated: **+3,000 points**
-- Defeating the enemy army commander: **+10,000 points**
-- Victory: **+10,000 points**
-- Each soldier lost: **-1 point**
-- Each commander lost: **-3,000 points**
+- Each enemy army commander defeated: **+10,000 points**
+- Each own commander defeated: **-3,000 points**
+- Normal victory: **+10,000 points**
+- Victory by troop superiority at 8 PM: **+3,000 points**
+
+Normalizing troop exchange by starting troop strength makes it easier to compare the performance of large and small units.
 
 ## Cumulative Rankings
 
@@ -43,6 +45,3 @@ Overall Eastern and Western Army scores are shown for each scenario and sub-scen
 The five highest past scores are also displayed.
 
 These features make it possible to compare not only victory and defeat, but also repeated attempts under the same conditions and the results of different deployments or orders.
-
-!!! note
-    
