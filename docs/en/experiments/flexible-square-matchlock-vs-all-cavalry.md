@@ -1,4 +1,4 @@
-# Flexible Square Formation: Matchlock Units vs. All-Cavalry Units
+# All-Cavalry Units vs. Matchlock Units in Flexible Square Formation
 
 [日本語版](../../experiments/flexible-square-matchlock-vs-all-cavalry.md)
 
