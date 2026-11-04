@@ -58,6 +58,7 @@ nav:
   - 実験:
       - 概要: experiments/index.md
       - 陣形と鉄砲足軽比率の実験: formations/experiments.md
+      - 方形自由の鉄砲部隊と全騎馬部隊の対戦実験: experiments/flexible-square-matchlock-vs-all-cavalry.md
       - 挟撃総合実験:
           - 概要: experiments/pincer/index.md
           - 挟撃実験: formations/pincer-experiment.md
@@ -203,6 +204,7 @@ nav:
       - Experiments:
           - Overview: en/experiments/index.md
           - Formation and Matchlock Ashigaru Experiments: en/formations/experiments.md
+          - "Flexible Square: Matchlock Units vs. All-Cavalry Units": en/experiments/flexible-square-matchlock-vs-all-cavalry.md
           - Comprehensive Pincer Attack Experiments:
               - Overview: en/experiments/pincer/index.md
               - Pincer Attack Experiment: en/formations/pincer-experiment.md

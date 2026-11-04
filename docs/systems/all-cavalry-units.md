@@ -55,6 +55,8 @@ Version 2.7.0では、部隊得点の兵数に関する部分を**戦闘開始�
 
 ## 関連ページ
 
+- [方形自由の鉄砲部隊と全騎馬部隊の対戦実験](../experiments/flexible-square-matchlock-vs-all-cavalry.md)
+
 - [兵種](unit-types.md)
 - [部隊AI](ai.md)
 - [部隊戦術実験](unit-tactics-experiment.md)
