@@ -10,8 +10,8 @@ The results should be treated as tendencies observed under the stated conditions
 
 - [Formation and Matchlock Ashigaru Experiments](../formations/experiments.md)  
   Compares the five formations and different matchlock ratios in equal-strength and unequal-strength battles.
-- [All-Cavalry Units vs. Matchlock Units in Flexible Square Formation](flexible-square-matchlock-vs-all-cavalry.md)  
-  Compares matchlock ratios (30%, 45%, 60%) and tactical stances across six conditions: 5,000 Eastern troops versus 4,250 Western all-cavalry troops, with 10 trials per condition.
+- [Matchlock Units vs. All-Cavalry Units: Formation and Tactics Experiment](flexible-square-matchlock-vs-all-cavalry.md)  
+  Compares formations, matchlock ratios (30%, 45%, 60%), and tactical stances across 10 conditions (100 battles): 5,000 Eastern matchlock troops versus 4,250 Western all-cavalry troops.
 - [Comprehensive Pincer Attack Experiments](pincer/index.md)  
   Brings together pincer-attack tests, including the broad formation, matchlock-ratio, and force-difference comparison as well as more focused tests of rear-unit formation and matchlock ratios.
 - [Unit Tactics Experiment](../systems/unit-tactics-experiment.md)  

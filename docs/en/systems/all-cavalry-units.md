@@ -53,7 +53,7 @@ See [Results and Rankings](../gameplay/results-and-rankings.md) for details.
 
 ## Related Pages
 
-- [All-Cavalry Units vs. Matchlock Units in Flexible Square Formation](../experiments/flexible-square-matchlock-vs-all-cavalry.md)
+- [Matchlock Units vs. All-Cavalry Units: Formation and Tactics Experiment](../experiments/flexible-square-matchlock-vs-all-cavalry.md)
 
 - [Unit Types](unit-types.md)
 - [Unit AI](ai.md)
