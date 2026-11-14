@@ -1,11 +1,14 @@
-/* Commander details: portrait (natural ratio) | banner | game data. */
+/* Commander details: portrait (natural ratio, 1.5x display width) | banner | game data.
+ * Original portrait asset widths: 192px; intended desktop display width: up to 288px.
+ * Keep height:auto to preserve the natural portrait aspect ratio without cropping.
+ */
 .md-content__inner:has(.commander-data-layout.has-portrait) {
   container-type: inline-size;
 }
 .md-typeset .commander-data-layout.has-portrait {
   display: grid !important;
-  grid-template-columns: minmax(120px, 192px) minmax(78px, 110px) minmax(205px, 1fr);
-  gap: 14px !important;
+  grid-template-columns: minmax(150px, 288px) minmax(72px, 105px) minmax(200px, 1fr);
+  gap: 12px !important;
   align-items: start !important;
   width: 100%;
   min-width: 0;
@@ -18,7 +21,7 @@
 .md-typeset .commander-data-layout.has-portrait .commander-portrait > img {
   display: block;
   width: 100%;
-  max-width: 192px;
+  max-width: 288px;
   height: auto;
   margin: 0 auto;
   border-radius: .25rem;
@@ -65,13 +68,13 @@
   padding: .65em .7em;
   overflow-wrap: anywhere;
 }
-/* When the article area is narrow, show portrait and banner side-by-side,
-   then the stats below; never crop the supplied tall portraits. */
-@container (max-width: 485px) {
+/* Narrow layouts: let the portrait grow relative to the banner, while
+   moving the stats below. At no size is the original portrait cropped. */
+@container (max-width: 545px) {
   .md-typeset .commander-data-layout.has-portrait {
-    grid-template-columns: minmax(0, 192px) minmax(0, 110px);
-    justify-content: start;
-    gap: 16px !important;
+    grid-template-columns: minmax(0, 1.9fr) minmax(0, .8fr);
+    gap: 12px !important;
+    max-width: 425px;
   }
   .md-typeset .commander-data-layout.has-portrait > .commander-stats {
     grid-column: 1 / -1;
