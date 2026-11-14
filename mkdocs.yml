@@ -46,6 +46,7 @@ nav:
       - 士気: systems/morale.md
       - ダメージ計算: systems/damage.md
       - 包囲と中央突破: systems/encirclement.md
+      - 側面・背面接敵: systems/flank-rear-engagement.md
       - 部隊規模と各個撃破: systems/unit-size.md
       - 部隊AI: systems/ai.md
   - 陣形:
@@ -134,11 +135,13 @@ nav:
           - 立花宗茂: commanders/western/tachibana-muneshige.md
           - 脇坂安治: commanders/western/wakizaka-yasuharu.md
           - 赤座直保: commanders/western/akaza-naoyasu.md
+          - 安国寺恵瓊: commanders/western/ankokuji-ekei.md
           - 鍋島直茂: commanders/western/nabeshima-naoshige.md
           - 丹羽長重: commanders/western/niwa-nagashige.md
           - 長宗我部盛親: commanders/western/chosokabe-morichika.md
   - 更新履歴:
       - 一覧: updates/index.md
+      - Version 2.8.0: updates/v2.8.0.md
       - Version 2.7.0: updates/v2.7.0.md
       - Version 2.6.1: updates/v2.6.1.md
       - Version 2.6.0: updates/v2.6.0.md
@@ -192,6 +195,7 @@ nav:
           - Morale: en/systems/morale.md
           - Damage Calculation: en/systems/damage.md
           - Encirclement and Breakthrough: en/systems/encirclement.md
+          - Flank and Rear Engagement: en/systems/flank-rear-engagement.md
           - Unit Size: en/systems/unit-size.md
           - Unit AI: en/systems/ai.md
       - Formations:
@@ -262,6 +266,7 @@ nav:
           - Western Army:
               - List: en/commanders/western/index.md
               - Akaza Naoyasu: en/commanders/western/akaza-naoyasu.md
+              - Ankokuji Ekei: en/commanders/western/ankokuji-ekei.md
               - Chosokabe Morichika: en/commanders/western/chosokabe-morichika.md
               - Hiratsuka Tamehiro: en/commanders/western/hiratsuka-tamehiro.md
               - Ishida Mitsunari: en/commanders/western/ishida-mitsunari.md
@@ -284,6 +289,7 @@ nav:
               - Wakizaka Yasuharu: en/commanders/western/wakizaka-yasuharu.md
       - Updates:
           - History: en/updates/index.md
+          - Version 2.8.0: en/updates/v2.8.0.md
           - Version 2.7.0: en/updates/v2.7.0.md
           - Version 2.6.1: en/updates/v2.6.1.md
           - Version 2.6.0: en/updates/v2.6.0.md
@@ -335,9 +341,14 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/commander-portraits.css
 
 extra_javascript:
   - assets/javascripts/outbound-links.js
+  - assets/javascripts/commander-portraits.js
+
+hooks:
+  - wiki_commander_updates.py
 
 extra:
   social:

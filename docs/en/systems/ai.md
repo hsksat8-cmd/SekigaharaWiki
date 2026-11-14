@@ -33,3 +33,8 @@ A tactical stance does not directly modify attack power, defense, or accuracy. I
 See the [Unit Tactics Experiment](unit-tactics-experiment.md) for the comparison results.
 See [Experiments](../experiments/index.md) for all experiment results collected in one section.
 
+## Version 2.8.0: Flank and Rear Engagement
+
+When combined enemy troop strength engaging a unit from the flank reaches **20% of its own strength**, **Charge, Aggressive, and Normal** are no longer available. The default changes to **Defensive** for flank engagement and **Retreat** for rear engagement. See [Flank and Rear Engagement](flank-rear-engagement.md) for the precise sectors and morale penalties.
+
+The timing of [Tokugawa Ieyasu's advance and Kobayakawa Hideaki's defection](../scenarios/historical.md) has also been adjusted to follow the historical sequence more closely.

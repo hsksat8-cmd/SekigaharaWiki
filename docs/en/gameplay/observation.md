@@ -20,6 +20,10 @@ Real-time subtitles appear during the battle.
 - They make important developments easier to understand
 - They help you follow the battle without constantly watching the entire map
 
+## Version 2.8.0: Commander Portraits and Event-Specific Dialogue
+
+Portraits have been added for individual commanders, and **commander-specific lines** now appear in response to battle events. The portraits and dialogue help convey each person's character and make battles more immersive to watch. Portraits can also be viewed on the individual profiles linked from the [Commander List](../commanders/index.md).
+
 ## Switching Commander Details
 
 While observing, you can select the commander whose details are displayed by using the mouse or the left and right arrow keys.

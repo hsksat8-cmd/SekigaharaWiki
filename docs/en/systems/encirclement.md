@@ -31,3 +31,7 @@ See the [Pincer Attack Experiment](../formations/pincer-experiment.md) for tests
 See the [Unit Tactics Experiment](unit-tactics-experiment.md) for comparisons of tactical stances used by the front and rear units in a pincer attack.
 
 See [Comprehensive Pincer Attack Experiments](../experiments/pincer/index.md) for tests comparing formations, matchlock ratios, force differences, and rear-unit conditions in pincer attacks.
+
+## Version 2.8.0: Additional Effects of Flank/Rear Attacks
+
+Flank and rear engagement can now **restrict a unit's tactical stance** and reduce morale, in addition to the existing effects of encirclement. See [Flank and Rear Engagement](flank-rear-engagement.md).

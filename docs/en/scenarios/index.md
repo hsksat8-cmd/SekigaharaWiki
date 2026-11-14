@@ -1,9 +1,10 @@
-
 # Scenario List
 
 [日本語版](../../scenarios/index.md)
 
 Scenario names below match the names shown in the game's English scenario menu.
+
+Version 2.8.0 adds a hypothetical battle **north of Mount Nangu** when Mori Hidemoto's unit participates on the standard map, adjusts the timing of Tokugawa Ieyasu's advance and Kobayakawa Hideaki's defection, and adds [Ankokuji Ekei](../commanders/western/ankokuji-ekei.md) to the Western Army.
 
 ## Basic and Army Advantage
 

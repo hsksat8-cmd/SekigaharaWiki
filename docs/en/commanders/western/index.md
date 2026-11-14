@@ -2,7 +2,11 @@
 
 [Back to Commander List](../index.md)
 
-| Commander | Army | Troops | Morale | Atk | Def | Leadership | Details |
+Additional commanders appear only in expanded-map scenarios.
+
+## Standard Map
+
+| Commander | Army | Troops | Morale | Atk | Def | Discipline | Details |
 |---|---|---:|---:|---:|---:|---:|---|
 | Ishida Mitsunari | West | 6,000 | 101 | 54 | 78 | 82 | [View](ishida-mitsunari.md) |
 | Ukita Hideie | West | 17,000 | 104 | 82 | 82 | 78 | [View](ukita-hideie.md) |
@@ -19,9 +23,15 @@
 | Kutsuki Mototsuna | West | 600 | 89 | 52 | 52 | 48 | [View](kutsuki-mototsuna.md) |
 | Ogawa Suketada | West | 2,100 | 90 | 56 | 55 | 50 | [View](ogawa-suketada.md) |
 | Akaza Naoyasu | West | 600 | 89 | 52 | 50 | 46 | [View](akaza-naoyasu.md) |
-| Uesugi Kagekatsu | West | 16,000 | 104 | 80 | 86 | 86 | [View](uesugi-kagekatsu.md) |
-| Satake Yoshinobu | West | 12,000 | 98 | 66 | 76 | 80 | [View](satake-yoshinobu.md) |
+| Ankokuji Ekei | West | 1,800 | 98 | 60 | 68 | 72 | [View](ankokuji-ekei.md) |
 | Chosokabe Morichika | West | 6,600 | 97 | 68 | 68 | 72 | [View](chosokabe-morichika.md) |
-| Tachibana Muneshige | West | 5,500 | 109 | 92 | 84 | 90 | [View](tachibana-muneshige.md) |
-| Nabeshima Naoshige | West | 12,000 | 102 | 74 | 82 | 84 | [View](nabeshima-naoshige.md) |
+
+## Additional Expanded-Map Commanders
+
+| Commander | Army | Troops | Morale | Atk | Def | Discipline | Details |
+|---|---|---:|---:|---:|---:|---:|---|
+| Uesugi Kagekatsu | West | 16,000 | 104 | 80 | 86 | 86 | [View](uesugi-kagekatsu.md) |
+| Satake Yoshinobu | West | 11,300 | 98 | 66 | 76 | 80 | [View](satake-yoshinobu.md) |
+| Tachibana Muneshige | West | 4,500 | 109 | 92 | 84 | 90 | [View](tachibana-muneshige.md) |
+| Nabeshima Naoshige | West | 10,200 | 102 | 74 | 82 | 84 | [View](nabeshima-naoshige.md) |
 | Niwa Nagashige | West | 3,700 | 101 | 74 | 85 | 83 | [View](niwa-nagashige.md) |

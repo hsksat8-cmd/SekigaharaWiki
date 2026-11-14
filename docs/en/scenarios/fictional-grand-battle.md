@@ -2,20 +2,20 @@
 
 [日本語版](../../scenarios/fictional-grand-battle.md)
 
-This fictional grand battle uses a battlefield four times larger and adds 12 prominent daimyo units to all units from the Sekigahara battlefield.
+This fictional grand battle uses a battlefield four times larger and adds 8 additional daimyo units to all units from the Sekigahara battlefield.
 
 - Commander attributes and base troop counts use the fixed values shown below. No random attribute modifiers are applied.
 - Starting-position slots are randomly exchanged within designated groups on the same side.
 - Kobayakawa Hideaki and his four accompanying units remain on the sidelines for the first 400 turns. Over the following 200 turns, they join with a cumulative 50% probability. They are more likely to join the army that has suffered fewer losses at that point.
 - Unlike **Random Fictional Grand Battle with Troop Counts**, troop counts are not randomized.
 - Starting with Version 2.7.0, **four medium-sized units** are randomly converted into [All-Cavalry Units](../systems/all-cavalry-units.md).
-- Base total strength is 107,800 for the Eastern Army and 128,200 for the Western Army, for a combined total of 236,000 troops. Units selected as All-Cavalry receive the 15% troop reduction, so the actual total strength at the start of battle varies from these base totals.
+- Base total strength is 108,100 for the Eastern Army and 126,500 for the Western Army, for a combined total of 234,600 troops. Units selected as All-Cavalry receive the 15% troop reduction, so the actual total strength at the start of battle varies from these base totals.
 
 Starting morale is the normalized in-game value. Abbreviations in the table are Agg = Aggressiveness and Hes = Hesitation.
 
 ## Eastern Army
 
-| Commander | Troops | Starting Morale | Atk | Def | Agg | Loyalty | Hes | Leadership | Command Confidence |
+| Commander | Troops | Starting Morale | Atk | Def | Agg | Loyalty | Hes | Discipline | Command Confidence |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Tokugawa Ieyasu | 30,000 | 108 | 74 | 92 | 62 | 100 | 16 | 94 | 98 |
 | Fukushima Masanori | 6,000 | 104 | 88 | 66 | 92 | 86 | 10 | 68 | 72 |
@@ -28,13 +28,13 @@ Starting morale is the normalized in-game value. Abbreviations in the table are 
 | Date Masamune | 14,100 | 105 | 86 | 76 | 88 | 76 | 14 | 80 | 84 |
 | Maeda Toshinaga | 15,100 | 102 | 70 | 82 | 54 | 84 | 34 | 84 | 82 |
 | Kato Kiyomasa | 10,000 | 107 | 92 | 78 | 92 | 88 | 8 | 78 | 80 |
-| Asano Yoshinaga | 5,100 | 99 | 70 | 70 | 64 | 80 | 28 | 72 | 74 |
+| Asano Yoshinaga | 6,000 | 99 | 70 | 70 | 64 | 80 | 28 | 72 | 74 |
 | Ikeda Terumasa | 4,500 | 98 | 68 | 72 | 56 | 82 | 32 | 74 | 76 |
-| Yamauchi Kazutoyo | 3,000 | 97 | 62 | 68 | 54 | 78 | 34 | 70 | 70 |
+| Yamauchi Kazutoyo | 2,400 | 97 | 62 | 68 | 54 | 78 | 34 | 70 | 70 |
 
 ## Western Army
 
-| Commander | Troops | Starting Morale | Atk | Def | Agg | Loyalty | Hes | Leadership | Command Confidence |
+| Commander | Troops | Starting Morale | Atk | Def | Agg | Loyalty | Hes | Discipline | Command Confidence |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Ishida Mitsunari | 6,000 | 101 | 54 | 78 | 46 | 96 | 34 | 82 | 70 |
 | Ukita Hideie | 17,000 | 104 | 82 | 82 | 78 | 86 | 16 | 78 | 82 |
@@ -51,11 +51,12 @@ Starting morale is the normalized in-game value. Abbreviations in the table are 
 | Kutsuki Mototsuna | 600 | 89 | 52 | 52 | 28 | 38 | 78 | 48 | 34 |
 | Ogawa Suketada | 2,100 | 90 | 56 | 55 | 32 | 38 | 76 | 50 | 36 |
 | Akaza Naoyasu | 600 | 89 | 52 | 50 | 30 | 36 | 78 | 46 | 34 |
+| Ankokuji Ekei | 1,800 | 98 | 60 | 68 | 48 | 80 | 38 | 72 | 72 |
 | Uesugi Kagekatsu | 16,000 | 104 | 80 | 86 | 68 | 88 | 22 | 86 | 84 |
-| Satake Yoshinobu | 12,000 | 98 | 66 | 76 | 42 | 72 | 48 | 80 | 68 |
+| Satake Yoshinobu | 11,300 | 98 | 66 | 76 | 42 | 72 | 48 | 80 | 68 |
 | Chosokabe Morichika | 6,600 | 97 | 68 | 68 | 54 | 74 | 40 | 72 | 64 |
-| Tachibana Muneshige | 5,500 | 109 | 92 | 84 | 82 | 92 | 8 | 90 | 88 |
-| Nabeshima Naoshige | 12,000 | 102 | 74 | 82 | 58 | 78 | 30 | 84 | 84 |
+| Tachibana Muneshige | 4,500 | 109 | 92 | 84 | 82 | 92 | 8 | 90 | 88 |
+| Nabeshima Naoshige | 10,200 | 102 | 74 | 82 | 58 | 78 | 30 | 84 | 84 |
 | Niwa Nagashige | 3,700 | 101 | 74 | 85 | 60 | 84 | 28 | 83 | 84 |
 
 ## Related Pages

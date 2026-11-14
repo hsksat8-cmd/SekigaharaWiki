@@ -2,6 +2,15 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.8.0
+- Added commander portraits and event-specific dialogue.
+- Added Ankokuji Ekei and a what-if Mori Hidemoto engagement north of Mount Nangu on the standard map.
+- Adjusted the timing of Tokugawa Ieyasu's advance and Kobayakawa Hideaki's defection.
+- Added tactical restrictions and morale penalties for flank/rear engagement.
+- Added gradual HP loss due to fatigue for all soldier dots.
+- Made minor adjustments to starting troop counts.
+- [Details](v2.8.0.md)
+
 ## Version 2.7.0
 - Added Normal and All-Cavalry as selectable unit compositions.
 - All-Cavalry units receive a 15% troop reduction, consume 1.15× troop-increase allowance, and are limited to units of 6,600 troops or fewer.

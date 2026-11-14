@@ -48,3 +48,9 @@ The effect of a stance depends on the role of the unit rather than following a s
 See the [Unit Tactics Experiment](../systems/unit-tactics-experiment.md) for the full conditions and results.
 
 See [Experiments](../experiments/index.md) for all experiment results collected in one section.
+
+## Version 2.8.0: Tactics When Flanked or Attacked From Behind
+
+A unit attacked from the flank or rear is subject to tactical restrictions based on the direction and strength of the enemy contact. If enemy troops engaging from the flank total at least 20% of its strength, the unit cannot use Charge, Aggressive, or Normal. The defaults are Defensive when flanked and Retreat when engaged from the rear.
+
+As a result, combinations that worked in earlier pincer-attack experiments may not remain available in the same situations in Version 2.8.0. See [Flank and Rear Engagement](../systems/flank-rear-engagement.md).

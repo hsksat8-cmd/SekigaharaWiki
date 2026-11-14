@@ -12,6 +12,10 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 
 </div>
 
+## Latest: Version 2.8.0
+
+This update adds commander portraits and event-specific dialogue, Ankokuji Ekei, a what-if Mori Hidemoto engagement north of Mount Nangu, restrictions during flank/rear engagements, and fatigue-related HP loss over time. See the [Version 2.8.0 release notes](updates/v2.8.0.md) for details.
+
 ## Main Features
 
 <div class="stat-grid">

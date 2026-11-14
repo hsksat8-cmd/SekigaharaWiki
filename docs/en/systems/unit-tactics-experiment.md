@@ -141,3 +141,5 @@ With the Normal tactic, a unit temporarily retreats when the situation becomes u
 
 [Unit Tactics Comparison Experiment — One-on-One: Normal Tactic (Blue) vs. Charge Tactic (Red)](https://youtu.be/0mD00WVXVvE?si=q2YVq37m12GYEi-v)
 
+!!! note "Tactical restrictions in Version 2.8.0"
+    Version 2.8.0 adds tactical restrictions when a unit is engaged from the flank or rear. Tactical stances tested in the original experiments may no longer be available under the same circumstances. See [Flank and Rear Engagement](flank-rear-engagement.md).

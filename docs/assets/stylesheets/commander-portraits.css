@@ -1,0 +1,82 @@
+/* Commander details: portrait (natural ratio) | banner | game data. */
+.md-content__inner:has(.commander-data-layout.has-portrait) {
+  container-type: inline-size;
+}
+.md-typeset .commander-data-layout.has-portrait {
+  display: grid !important;
+  grid-template-columns: minmax(120px, 192px) minmax(78px, 110px) minmax(205px, 1fr);
+  gap: 14px !important;
+  align-items: start !important;
+  width: 100%;
+  min-width: 0;
+}
+.md-typeset .commander-data-layout.has-portrait > .commander-portrait {
+  margin: 0 !important;
+  padding: 0;
+  min-width: 0;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-portrait > img {
+  display: block;
+  width: 100%;
+  max-width: 192px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: .25rem;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-portrait > figcaption {
+  margin: .45rem 0 0;
+  font-size: .75rem;
+  opacity: .78;
+  text-align: center;
+}
+.md-typeset .commander-data-layout.has-portrait > .commander-flag {
+  flex: none !important;
+  width: auto !important;
+  min-width: 0;
+  text-align: center;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-flag > img {
+  display: block;
+  width: 100% !important;   /* override the existing inline width:50% */
+  max-width: 105px;
+  height: auto !important;
+  margin: 0 auto;
+  object-fit: contain;
+  border-radius: 0;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-flag > .image-caption {
+  margin: .45rem 0 0;
+  font-size: .75rem;
+}
+.md-typeset .commander-data-layout.has-portrait > .commander-stats {
+  flex: none !important;
+  min-width: 0 !important;  /* override the old inline min-width:280px */
+  width: 100%;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-stats > h2 {
+  margin: 0 0 .65rem;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-stats table {
+  width: 100%;
+  margin: 0;
+  font-size: .8rem;
+}
+.md-typeset .commander-data-layout.has-portrait .commander-stats :is(th, td) {
+  padding: .65em .7em;
+  overflow-wrap: anywhere;
+}
+/* When the article area is narrow, show portrait and banner side-by-side,
+   then the stats below; never crop the supplied tall portraits. */
+@container (max-width: 485px) {
+  .md-typeset .commander-data-layout.has-portrait {
+    grid-template-columns: minmax(0, 192px) minmax(0, 110px);
+    justify-content: start;
+    gap: 16px !important;
+  }
+  .md-typeset .commander-data-layout.has-portrait > .commander-stats {
+    grid-column: 1 / -1;
+  }
+}
+@media (max-width: 440px) {
+  .md-typeset .commander-data-layout.has-portrait .commander-stats table { font-size: .75rem; }
+}
