@@ -1,14 +1,18 @@
-/* Commander details: portrait (natural ratio, 1.5x display width) | banner | game data.
- * Original portrait asset widths: 192px; intended desktop display width: up to 288px.
- * Keep height:auto to preserve the natural portrait aspect ratio without cropping.
+/* Commander detail view — 2x portrait display, native aspect ratio.
+ * Portrait source images in this Wiki are 192 pixels wide.
+ * Desktop display target: up to 384 CSS pixels (2x source width).
+ * Left portrait | middle banner | right in-game statistics.
+ * On narrow screens, statistics move below the two images.
  */
 .md-content__inner:has(.commander-data-layout.has-portrait) {
   container-type: inline-size;
+  max-width: none;
 }
 .md-typeset .commander-data-layout.has-portrait {
   display: grid !important;
-  grid-template-columns: minmax(150px, 288px) minmax(72px, 105px) minmax(200px, 1fr);
-  gap: 12px !important;
+  grid-template-columns: minmax(192px, 384px) 80px minmax(205px, 1fr);
+  column-gap: 14px !important;
+  row-gap: 16px !important;
   align-items: start !important;
   width: 100%;
   min-width: 0;
@@ -16,14 +20,17 @@
 .md-typeset .commander-data-layout.has-portrait > .commander-portrait {
   margin: 0 !important;
   padding: 0;
+  width: 100%;
   min-width: 0;
+  text-align: center;
 }
 .md-typeset .commander-data-layout.has-portrait .commander-portrait > img {
   display: block;
-  width: 100%;
-  max-width: 288px;
-  height: auto;
+  width: 100% !important; /* fill the portrait column, not its intrinsic 192px */
+  max-width: none !important;
+  height: auto !important; /* preserve 192x294, 192x300, 192x358 ratios */
   margin: 0 auto;
+  object-fit: contain;
   border-radius: .25rem;
 }
 .md-typeset .commander-data-layout.has-portrait .commander-portrait > figcaption {
@@ -33,15 +40,16 @@
   text-align: center;
 }
 .md-typeset .commander-data-layout.has-portrait > .commander-flag {
-  flex: none !important;
-  width: auto !important;
+  flex: none !important; /* override legacy inline flex-basis:220px */
+  width: 100% !important;
   min-width: 0;
+  margin: 0;
   text-align: center;
 }
 .md-typeset .commander-data-layout.has-portrait .commander-flag > img {
   display: block;
-  width: 100% !important;   /* override the existing inline width:50% */
-  max-width: 105px;
+  width: 100% !important; /* override existing inline width:50% */
+  max-width: 80px;
   height: auto !important;
   margin: 0 auto;
   object-fit: contain;
@@ -50,11 +58,12 @@
 .md-typeset .commander-data-layout.has-portrait .commander-flag > .image-caption {
   margin: .45rem 0 0;
   font-size: .75rem;
+  overflow-wrap: anywhere;
 }
 .md-typeset .commander-data-layout.has-portrait > .commander-stats {
   flex: none !important;
-  min-width: 0 !important;  /* override the old inline min-width:280px */
-  width: 100%;
+  min-width: 0 !important; /* override legacy inline min-width:280px */
+  width: 100% !important;
 }
 .md-typeset .commander-data-layout.has-portrait .commander-stats > h2 {
   margin: 0 0 .65rem;
@@ -68,18 +77,28 @@
   padding: .65em .7em;
   overflow-wrap: anywhere;
 }
-/* Narrow layouts: let the portrait grow relative to the banner, while
-   moving the stats below. At no size is the original portrait cropped. */
-@container (max-width: 545px) {
+/* At narrow article widths do not squash the portrait to a thumbnail.
+ * Keep the two images side by side and put the stats below. */
+@container (max-width: 640px) {
   .md-typeset .commander-data-layout.has-portrait {
-    grid-template-columns: minmax(0, 1.9fr) minmax(0, .8fr);
-    gap: 12px !important;
-    max-width: 425px;
+    grid-template-columns: minmax(0, 384px) minmax(55px, 80px);
+    justify-content: start;
+    column-gap: 12px !important;
   }
   .md-typeset .commander-data-layout.has-portrait > .commander-stats {
     grid-column: 1 / -1;
   }
 }
-@media (max-width: 440px) {
-  .md-typeset .commander-data-layout.has-portrait .commander-stats table { font-size: .75rem; }
+/* Portrait stays the dominant image on small phones. */
+@container (max-width: 420px) {
+  .md-typeset .commander-data-layout.has-portrait {
+    grid-template-columns: minmax(0, 1fr) minmax(48px, 66px);
+    column-gap: 10px !important;
+  }
+  .md-typeset .commander-data-layout.has-portrait .commander-flag > img {
+    max-width: 66px;
+  }
+  .md-typeset .commander-data-layout.has-portrait .commander-stats table {
+    font-size: .75rem;
+  }
 }

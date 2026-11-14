@@ -6,6 +6,12 @@ This section brings together the comparison experiments conducted in the Sekigah
 
 The results should be treated as tendencies observed under the stated conditions and number of trials. Random variation, initial deployment, troop strength, formation, matchlock ratio, and unit tactical stance can all affect the outcome.
 
+## Experiment Videos on YouTube
+
+You can watch our **YouTube playlist of battle experiments** to see the simulations in action alongside the explanations provided in this Wiki.
+
+**[Watch the Experiment Playlist on YouTube](https://www.youtube.com/playlist?list=PLKGj0y7xjTaY)**
+
 ## Experiment List
 
 - [Formation and Matchlock Ashigaru Experiments](../formations/experiments.md)  

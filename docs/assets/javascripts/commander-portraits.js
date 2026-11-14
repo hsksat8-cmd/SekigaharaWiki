@@ -76,7 +76,7 @@
     const image = document.createElement('img');
     image.src = imageUrl;
     image.alt = english ? 'Portrait of ' + name : name + 'の武将画像';
-    image.width = 288; // 1.5x the original 192px portrait width; CSS is responsive
+    image.width = 384; // 2x the original 192px asset; CSS handles narrow screens
     image.loading = 'lazy';
     image.decoding = 'async';
     const caption = document.createElement('figcaption');
