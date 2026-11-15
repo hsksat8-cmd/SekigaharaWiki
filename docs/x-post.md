@@ -7,7 +7,8 @@ Wikiの記事から投稿候補を抽選し、見出し単位の文章を編集�
   <p id="xp-message" role="status" aria-live="polite">記事一覧を読み込んでいます…</p>
   <section id="xp-post" hidden>
     <h2 id="xp-title"></h2>
-    <p>記事：<a id="xp-link" target="_blank" rel="noopener noreferrer"></a></p>
+    <p>関ヶ原IF布陣シミュレータ公式wikiから</p>
+    <p>抜粋元：<a id="xp-link" target="_blank" rel="noopener noreferrer"></a></p>
     <label for="xp-text"><strong>投稿文（編集可能）</strong></label>
     <textarea id="xp-text" rows="7" style="display:block;width:100%;box-sizing:border-box"></textarea>
     <p id="xp-count"></p>
