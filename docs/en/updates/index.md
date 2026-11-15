@@ -2,6 +2,11 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.8.1
+- Added more dialogue variations for each commander.
+- Made minor adjustments to unit behavior.
+- [Details](v2.8.1.md)
+
 ## Version 2.8.0
 - Added commander portraits and event-specific dialogue.
 - Added Ankokuji Ekei and a what-if Mori Hidemoto engagement north of Mount Nangu on the standard map.
