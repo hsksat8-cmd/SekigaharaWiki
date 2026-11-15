@@ -1,6 +1,6 @@
 # X 投稿専用ページ
 
-Wikiの記事を抽選し、投稿文と画像をXへ手動投稿するためのページです。投稿は自動送信されません。
+Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。文字数による省略はしません。投稿は自動送信されません。
 
 <div id="xp">
   <p><button id="xp-next" class="md-button md-button--primary">次の投稿候補を抽選</button> <label><input type="checkbox" id="xp-repeat"> 投稿済みも抽選</label></p>
@@ -11,6 +11,7 @@ Wikiの記事を抽選し、投稿文と画像をXへ手動投稿するための
     <label for="xp-text"><strong>投稿文（編集可能）</strong></label>
     <textarea id="xp-text" rows="7" style="display:block;width:100%;box-sizing:border-box"></textarea>
     <p id="xp-count"></p>
+    <p><small>※ 抜粋は見出し単位で全文を取得します。Xの投稿文字数上限を超える場合は、投稿前に編集するか分割してください。</small></p>
     <div class="xp-buttons">
       <button id="xp-both" class="md-button md-button--primary">一括コピー（本文＋画像）</button>
       <button id="xp-text-copy" class="md-button">本文をコピー</button>
@@ -53,12 +54,55 @@ return [...new Set([...xml.querySelectorAll('url > loc')].map(el=>{try{let u=new
 async function loadArticle(url){let r=await fetch(url);if(!r.ok)throw Error('記事が見つかりません');
 let doc=new DOMParser().parseFromString(await r.text(),'text/html'),box=doc.querySelector('article.md-content__inner, .md-content__inner');if(!box)throw Error('記事本文がありません');
 let title=box.querySelector('h1')?.textContent.trim()||doc.title;
-let paragraphs=[...box.querySelectorAll('p')].map(e=>e.textContent.replace(/\s+/g,' ').trim()).filter(t=>t.length>20&&!/^English version|^日本語版/.test(t));
+// h2/h3 の見出し単位で内容を取得する。少なくとも1項を全文取得し、文字数による切り詰めは行わない。
+// h2 の項は次の h2 まで（h3 等の小項も含む）、h3 は次の h2/h3 まで。
+function extractSection(root){
+  const headings=[...root.querySelectorAll('h2,h3')];
+  const sections=[];
+  for(const heading of headings){
+    const level=Number(heading.tagName[1]);
+    const parts=[];
+    let node=heading.nextElementSibling;
+    while(node){
+      if(/^H[1-6]$/.test(node.tagName)&&Number(node.tagName[1])<=level)break;
+      // MkDocs の編集UI等は除去するが、本文の段落・リスト・表は残す。
+      const copy=node.cloneNode(true);
+      copy.querySelectorAll('script,style,.headerlink,.md-source-file,button').forEach(e=>e.remove());
+      const lines=[];
+      function read(el){
+        if(el.nodeType===3)return el.textContent.replace(/\s+/g,' ');
+        if(el.nodeType!==1)return '';
+        if(['SCRIPT','STYLE','IMG','SVG'].includes(el.tagName))return '';
+        if(el.matches('li'))return '・'+[...el.childNodes].map(read).join('').trim()+'\n';
+        if(el.matches('tr'))return [...el.querySelectorAll(':scope > th,:scope > td')].map(c=>c.textContent.replace(/\s+/g,' ').trim()).join(' | ')+'\n';
+        if(el.matches('table'))return [...el.querySelectorAll('tr')].map(read).join('');
+        if(el.matches('p,h3,h4,h5,h6,dt,dd,blockquote'))return [...el.childNodes].map(read).join('').trim()+'\n';
+        return [...el.childNodes].map(read).join('');
+      }
+      let part=read(copy).replace(/[ \t]+\n/g,'\n').trim();
+      if(part)parts.push(part);
+      node=node.nextElementSibling;
+    }
+    const headingName=heading.textContent.replace(/¶/g,'').trim();
+    if(headingName&&parts.length)sections.push({heading:headingName,body:parts.join('\n\n')});
+  }
+  // h2/h3 がない記事は記事本文を「ひとつの項」として全文抜粋する。
+  if(!sections.length){
+    const fallback=root.cloneNode(true);
+    fallback.querySelectorAll('script,style,.headerlink,.md-source-file,h1,a[href*="/en/"],img').forEach(e=>e.remove());
+    const whole=fallback.innerText||fallback.textContent||'';
+    return {heading:'',body:whole.trim()};
+  }
+  return sections[Math.floor(Math.random()*sections.length)];
+}
+const section=extractSection(box);
 let images=[...box.querySelectorAll('img')].map(e=>{try{let src=e.getAttribute('src');if(!src||src.startsWith('data:'))return null;let u=new URL(src,url);return u.origin===location.origin?{src:u.href,alt:e.alt||'記事の画像'}:null}catch{return null}}).filter(Boolean);
-images=images.filter((e,i)=>images.findIndex(x=>x.src===e.src)===i);return {url,title,summary:paragraphs.slice(0,2).join('\n'),images}}
-function postText(a){let prefix=a.title+'\n\n',tail='\n\n'+a.url,body=a.summary;
-while(Array.from(prefix+body+tail).length>245&&body.length)body=body.slice(0,-1);
-if(body.length<a.summary.length)body=body.replace(/[、。\s]+$/,'')+'…';return prefix+(body?body+tail:a.url)}
+images=images.filter((e,i)=>images.findIndex(x=>x.src===e.src)===i);
+return {url,title,section,images}}
+function postText(a){
+ const heading=a.section.heading&&a.section.heading!==a.title?'【'+a.section.heading+'】\n\n':'';
+ return a.title+'\n\n'+heading+a.section.body+'\n\n'+a.url;
+}
 function selected(){return document.querySelector('#xp input[name="xp-image"]:checked')?.value||null}
 function state(){return $('state').textContent=posted.has(current.url)?'投稿済み':'未投稿'}
 function show(a){current=a;$('post').hidden=false;$('title').textContent=a.title;$('link').textContent=a.url;$('link').href=a.url;$('text').value=postText(a);count();
