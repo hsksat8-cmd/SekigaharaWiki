@@ -1,6 +1,6 @@
 # X 投稿専用ページ
 
-Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。記事に複数の画像がある場合、全画像の結合コピーとZIP保存ができます。文字数による省略はしません。投稿は自動送信されません。
+Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。記事内画像に加えて、武将記事では画像ギャラリー内の該当人物画像も取得します。複数画像は結合コピーとZIP保存ができます。文字数による省略はしません。投稿は自動送信されません。
 
 <div id="xp">
   <p><button id="xp-next" class="md-button md-button--primary">次の投稿候補を抽選</button> <label><input type="checkbox" id="xp-repeat"> 投稿済みも抽選</label></p>
@@ -98,6 +98,32 @@ function extractSection(root){
 }
 const section=extractSection(box);
 let images=[...box.querySelectorAll('img')].map(e=>{try{let src=e.getAttribute('src');if(!src||src.startsWith('data:'))return null;let u=new URL(src,url);return u.origin===location.origin?{src:u.href,alt:e.alt||'記事の画像'}:null}catch{return null}}).filter(Boolean);
+// 武将ページでは、別ページの画像ギャラリーにある同名武将の画像も補完する。
+// 一覧全体を混ぜず、alt に当該武将の名前がある画像だけを採用する。
+if (new URL(url).pathname.includes('/commanders/')) {
+  try {
+    const galleryUrl=new URL('reference/gallery/',base);
+    const response=await fetch(galleryUrl);
+    if(response.ok){
+      const galleryDoc=new DOMParser().parseFromString(await response.text(),'text/html');
+      const gallery=galleryDoc.querySelector('article.md-content__inner, .md-content__inner');
+      if(gallery){
+        const relevant=[...gallery.querySelectorAll('img')].filter(img=>{
+          const alt=(img.getAttribute('alt')||'').trim();
+          return title.length>=2 && alt.includes(title) && !alt.includes('旗印');
+        }).map(img=>{
+          try{
+            const src=img.getAttribute('src');
+            if(!src || src.startsWith('data:'))return null;
+            const imgUrl=new URL(src,galleryUrl);
+            return imgUrl.origin===location.origin?{src:imgUrl.href,alt:img.alt||title+'の画像'}:null;
+          }catch{return null}
+        }).filter(Boolean);
+        images=[...relevant,...images];
+      }
+    }
+  }catch(error){console.warn('画像ギャラリーの追加画像を取得できませんでした',error)}
+}
 images=images.filter((e,i)=>images.findIndex(x=>x.src===e.src)===i);
 return {url,title,section,images}}
 function postText(a){
