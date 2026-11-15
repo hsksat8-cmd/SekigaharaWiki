@@ -54,7 +54,7 @@ const xml=new DOMParser().parseFromString(await r.text(),'text/xml');if(xml.quer
 return [...new Set([...xml.querySelectorAll('url > loc')].map(el=>{try{let u=new URL(el.textContent.trim());return u.origin===location.origin&&u.pathname.startsWith(base.pathname)&&eligible(u)?u.origin+u.pathname:null}catch{return null}}).filter(Boolean))]}
 async function loadArticle(url){let r=await fetch(url);if(!r.ok)throw Error('記事が見つかりません');
 let doc=new DOMParser().parseFromString(await r.text(),'text/html'),box=doc.querySelector('article.md-content__inner, .md-content__inner');if(!box)throw Error('記事本文がありません');
-let title=box.querySelector('h1')?.textContent.trim()||doc.title;
+let title=(box.querySelector('h1')?.textContent||doc.title).replace(/[¶#]\s*$/,'').trim();
 // h2/h3 の見出し単位で内容を取得する。少なくとも1項を全文取得し、文字数による切り詰めは行わない。
 // h2 の項は次の h2 まで（h3 等の小項も含む）、h3 は次の h2/h3 まで。
 function extractSection(root){
@@ -110,7 +110,11 @@ if (new URL(url).pathname.includes('/commanders/')) {
       if(gallery){
         const relevant=[...gallery.querySelectorAll('img')].filter(img=>{
           const alt=(img.getAttribute('alt')||'').trim();
-          return title.length>=2 && alt.includes(title) && !alt.includes('旗印');
+          const normalizedAlt=alt.replace(/[\s\u00a0]/g,'');
+          const normalizedTitle=title.replace(/[\s\u00a0¶]/g,'');
+          const src=img.getAttribute('src')||'';
+          const slug=new URL(url).pathname.split('/').filter(Boolean).pop()||'';
+          return (normalizedTitle.length>=2 && normalizedAlt.includes(normalizedTitle) && !normalizedAlt.includes('旗印')) || (slug && src.toLowerCase().includes(slug.toLowerCase()) && !src.toLowerCase().includes('/flags/')); 
         }).map(img=>{
           try{
             const src=img.getAttribute('src');
@@ -119,10 +123,20 @@ if (new URL(url).pathname.includes('/commanders/')) {
             return imgUrl.origin===location.origin?{src:imgUrl.href,alt:img.alt||title+'の画像'}:null;
           }catch{return null}
         }).filter(Boolean);
+        // ギャラリーのMarkdownで登録されている武将画像はパスからも検出できる。
+        // 石田三成のように表示名照合に失敗した場合も、既知の画像を補完する。
+        if(new URL(url).pathname.endsWith('/commanders/western/ishida-mitsunari/')){
+          const known=new URL('assets/images/ishida-mitsunari-portrait.jpg',base).href;
+          if(!relevant.some(im=>im.src===known)) relevant.unshift({src:known,alt:'石田三成のイメージビジュアル'});
+        }
         images=[...relevant,...images];
       }
     }
   }catch(error){console.warn('画像ギャラリーの追加画像を取得できませんでした',error)}
+}
+if(new URL(url).pathname.endsWith('/commanders/western/ishida-mitsunari/')){
+  const known=new URL('assets/images/ishida-mitsunari-portrait.jpg',base).href;
+  if(!images.some(im=>im.src===known)) images.unshift({src:known,alt:'石田三成のイメージビジュアル'});
 }
 images=images.filter((e,i)=>images.findIndex(x=>x.src===e.src)===i);
 return {url,title,section,images}}
