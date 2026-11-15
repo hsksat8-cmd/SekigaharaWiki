@@ -127,7 +127,7 @@ async function loadArticle(url){
 }
 function postText(a){
  const h=a.section.heading&&a.section.heading!==a.title?'【'+a.section.heading+'】\n\n':'';
- return a.title+'\n\n'+h+a.section.body+'\n\n'+a.url;
+ return a.title+'\n\n'+h+a.section.body+'\n\n関ヶ原IF布陣シミュレータ公式wikiから\n'+a.url;
 }
 function selected(){return app.querySelector('input[name="xp-image"]:checked')?.value||null}
 function state(){$('state').textContent=posted.has(current.url)?'投稿済み':'未投稿'}
