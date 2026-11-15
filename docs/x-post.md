@@ -1,6 +1,6 @@
 # X 投稿専用ページ
 
-Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。文字数による省略はしません。投稿は自動送信されません。
+Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。記事に複数の画像がある場合、全画像の結合コピーとZIP保存ができます。文字数による省略はしません。投稿は自動送信されません。
 
 <div id="xp">
   <p><button id="xp-next" class="md-button md-button--primary">次の投稿候補を抽選</button> <label><input type="checkbox" id="xp-repeat"> 投稿済みも抽選</label></p>
@@ -13,17 +13,18 @@ Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**し
     <p id="xp-count"></p>
     <p><small>※ 抜粋は見出し単位で全文を取得します。Xの投稿文字数上限を超える場合は、投稿前に編集するか分割してください。</small></p>
     <div class="xp-buttons">
-      <button id="xp-both" class="md-button md-button--primary">一括コピー（本文＋画像）</button>
+      <button id="xp-both" class="md-button md-button--primary">一括コピー（本文＋全画像の結合画像）</button>
       <button id="xp-text-copy" class="md-button">本文をコピー</button>
       <a href="https://x.com/compose/post" class="md-button" target="_blank" rel="noopener noreferrer">X投稿画面</a>
     </div>
-    <p><small>※ 一括コピーでは本文＋選択画像1枚をクリップボードに格納します。Xが両方同時に貼り付けるとは限りません。貼り付け後に確認してください。</small></p>
+    <p><small>※ 一括コピーでは本文と全画像を1枚に結合したPNG画像を格納します。Xが本文と画像を同時に貼り付けるとは限りません。画像を個別に添付する場合はZIP保存をご利用ください。</small></p>
     <h3>添付画像</h3>
     <div id="xp-images"></div>
     <div class="xp-buttons">
-      <button id="xp-image-copy" class="md-button">画像をコピー</button>
-      <button id="xp-image-save" class="md-button">画像を保存</button>
-      <button id="xp-images-save" class="md-button">全画像を保存</button>
+      <button id="xp-image-copy" class="md-button">選択画像をコピー</button>
+      <button id="xp-images-copy" class="md-button md-button--primary">全画像をコピー（1枚に結合）</button>
+      <button id="xp-image-save" class="md-button">選択画像を保存</button>
+      <button id="xp-images-save" class="md-button">全画像を保存（ZIP）</button>
     </div>
     <div class="xp-buttons">
       <button id="xp-done" class="md-button md-button--primary">投稿済みにする</button>
@@ -109,23 +110,92 @@ function show(a){current=a;$('post').hidden=false;$('title').textContent=a.title
 $('images').replaceChildren();if(!a.images.length)$('images').textContent='この記事には画像がありません。';
 a.images.forEach((im,i)=>{let label=document.createElement('label');label.className='xp-img';let radio=document.createElement('input');radio.type='radio';radio.name='xp-image';radio.value=im.src;radio.checked=i===0;
 let span=document.createElement('span');span.textContent=' 画像 '+(i+1)+'：'+im.alt;let img=document.createElement('img');img.src=im.src;img.alt=im.alt;img.loading='lazy';label.append(radio,span,img);$('images').append(label)});
-for(let id of ['image-copy','image-save','images-save'])$(id).disabled=!a.images.length;state()}
+for(let id of ['image-copy','images-copy','image-save','images-save'])$(id).disabled=!a.images.length;state()}
 async function next(){let pool=pages.filter(x=>$('repeat').checked||!posted.has(x));if(!pool.length){say('未投稿の記事がありません。投稿済みも抽選を選択してください。');return}
 $('next').disabled=true;say('記事を読み込み中…');try{for(let tries=0;tries<Math.min(pool.length,8);tries++){
 let i=Math.floor(Math.random()*pool.length),url=pool.splice(i,1)[0];if(url===current?.url&&pool.length)continue;
 try{show(await loadArticle(url));say('投稿候補を表示しました。');return}catch(err){console.warn(err)}}throw Error('記事の読み込みに失敗しました')}
 catch(err){say(err.message)}finally{$('next').disabled=false}}
 async function png(src){let r=await fetch(src);if(!r.ok)throw Error('画像を取得できません');let bitmap=await createImageBitmap(await r.blob());try{let canvas=document.createElement('canvas');canvas.width=bitmap.width;canvas.height=bitmap.height;canvas.getContext('2d').drawImage(bitmap,0,0);return await new Promise((ok,no)=>canvas.toBlob(b=>b?ok(b):no(Error('PNG変換に失敗')),'image/png'))}finally{bitmap.close()}}
-async function save(src,index){let r=await fetch(src);if(!r.ok)throw Error('画像を取得できません');let blob=await r.blob();let ext=blob.type==='image/png'?'png':blob.type==='image/webp'?'webp':blob.type==='image/gif'?'gif':'jpg';
-let objectUrl=URL.createObjectURL(blob),a=document.createElement('a');a.href=objectUrl;a.download='sekigahara-'+(current.url.split('/').filter(Boolean).pop()||'post')+'-'+index+'.'+ext;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(objectUrl),10000)}
+// 全画像を縦方向に連結して1枚のPNGにする（クリップボードは複数の独立画像を保証しない）。
+async function combinedPng(){
+ if(!current?.images.length)throw Error('画像がありません');
+ const bitmaps=[];
+ try{
+  for(const im of current.images){
+   const r=await fetch(im.src);if(!r.ok)throw Error('画像の取得に失敗：'+im.src);
+   bitmaps.push(await createImageBitmap(await r.blob()));
+  }
+  const maxWidth=1600, width=Math.min(maxWidth,Math.max(...bitmaps.map(b=>b.width)));
+  const padding=16, heights=bitmaps.map(b=>Math.round(b.height*width/b.width));
+  const totalHeight=heights.reduce((a,b)=>a+b,0)+padding*(bitmaps.length-1);
+  if(width*totalHeight>80000000 || totalHeight>32767)throw Error('全画像が大きすぎるため結合できません。ZIP保存で個別画像を使用してください');
+  const canvas=document.createElement('canvas');canvas.width=width;canvas.height=totalHeight;
+  const ctx=canvas.getContext('2d');ctx.fillStyle='#ffffff';ctx.fillRect(0,0,width,totalHeight);
+  let y=0;bitmaps.forEach((b,i)=>{ctx.drawImage(b,0,y,width,heights[i]);y+=heights[i]+padding});
+  return await new Promise((ok,no)=>canvas.toBlob(b=>b?ok(b):no(Error('画像結合に失敗しました')),'image/png'));
+ }finally{bitmaps.forEach(b=>b.close())}
+}
+function download(blob,name){
+ const u=URL.createObjectURL(blob),a=document.createElement('a');a.href=u;a.download=name;
+ document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),30000);
+}
+function fileName(index,ext){return 'sekigahara-'+(current.url.split('/').filter(Boolean).pop()||'post')+'-'+index+'.'+ext}
+async function save(src,index){
+ const r=await fetch(src);if(!r.ok)throw Error('画像を取得できません');
+ const blob=await r.blob();const ext=blob.type==='image/png'?'png':blob.type==='image/webp'?'webp':blob.type==='image/gif'?'gif':'jpg';
+ download(blob,fileName(index,ext));
+}
+// 依存ライブラリや外部CDNを使わないZIP(STORE形式)作成。
+const encoder=new TextEncoder();
+const crcTable=Array.from({length:256},(_,i)=>{let c=i;for(let j=0;j<8;j++)c=(c&1)?(0xedb88320^(c>>>1)):(c>>>1);return c>>>0});
+function crc32(bytes){let c=0xffffffff;for(const b of bytes)c=crcTable[(c^b)&255]^(c>>>8);return(c^0xffffffff)>>>0}
+function zipFiles(files){
+ const pieces=[],central=[];let offset=0;
+ for(const {name,bytes} of files){
+  const nameBytes=encoder.encode(name),crc=crc32(bytes),n=bytes.length;
+  const local=new Uint8Array(30+nameBytes.length),v=new DataView(local.buffer);
+  v.setUint32(0,0x04034b50,true);v.setUint16(4,20,true);v.setUint16(6,0x0800,true);
+  v.setUint32(14,crc,true);v.setUint32(18,n,true);v.setUint32(22,n,true);v.setUint16(26,nameBytes.length,true);
+  local.set(nameBytes,30);pieces.push(local,bytes);
+  const cd=new Uint8Array(46+nameBytes.length),w=new DataView(cd.buffer);
+  w.setUint32(0,0x02014b50,true);w.setUint16(4,20,true);w.setUint16(6,20,true);w.setUint16(8,0x0800,true);
+  w.setUint32(16,crc,true);w.setUint32(20,n,true);w.setUint32(24,n,true);
+  w.setUint16(28,nameBytes.length,true);w.setUint32(42,offset,true);cd.set(nameBytes,46);
+  central.push(cd);offset+=local.length+bytes.length;
+ }
+ const centralSize=central.reduce((s,b)=>s+b.length,0),end=new Uint8Array(22),v=new DataView(end.buffer);
+ v.setUint32(0,0x06054b50,true);v.setUint16(8,files.length,true);v.setUint16(10,files.length,true);
+ v.setUint32(12,centralSize,true);v.setUint32(16,offset,true);
+ return new Blob([...pieces,...central,end],{type:'application/zip'});
+}
+async function saveAll(){
+ const files=[];
+ for(let i=0;i<current.images.length;i++){
+  const src=current.images[i].src,r=await fetch(src);if(!r.ok)throw Error('画像を取得できません：'+src);
+  const blob=await r.blob(),bytes=new Uint8Array(await blob.arrayBuffer());
+  const ext=blob.type==='image/png'?'png':blob.type==='image/webp'?'webp':blob.type==='image/gif'?'gif':'jpg';
+  files.push({name:fileName(i+1,ext),bytes});
+ }
+ download(zipFiles(files),'sekigahara-'+(current.url.split('/').filter(Boolean).pop()||'post')+'-all-images.zip');
+}
 async function run(fn){try{await fn()}catch(e){say('失敗：'+e.message+'。画像保存や本文コピーをお試しください。')}}
 $('next').onclick=next;$('text').oninput=count;
 $('text-copy').onclick=()=>run(async()=>{await navigator.clipboard.writeText($('text').value);say('本文をコピーしました。')});
 $('image-copy').onclick=()=>run(async()=>{let src=selected();if(!src)throw Error('画像がありません');let item=new ClipboardItem({'image/png':png(src)});await navigator.clipboard.write([item]);say('画像をコピーしました。')});
-$('both').onclick=()=>run(async()=>{let src=selected();if(!src){await navigator.clipboard.writeText($('text').value);say('画像がないため本文のみコピーしました。');return}
-let item=new ClipboardItem({'text/plain':new Blob([$('text').value],{type:'text/plain'}),'image/png':png(src)});await navigator.clipboard.write([item]);say('本文＋画像を一括コピーしました。Xの投稿欄で両方が貼り付いたか確認してください。')});
+$('images-copy').onclick=()=>run(async()=>{
+ if(!current.images.length)throw Error('画像がありません');
+ await navigator.clipboard.write([new ClipboardItem({'image/png':combinedPng()})]);
+ say('全'+current.images.length+'枚を1枚のPNGに結合してコピーしました。');
+});
+$('both').onclick=()=>run(async()=>{
+ if(!current.images.length){await navigator.clipboard.writeText($('text').value);say('画像がないため本文のみコピーしました。');return}
+ const item=new ClipboardItem({'text/plain':new Blob([$('text').value],{type:'text/plain'}),'image/png':combinedPng()});
+ await navigator.clipboard.write([item]);
+ say('本文＋全画像を結合したPNGをコピーしました。Xで両方が貼り付いたか確認してください。');
+});
 $('image-save').onclick=()=>run(async()=>{let src=selected();if(!src)throw Error('画像がありません');await save(src,1);say('画像の保存を開始しました。')});
-$('images-save').onclick=()=>run(async()=>{for(let i=0;i<current.images.length;i++)await save(current.images[i].src,i+1);say('全画像の保存を開始しました。複数ダウンロードの許可が必要な場合があります。')});
+$('images-save').onclick=()=>run(async()=>{await saveAll();say('全'+current.images.length+'枚の画像をZIPに保存しました。')});
 function mark(yes){if(!current)return;yes?posted.add(current.url):posted.delete(current.url);localStorage.setItem(store,JSON.stringify([...posted]));state();say(yes?'投稿済みにしました。':'未投稿に戻しました。')}
 $('done').onclick=()=>mark(true);$('undo').onclick=()=>mark(false);
 loadList().then(list=>{pages=list;if(!list.length)throw Error('対象の記事がありません');next()}).catch(e=>say('記事一覧の取得に失敗：'+e.message));
