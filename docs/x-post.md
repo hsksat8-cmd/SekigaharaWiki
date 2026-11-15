@@ -1,6 +1,6 @@
 # X 投稿専用ページ
 
-Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。記事内画像に加えて、武将記事では画像ギャラリー内の該当人物画像も取得します。複数画像は結合コピーとZIP保存ができます。文字数による省略はしません。投稿は自動送信されません。
+Wikiの記事を抽選し、**見出し（項）ひとつ分を全文抜粋**して、投稿文と画像をXへ手動投稿するためのページです。記事内画像に加えて、記事本文内のリンク先ページをたどり、そのページにある画像も取得します。関連性による画像選別は行いません。複数画像は結合コピーとZIP保存ができます。文字数による省略はしません。投稿は自動送信されません。
 
 <div id="xp">
   <p><button id="xp-next" class="md-button md-button--primary">次の投稿候補を抽選</button> <label><input type="checkbox" id="xp-repeat"> 投稿済みも抽選</label></p>
@@ -98,45 +98,42 @@ function extractSection(root){
 }
 const section=extractSection(box);
 let images=[...box.querySelectorAll('img')].map(e=>{try{let src=e.getAttribute('src');if(!src||src.startsWith('data:'))return null;let u=new URL(src,url);return u.origin===location.origin?{src:u.href,alt:e.alt||'記事の画像'}:null}catch{return null}}).filter(Boolean);
-// 武将ページでは、別ページの画像ギャラリーにある同名武将の画像も補完する。
-// 一覧全体を混ぜず、alt に当該武将の名前がある画像だけを採用する。
-if (new URL(url).pathname.includes('/commanders/')) {
+// 記事本文に書かれたリンク先（同じWiki内）をたどり、見つかった画像をすべて追加する。
+// 武将名・alt・ファイル名による関連性チェックは行わない。
+// ヘッダーやサイドバーではなく、記事本文のリンクだけを対象にする。
+const visited=new Set([new URL(url).href]);
+const linkedPages=[...box.querySelectorAll('a[href]')].map(a=>{
   try {
-    const galleryUrl=new URL('reference/gallery/',base);
-    const response=await fetch(galleryUrl);
-    if(response.ok){
-      const galleryDoc=new DOMParser().parseFromString(await response.text(),'text/html');
-      const gallery=galleryDoc.querySelector('article.md-content__inner, .md-content__inner');
-      if(gallery){
-        const relevant=[...gallery.querySelectorAll('img')].filter(img=>{
-          const alt=(img.getAttribute('alt')||'').trim();
-          const normalizedAlt=alt.replace(/[\s\u00a0]/g,'');
-          const normalizedTitle=title.replace(/[\s\u00a0¶]/g,'');
-          const src=img.getAttribute('src')||'';
-          const slug=new URL(url).pathname.split('/').filter(Boolean).pop()||'';
-          return (normalizedTitle.length>=2 && normalizedAlt.includes(normalizedTitle) && !normalizedAlt.includes('旗印')) || (slug && src.toLowerCase().includes(slug.toLowerCase()) && !src.toLowerCase().includes('/flags/')); 
-        }).map(img=>{
-          try{
-            const src=img.getAttribute('src');
-            if(!src || src.startsWith('data:'))return null;
-            const imgUrl=new URL(src,galleryUrl);
-            return imgUrl.origin===location.origin?{src:imgUrl.href,alt:img.alt||title+'の画像'}:null;
-          }catch{return null}
-        }).filter(Boolean);
-        // ギャラリーのMarkdownで登録されている武将画像はパスからも検出できる。
-        // 石田三成のように表示名照合に失敗した場合も、既知の画像を補完する。
-        if(new URL(url).pathname.endsWith('/commanders/western/ishida-mitsunari/')){
-          const known=new URL('assets/images/ishida-mitsunari-portrait.jpg',base).href;
-          if(!relevant.some(im=>im.src===known)) relevant.unshift({src:known,alt:'石田三成のイメージビジュアル'});
-        }
-        images=[...relevant,...images];
-      }
+    const href=a.getAttribute('href');
+    if(!href || href.startsWith('#') || /^(mailto:|javascript:|tel:)/i.test(href))return null;
+    const link=new URL(href,url);
+    link.hash='';link.search='';
+    // Wiki外へのアクセスとファイルへの誤アクセスだけを防ぐ。
+    if(link.origin!==base.origin || !link.pathname.startsWith(base.pathname))return null;
+    if(/\.(?:png|jpe?g|gif|webp|svg|pdf|zip|mp4|webm)$/i.test(link.pathname))return null;
+    if(!link.pathname.endsWith('/'))return null;
+    return link.href;
+  }catch{return null}
+}).filter(Boolean);
+// 一つのページから直接たどれるリンクを検索する。無限巡回を防ぐためリンク先のリンクは追わない。
+for(const linkedUrl of linkedPages){
+  if(visited.has(linkedUrl))continue;
+  visited.add(linkedUrl);
+  try{
+    const response=await fetch(linkedUrl);
+    if(!response.ok)continue;
+    const linkedDoc=new DOMParser().parseFromString(await response.text(),'text/html');
+    const linkedBody=linkedDoc.querySelector('article.md-content__inner, .md-content__inner');
+    if(!linkedBody)continue;
+    for(const image of linkedBody.querySelectorAll('img')){
+      const src=image.getAttribute('src');
+      if(!src || src.startsWith('data:'))continue;
+      try{
+        const imageUrl=new URL(src,linkedUrl);
+        if(imageUrl.origin===location.origin)images.push({src:imageUrl.href,alt:image.alt || 'リンク先の画像'});
+      }catch{}
     }
-  }catch(error){console.warn('画像ギャラリーの追加画像を取得できませんでした',error)}
-}
-if(new URL(url).pathname.endsWith('/commanders/western/ishida-mitsunari/')){
-  const known=new URL('assets/images/ishida-mitsunari-portrait.jpg',base).href;
-  if(!images.some(im=>im.src===known)) images.unshift({src:known,alt:'石田三成のイメージビジュアル'});
+  }catch(error){console.warn('リンク先の画像を取得できませんでした',linkedUrl,error)}
 }
 images=images.filter((e,i)=>images.findIndex(x=>x.src===e.src)===i);
 return {url,title,section,images}}
