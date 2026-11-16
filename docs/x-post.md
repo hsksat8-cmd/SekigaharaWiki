@@ -3,6 +3,11 @@
 Wikiの記事から投稿候補を抽選し、見出し単位の文章を編集・コピーしてXに手動投稿するページです。**武将ページでは武将画像（肖像）を優先し、旗印・記事内画像も追加します。** 文字数で自動省略はしません。Xへの自動投稿は行いません。
 
 <div id="xp">
+  <p><label for="xp-mode"><strong>抽選対象：</strong></label>
+  <select id="xp-mode" aria-label="抽選対象">
+    <option value="all">すべての記事・見出し</option>
+    <option value="commander-background">武将の「人物とその背景」のみ</option>
+  </select></p>
   <p><button id="xp-next" class="md-button md-button--primary" type="button">次の投稿候補を抽選</button> <label><input type="checkbox" id="xp-repeat"> 投稿済みも抽選</label></p>
   <p id="xp-message" role="status" aria-live="polite">記事一覧を読み込んでいます…</p>
   <section id="xp-post" hidden>
@@ -68,9 +73,9 @@ async function loadList(){
   catch{return null}
  }).filter(Boolean))];
 }
-function extractSection(root){
+function extractSection(root,onlyBackground=false){
  const sections=[];
- const headings=[...root.querySelectorAll('h2,h3')];
+ const headings=[...root.querySelectorAll('h2,h3')].filter(h=>!onlyBackground || (h.tagName==='H2' && h.textContent.replace(/[¶#]/g,'').trim()==='人物とその背景'));
  function read(node){
   if(node.nodeType===3)return node.textContent.replace(/\s+/g,' ');
   if(node.nodeType!==1)return '';
@@ -91,17 +96,18 @@ function extractSection(root){
   if(parts.length)sections.push({heading:heading.textContent.replace(/¶/g,'').trim(),body:parts.join('\n\n')});
  }
  if(sections.length)return sections[Math.floor(Math.random()*sections.length)];
+ if(onlyBackground)throw Error('この記事に「人物とその背景」の項目がありません');
  const clone=root.cloneNode(true);
  clone.querySelectorAll('script,style,.headerlink,.md-source-file,h1,a[href*="/en/"],img').forEach(e=>e.remove());
  return {heading:'',body:(clone.textContent||'').replace(/\n[ \t]+/g,'\n').trim()};
 }
-async function loadArticle(url){
+async function loadArticle(url,mode){
  const response=await fetch(url);if(!response.ok)throw Error('記事が見つかりません');
  const doc=new DOMParser().parseFromString(await response.text(),'text/html');
  const box=doc.querySelector('article.md-content__inner, .md-content__inner');
  if(!box)throw Error('記事本文がありません');
  const title=(box.querySelector('h1')?.textContent||doc.title).replace(/[¶#]\s*$/,'').trim();
- const section=extractSection(box);
+ const section=extractSection(box,mode==='commander-background');
  // 武将ページはURLのスラッグから肖像画像の固定URLを構成する。
  const path=decodeURIComponent(new URL(url).pathname.slice(base.pathname.length)).replace(/\/$/,'');
  const commander=path.match(/^commanders\/(?:eastern|western|user)\/([a-z0-9-]+)$/);
@@ -124,14 +130,15 @@ async function loadArticle(url){
  articleImages.sort((a,b)=>Number(/\/images\/flags\//.test(b.src))-Number(/\/images\/flags\//.test(a.src)));
  images.push(...articleImages);
  images=images.filter((img,i)=>images.findIndex(x=>x.src===img.src)===i);
- return {url,title,section,images};
+ return {url,title,section,images,mode};
 }
 function postText(a){
  const h=a.section.heading&&a.section.heading!==a.title?'【'+a.section.heading+'】\n\n':'';
  return a.title+'\n\n'+h+a.section.body+'\n\n関ヶ原IF布陣シミュレータ公式wikiから\n'+a.url;
 }
 function selected(){return app.querySelector('input[name="xp-image"]:checked')?.value||null}
-function state(){$('state').textContent=posted.has(current.url)?'投稿済み':'未投稿'}
+function postKey(a){return a.mode==='commander-background'?a.url+'#人物とその背景':a.url}
+function state(){$('state').textContent=posted.has(postKey(current))?'投稿済み':'未投稿'}
 function show(a){
  current=a;$('post').hidden=false;$('title').textContent=a.title;
  $('link').textContent=a.url;$('link').href=a.url;
@@ -148,17 +155,24 @@ function show(a){
  for(const id of ['image-copy','images-copy','image-save','images-save'])$(id).disabled=!a.images.length;
  state();
 }
+function isCommanderArticle(url){
+ const path=decodeURIComponent(new URL(url).pathname.slice(base.pathname.length)).replace(/\/$/,'');
+ return /^commanders\/(eastern|western)\/[a-z0-9-]+$/.test(path) && !path.endsWith('/index');
+}
 async function next(){
- const pool=pages.filter(url=>$('repeat').checked||!posted.has(url));
- if(!pool.length){say('未投稿の記事がありません。「投稿済みも抽選」を選んでください。');return}
+ const mode=$('mode').value;
+ let pool=pages.filter(url=>mode!=='commander-background'||isCommanderArticle(url));
+ pool=pool.filter(url=>$('repeat').checked||!posted.has(mode==='commander-background'?url+'#人物とその背景':url));
+ if(!pool.length){say('抽選対象の未投稿記事がありません。「投稿済みも抽選」を選ぶか、抽選対象を変更してください。');return}
  $('next').disabled=true;say('記事を読み込み中…');
  try{
-  for(let i=0;i<Math.min(8,pool.length);i++){
+  // どの候補も「人物とその背景」が存在するとは限らないため、候補が尽きるまで確認する。
+  while(pool.length){
    const ix=Math.floor(Math.random()*pool.length),url=pool.splice(ix,1)[0];
-   if(url===current?.url && pool.length)continue;
-   try{show(await loadArticle(url));say('投稿候補を表示しました。');return}catch(error){console.warn(error)}
+   if(url===current?.url && mode===current.mode && pool.length)continue;
+   try{show(await loadArticle(url,mode));say('投稿候補を表示しました。');return}catch(error){console.warn(error)}
   }
-  throw Error('記事の読み込みに失敗しました');
+  throw Error('抽選対象の「人物とその背景」を取得できませんでした。該当ページの見出しを確認してください。');
  }catch(error){say(error.message)}finally{$('next').disabled=false}
 }
 async function getBitmap(src){
@@ -236,7 +250,7 @@ async function saveAll(){
  download(zipFiles(files),'sekigahara-'+(current.url.split('/').filter(Boolean).pop()||'post')+'-all-images.zip');
 }
 async function run(fn){try{await fn()}catch(error){say('失敗：'+error.message+'。画像保存や本文コピーをお試しください。')}}
-$('next').onclick=next;$('text').oninput=count;
+$('next').onclick=next;$('mode').onchange=()=>{if(pages.length)next()};$('text').oninput=count;
 $('text-copy').onclick=()=>run(async()=>{await navigator.clipboard.writeText($('text').value);say('本文をコピーしました。')});
 $('image-copy').onclick=()=>run(async()=>{
  const src=selected();if(!src)throw Error('画像がありません');
@@ -262,7 +276,7 @@ $('image-save').onclick=()=>run(async()=>{
 $('images-save').onclick=()=>run(async()=>{await saveAll();say('全画像のZIP保存を開始しました。')});
 function mark(yes){
  if(!current)return;
- yes?posted.add(current.url):posted.delete(current.url);
+ yes?posted.add(postKey(current)):posted.delete(postKey(current));
  localStorage.setItem(store,JSON.stringify([...posted]));state();
  say(yes?'投稿済みにしました。':'未投稿に戻しました。');
 }
