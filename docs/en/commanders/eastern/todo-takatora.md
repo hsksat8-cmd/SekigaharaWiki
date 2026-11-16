@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/todo-takatora.png" alt="Banner of Todo Takatora&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/todo-takatora.png" alt="Banner of Todo Takatora's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high command confidence (86) and leadership (78). Starting morale is 101, while hesitation is 28.
+This is a medium-sized unit, with notably high command confidence (86) and leadership (78). Starting morale is 101, while hesitation is 28.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-After serving several lords, he rose under Toyotomi Hidenaga and Hideyoshi. He fought for the Eastern Army at Sekigahara and later became lord of Tsu.
+Having served several different lords, Takatora learned to find a place for his abilities as political conditions changed. Alongside a long military career, he developed expertise in castle construction and the practical demands of terrain and defense.
 
 ## Character and Reputation
 
-A practical and adaptable commander who rose through ability rather than inheritance. He was especially respected for castle design, logistics, and political judgment.
+Rather than seeking glory in a single charge, he seems to have valued deployment, supply, and secure lines of retreat. His career suggests an understanding of loyalty grounded in the results of service as well as in declarations of devotion.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Takatora established his position through useful service even as the lords he served changed. Such a career is sometimes described as opportunism, but loyalties during the Sengoku era were not always permanent, and a new allegiance could be necessary to protect retainers and lands. He can be seen as a man who cared not only whom he served but what he accomplished after entering that service.
+
+His skill in castle building and domain administration points to an appreciation of terrain, preparation, and supplies over impulsive attacks. The composure associated with him in difficult circumstances may have come from a preference for arrangements that continued to work long after an individual moment of glory had passed.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

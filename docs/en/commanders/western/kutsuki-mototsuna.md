@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/kutsuki-mototsuna.png" alt="Banner of Kutsuki Mototsuna&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/kutsuki-mototsuna.png" alt="Banner of Kutsuki Mototsuna's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a small unit, with particularly high attack (52) and defense (52). Starting morale is 89, while hesitation is 78.
+This is a small unit, with notably high defense (52) and attack (52). Starting morale is 89, while hesitation is 78.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-Lord of Kutsuki Valley in Omi, he served the Oda and Toyotomi governments. He was among the commanders who changed to the Eastern side during Sekigahara.
+As a local lord in Omi, Mototsuna had to protect his relatively small domain while powerful houses competed around him. He is said to have moved from the Western to the Eastern side at Sekigahara, although his motives cannot be reduced to a single explanation.
 
 ## Character and Reputation
 
-A cautious local lord who protected a strategically important region and preserved his house through changing regimes.
+Rather than seeking dramatic feats, he may have focused on reading political circumstances and preserving his people and lands. His story reflects the precarious position of smaller houses during a great struggle.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+The Kutsuki valley in Omi was a place linked to travel and the movement of armies. Unlike lords contending for rule over the whole country, a small landholder could lose his entire household through a single defeat. His decision about whom to serve carried responsibility not only for warrior honor but for the lives of retainers and local people.
+
+Accounts of his conduct at Sekigahara vary, yet his situation invites an interpretation grounded in the practical concerns of someone surrounded by much greater forces. Carefully studying others' intentions rather than making a dramatic declaration may have been essential to keeping his house intact.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

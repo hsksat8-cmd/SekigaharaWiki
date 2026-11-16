@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/fukushima-masanori.png" alt="Banner of Fukushima Masanori&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/fukushima-masanori.png" alt="Banner of Fukushima Masanori's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high aggressiveness (92) and attack (88). Starting morale is 104, while hesitation is 10.
+This is a medium-sized unit, with notably high aggressiveness (92) and attack (88). Starting morale is 104, while hesitation is 10.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A close retainer of Toyotomi Hideyoshi, he won fame in the Battle of Shizugatake and later ruled Kiyosu. At Sekigahara he fought in the Eastern Army's front line against forces including Ukita Hideie's.
+Masanori won distinction in Hideyoshi's service, and leading an attack was both a warrior's honor and a source of personal identity for him. Stories emphasize his boisterous and fiery temperament, though he may also have understood how a commander's presence at the front could inspire his men.
 
 ## Character and Reputation
 
-He is often remembered as a direct and exceptionally brave warrior. Stories also emphasize a hot temper, but he played an important role in rallying Toyotomi-associated lords to the Eastern side.
+His disagreements with Ishida Mitsunari contributed to his decision to join the Eastern Army. His gratitude to the Toyotomi house and his independent political judgment made his position more complicated than a simple division into friends and enemies.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Masanori's pride as a warrior cannot be separated from his rise through military achievement under Toyotomi Hideyoshi. In an age when deeds could count for more than ancestry, courage at the front and visible accomplishments were important both to his standing and to his leadership of retainers. Accounts of his boldness and anger are numerous, but they do not tell the whole story.
+
+His decision to fight for the Eastern Army at Sekigahara should not automatically be taken as a rejection of his debt to the Toyotomi. Rivalry with Mitsunari and competing interests among the lords made service to the house and survival of his own domain difficult to reconcile. Behind his head-on approach lay pride in hard-won achievements and a willingness to bear responsibility for his choices.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

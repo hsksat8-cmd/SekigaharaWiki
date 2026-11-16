@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr><td>Army</td><td>Western Army</td></tr>
-    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Category</td><td>Additional commander on the expanded map</td></tr>
     <tr><td>Troops</td><td>3,700</td></tr>
     <tr><td>Starting morale</td><td>101</td></tr>
     <tr><td>Attack</td><td>74</td></tr>
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-Niwa Nagashige commands 3,700 troops and is configured as a defense- and command-oriented commander, with Defense 85, Command Confidence 84, and Leadership 83. Starting morale is 101 and hesitation is 28.
+This is a medium-sized unit, with notably high defense (85) and loyalty (84). Starting morale is 101, while hesitation is 28.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-The son of Niwa Nagahide. During the Sekigahara campaign, Nagashige sided with the Western Army in Hokuriku and fought Maeda Toshinaga's Eastern forces at the Battle of Asainawate. He lost his domain after the campaign but later returned to daimyo status under the Tokugawa government.
+The son of Niwa Nagahide, an important retainer of Oda Nobunaga, Nagashige inherited his father's name and the task of securing the family's future. He fought for the Western side at Sekigahara, lost his lands, and later rebuilt his position as a daimyo.
 
 ## Character and Reputation
 
-Nagashige inherited the Niwa house and rebuilt his position after the difficult aftermath of Sekigahara. In the game, his attributes emphasize defense and command rather than all-out aggression.
+His refusal to abandon the family's standing amid repeated setbacks suggests persistence. Pride in inherited honor and flexibility in finding a way forward were not necessarily contradictory.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Nagashige inherited the reputation of his father Nagahide, who had served Nobunaga. His father's accomplishments, however, could not guarantee his own standing, and he had to rebuild the family's position repeatedly as power shifted from the Toyotomi to the Tokugawa. Pride in a distinguished name may have made military defeat and loss of lands all the harder to accept.
+
+Despite losing his domain after Sekigahara, he eventually returned to daimyo status. His career reflects both flexibility in finding a path through changing circumstances and persistence in preserving the family name. Neither stubborn pride nor calculation alone fully explains a man who held on to both.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

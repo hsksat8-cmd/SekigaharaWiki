@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/toda-shigemasa.png" alt="Banner of Toda Shigemasa&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/toda-shigemasa.png" alt="Banner of Toda Shigemasa's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (92) and leadership (76). Starting morale is 101, while hesitation is 20.
+This is a medium-sized unit, with notably high loyalty (92) and leadership (76). Starting morale is 101, while hesitation is 20.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A Toyotomi-aligned commander who fought with forces associated with Otani Yoshitsugu at Sekigahara. He is believed to have died fighting the troops that attacked the Western right wing.
+Serving alongside Otani Yoshitsugu, Shigemasa faced considerable danger at Sekigahara and is said to have died in battle. Fewer details survive about him than about more prominent daimyo, but the responsibilities of a commander supporting the front line were no less serious.
 
 ## Character and Reputation
 
-The surviving evidence gives only a limited picture of his personality. He is chiefly remembered for continuing to fight on the Western side until his death.
+The determination to hold a position while the enemy advanced and to gain time for allies may be understood as the pride of a warrior supporting his commander.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Few sources preserve Shigemasa's personal character, and his thoughts cannot be stated with certainty. Yet his service and death on the Western side at Sekigahara show how serious decisions fell not only to famous daimyo but also to commanders who supported their units. A determination to fulfill an assigned duty and avoid abandoning allies can be imagined from such a position.
+
+As the fighting turned against his side, remaining at the front must have become increasingly difficult. Trust in a superior, responsibility for one's men, and personal honor could all complicate a decision between retreat and resistance. His life offers a way to consider the resolve of those who stood with a defeated army.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

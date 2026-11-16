@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/ishida-mitsunari.png" alt="Banner of Ishida Mitsunari&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/ishida-mitsunari.png" alt="Banner of Ishida Mitsunari's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (96) and leadership (82). Starting morale is 101, while hesitation is 34.
+This is a medium-sized unit, with notably high loyalty (96) and leadership (82). Starting morale is 101, while hesitation is 34.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A skilled administrator in Toyotomi Hideyoshi's government and one of the Five Commissioners. After Hideyoshi's death, he became a central organizer of the Western Army against Tokugawa Ieyasu.
+As a commissioner in the Toyotomi government, Mitsunari sustained the regime through administration and organization rather than personal feats of arms. After Hideyoshi's death, he tried to unite rival lords against Ieyasu's growing influence, but coordinating men with different interests and loyalties was difficult.
 
 ## Character and Reputation
 
-He is associated with discipline, administration, and loyalty to the Toyotomi order. Although older portrayals emphasized poor personal relations, modern interpretations often reassess his competence and principles.
+His respect for order and assigned responsibilities, and his determination to restore cooperation even in adversity, can be understood in light of his mission to support the Toyotomi house and his pride as an administrator.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+For Mitsunari, preserving the Toyotomi government also meant protecting the political system he had helped build under Hideyoshi. His work on land surveys, logistics, and the transmission of orders may have convinced him that individual courage was not enough to sustain a large organization; common policies and cooperation were essential. Yet his emphasis on order, while a strength, could bring him into conflict with commanders who had their own pride and interests.
+
+After Hideyoshi's death he sought to join lords of differing positions against Ieyasu's expanding power. Even when it was clear that not everyone shared the same aims, he appears to have remained committed to his chosen course. His persistence and difficulty in compromising may have been two sides of the same sense of duty.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

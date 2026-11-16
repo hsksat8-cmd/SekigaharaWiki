@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/hiratsuka-tamehiro.png" alt="Banner of Hiratsuka Tamehiro&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/hiratsuka-tamehiro.png" alt="Banner of Hiratsuka Tamehiro's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (96) and attack (84). Starting morale is 105, while hesitation is 12.
+This is a medium-sized unit, with notably high loyalty (96) and attack (84). Starting morale is 105, while hesitation is 12.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A Toyotomi commander who fought alongside Otani Yoshitsugu at Sekigahara. He resisted the attackers on the Western right wing and was killed in battle.
+Tamehiro joined the Western Army alongside Otani Yoshitsugu and is remembered as a commander killed at Sekigahara. In a battle between large armies, even a smaller unit's ability to hold its position could affect the fate of neighboring forces.
 
 ## Character and Reputation
 
-Tradition remembers him for courage and loyalty in a losing battle. His reported death poem further shaped his image as a resolute warrior.
+Loyalty in the face of mounting danger and a sense of duty toward adjacent units are possible ways of understanding the position of a commander who bore the pressure of a difficult battle.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Tamehiro supported the Western Army alongside Otani Yoshitsugu and died at Sekigahara. Even a commander whose unit stood in the shadow of a large army faced the knowledge that the collapse of his position could endanger neighboring troops. Sometimes courage meant holding a difficult line rather than launching a spectacular charge. His final stand can be understood through responsibility to his men and allies.
+
+Contemporary records preserving the details of his motives are limited. Descriptions of his loyalty and determination should therefore be read as interpretations of the circumstances he faced, rather than established statements about his private thoughts.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

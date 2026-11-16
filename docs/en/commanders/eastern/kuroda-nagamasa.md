@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/kuroda-nagamasa.png" alt="Banner of Kuroda Nagamasa&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/kuroda-nagamasa.png" alt="Banner of Kuroda Nagamasa's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high command confidence (84) and loyalty (82). Starting morale is 102, while hesitation is 22.
+This is a medium-sized unit, with notably high command confidence (84) and loyalty (82). Starting morale is 102, while hesitation is 22.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-The son of Kuroda Kanbei, he served the Toyotomi government and fought for the Eastern Army at Sekigahara. He also played an important role in pre-battle negotiations and later founded the Fukuoka domain.
+Raised as the son of the strategist Kuroda Josui, Nagamasa strengthened his house through both military force and negotiation. Before Sekigahara he approached other lords to win their support, and in the battle he commanded a contingent of the Eastern Army.
 
 ## Character and Reputation
 
-He combined battlefield command with negotiation and intelligence work. His contribution to Sekigahara was political as well as military.
+He appears to have valued an understanding of people's interests and movements, adapting his approach when circumstances changed and pressing forward when an opportunity appeared. Calculated judgment and ambition helped him navigate the unstable politics of the late Toyotomi period.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Nagamasa grew up learning that valor alone could not protect a house. His upbringing under Kuroda Josui and his experience of the Toyotomi administration likely encouraged him to study the motives and interests of allies as carefully as those of enemies. Concentrating force only after judging an opponent's movements was not merely caution; it was a way of creating an opening for decisive action.
+
+His efforts to influence other commanders before Sekigahara reveal a man intent on shaping the outcome before the armies met. Rather than separating achievements in combat from success at negotiation, he sought to turn both into lasting advantages for his family's future.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/tokugawa-ieyasu.png" alt="Banner of Tokugawa Ieyasu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/tokugawa-ieyasu.png" alt="Banner of Tokugawa Ieyasu's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a large unit, with particularly high loyalty (100) and command confidence (98). Starting morale is 108, while hesitation is 16.
+This is a large unit, with notably high loyalty (100) and command confidence (98). Starting morale is 108, while hesitation is 16.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-Born into the Matsudaira family of Mikawa, he expanded his power through alliances and warfare before becoming one of the leading elders of the Toyotomi government. He led the Eastern Army at Sekigahara and later established the Tokugawa shogunate.
+Having spent his childhood as a hostage, Ieyasu built his power through the eras of Oda and Toyotomi rule. He learned to endure rather than pursue immediate glory and, after Hideyoshi's death, sought the initiative among rival lords while considering the political order that would follow a victory.
 
 ## Character and Reputation
 
-He is commonly portrayed as patient, cautious, and highly pragmatic, yet capable of bold action once he judged the moment favorable. He excelled at long-term political organization and control of retainers.
+His ability to caution against complacency in favorable circumstances and restore order in adversity reflects the pride and composure of a leader who had survived decades of upheaval.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+For Ieyasu, the outcome of a struggle was not settled by a single battle. His early years as a hostage and his dealings with the powerful Imagawa, Oda, and Toyotomi houses may have taught him when to confront an opponent and when to endure. A rash decision by a lord could endanger not only eager retainers but also his family and domain. His caution in war carried the weight of those responsibilities.
+
+Yet when an opportunity matured, Ieyasu did not hesitate to seek political leadership. The combination of patience and a determination not to miss his chance reflects the practical judgment of a man who had spent many years building the foundations of the Tokugawa house.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

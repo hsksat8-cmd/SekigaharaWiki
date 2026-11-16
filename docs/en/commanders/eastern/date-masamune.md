@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/date-masamune.png" alt="Banner of Date Masamune&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/date-masamune.png" alt="Banner of Date Masamune's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr><td>Army</td><td>Eastern Army</td></tr>
-    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Category</td><td>Additional commander on the expanded map</td></tr>
     <tr><td>Troops</td><td>14,100</td></tr>
     <tr><td>Starting morale</td><td>105</td></tr>
     <tr><td>Attack</td><td>86</td></tr>
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a large unit, with particularly high aggressiveness (88) and attack (86). Starting morale is 105, while hesitation is 14.
+This is a large unit, with notably high aggressiveness (88) and attack (86). Starting morale is 105, while hesitation is 14.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-The powerful daimyo of southern Oshu known as the One-Eyed Dragon. During the Sekigahara campaign he supported the Eastern side by pressuring Uesugi territory.
+Known for his ambition as a daimyo who expanded his power in northern Japan, Masamune faced the growing dominance of central rulers. He did not fight in the main battle of Sekigahara, instead confronting Uesugi-aligned forces in the northeast.
 
 ## Character and Reputation
 
-Famous for ambition, diplomatic skill, cultural curiosity, and a mixture of daring and careful political calculation.
+His bold pursuit of opportunities coexisted with pragmatic decisions needed to preserve his domain. His persistence in seeking another opening even after setbacks reflects his attempts to contend with stronger central authorities.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Masamune became known in his youth for moving boldly to exploit opportunities amid the struggles of the northeast. Yet as the central government consolidated power, military strength alone could no longer secure everything he wanted. His submission to Hideyoshi and management of relations with the Tokugawa show how even an ambitious lord had to read the political climate. Behind a forceful manner lay calculations about the survival of his family and lands.
+
+Far from the main field of Sekigahara, he made choices amid tensions with Uesugi forces. He appears as a figure weighing the desire to accept risks and expand his power against the reality of a stronger authority at the center, adjusting his course as circumstances changed.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

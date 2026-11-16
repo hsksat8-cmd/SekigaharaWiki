@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/mori-hidemoto.png" alt="Banner of Mori Hidemoto&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/mori-hidemoto.png" alt="Banner of Mori Hidemoto's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a large unit, with particularly high leadership (80) and loyalty (78). Starting morale is 101, while hesitation is 72.
+This is a large unit, with notably high leadership (80) and loyalty (78). Starting morale is 101, while hesitation is 72.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A grandson of Mori Motonari and a leading member of the Mori clan. He commanded a large Western force on Mount Nangu but could not fully enter the battle because Kikkawa Hiroie's troops blocked the route.
+A member of the Mori family, Hidemoto commanded Mori forces at Sekigahara but could not freely deploy the troops stationed on Mount Nangu. Even if he sought distinction, acting without regard to the family's wider interests could have endangered the entire house.
 
 ## Character and Reputation
 
-A capable leader placed in command of a major force, but one whose freedom of action was restricted by internal Mori politics.
+He can be understood through the frustration of possessing a large army without the freedom to use it, alongside a responsibility to protect his family's standing and future.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+As a member of the Mori clan, Hidemoto had both the pride of commanding a large force and the constraint of not jeopardizing the family's policy through independent action. Although he took position on Mount Nangu at Sekigahara, his troops did not move as he might have wished. For a warrior, having the means to fight but lacking the freedom to use them could present a profound conflict. Seeking glory and preserving the household did not necessarily lead to the same decision.
+
+Accounts differ on why the Mori forces remained inactive, but the outcome cannot simply be attributed to Hidemoto's personal lack of courage. His position reveals the political reality that the movements of even a great army could be restricted by several competing wills and negotiations.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

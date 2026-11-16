@@ -12,7 +12,9 @@
 <div class="commander-stats" style="flex:1 1 320px; min-width:280px;">
   <h2>In-Game Data</h2>
 <table>
-  <thead><tr><th>Attribute</th><th>Value</th></tr></thead>
+  <thead>
+    <tr><th>Attribute</th><th>Value</th></tr>
+  </thead>
   <tbody>
     <tr><td>Army</td><td>Western Army</td></tr>
     <tr><td>Category</td><td>Core Sekigahara commander</td></tr>
@@ -33,19 +35,24 @@
 
 ## In-Game Characteristics
 
-A Western Army commander newly included in the standard-map roster, with 1,800 troops, starting morale 98, discipline 72, and command reliability 72.
+This is a medium-sized unit, with notably high loyalty (80) and discipline (72). Starting morale is 98, while hesitation is 38.
 
 !!! note
-    These values are for fixed-ability scenarios. Randomized troop-count and ability scenarios may differ. The game values do not constitute historical ratings.
+    These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-Ankokuji Ekei was a Buddhist monk and diplomat closely associated with the Mōri clan. He supported the Western Army during the Sekigahara campaign.
+A Buddhist monk active in diplomacy and politics, Ekei negotiated between the Mori house and the Toyotomi government. He dealt with disputes that could not be settled by arms alone and learned to weigh the changing interests of powerful men.
 
 ## Character and Reputation
 
-He is remembered for diplomacy and political negotiation. His game statistics and dialogue are creative interpretations, not definitive historical personality judgments.
+His participation on the Western side and execution after Sekigahara show the limits of even sophisticated political maneuvering. His career invites an interpretation combining worldly detachment with persistent ambition.
 
-## History and Game Representation
+## The Person and Their Background
 
-This profile distinguishes recorded historical activities from the game's fictional battle representation.
+Although a monk, Ekei exercised influence in the world of diplomacy and politics, moving among great lords. Where warriors competed for lands and prestige, he had to examine conflicting interests and find compromises through words. Experience with problems that could not be settled by force may have developed both his confidence in facing powerful negotiators and his ability to assess a situation calmly.
+
+At Sekigahara, however, he could not bring the competing political interests together, and his life ended after the Western defeat. Even a man skilled at understanding others could not control every outcome. His fate reveals both the confidence and the limits of a political strategist.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

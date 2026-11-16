@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/yamauchi-kazutoyo.png" alt="Banner of Yamauchi Kazutoyo&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/yamauchi-kazutoyo.png" alt="Banner of Yamauchi Kazutoyo's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr><td>Army</td><td>Eastern Army</td></tr>
-    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Category</td><td>Additional commander on the expanded map</td></tr>
     <tr><td>Troops</td><td>3,000</td></tr>
     <tr><td>Starting morale</td><td>97</td></tr>
     <tr><td>Attack</td><td>62</td></tr>
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (78) and leadership (70). Starting morale is 97, while hesitation is 34.
+This is a medium-sized unit, with notably high loyalty (78) and leadership (70). Starting morale is 97, while hesitation is 34.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A retainer of the Oda and Toyotomi governments who became lord of Kakegawa. He supported Tokugawa Ieyasu before Sekigahara and later received Tosa.
+Kazutoyo rose to daimyo status after many years of service, having known periods when advancement was far from assured. His cooperation with the Tokugawa around Sekigahara and his later appointment to Tosa transformed his family's prospects.
 
 ## Character and Reputation
 
-Often presented as a commander who advanced through timely political decisions rather than spectacular battlefield victories. Stories of his wife Chiyo's support are also famous.
+He may have valued steady service and the accumulated work of his retainers over spectacular individual combat. His concern for conserving lives and securing a future after victory can be read as an interpretation grounded in his gradual rise.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Kazutoyo's life displays the persistence of a man who advanced step by step through service to his lords. High standing was never guaranteed from the outset: earning trust and coordinating the work of retainers formed the basis of his ascent. Even if he desired distinction, he would have understood the danger of losing years of progress in one reckless engagement.
+
+Around Sekigahara, his choices concerned more than personal pride. He had to judge under which new political order his house could endure. The grant of Tosa was a major success, but it also brought the new responsibility of governing its land and people.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

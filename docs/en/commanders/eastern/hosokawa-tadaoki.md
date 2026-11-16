@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/hosokawa-tadaoki.png" alt="Banner of Hosokawa Tadaoki&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/hosokawa-tadaoki.png" alt="Banner of Hosokawa Tadaoki's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (84) and leadership (82). Starting morale is 103, while hesitation is 18.
+This is a medium-sized unit, with notably high loyalty (84) and leadership (82). Starting morale is 103, while hesitation is 18.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-The son of Hosokawa Fujitaka, he served both the Oda and Toyotomi governments. At Sekigahara he joined the Eastern Army and later became lord of Kokura.
+Born into a distinguished warrior family and deeply versed in the tea ceremony, Tadaoki combined cultural refinement with strict martial discipline. The tragedy surrounding his wife Gracia shortly before Sekigahara cast a lasting shadow over the Hosokawa family.
 
 ## Character and Reputation
 
-He combined martial ability with refined cultural interests, especially tea. At the same time, many accounts describe a severe and passionate temperament.
+He took family honor, the protection of his retainers, and his reputation as a warrior seriously. His severe insistence on order can be read alongside the tension between powerful emotion and the restraint expected of a lord.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Tadaoki combined an exacting concern for warrior honor with the sensitivity of a highly accomplished practitioner of tea. As the head of a distinguished family, he had to preserve its standing and unity amid changes of allegiance. His attachment to propriety and discipline therefore went beyond personal taste. Stories describe his fierce temper, yet someone ruled by impulse alone would have struggled to survive such volatile politics.
+
+The death of his wife Gracia before Sekigahara is inseparable from his life story. With personal tragedy and political conflict intertwined, choosing what to defend and whom to support carried unusual weight. Beneath his severity it is possible to discern an intense attachment to both family and household.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/tachibana-muneshige.png" alt="Banner of Tachibana Muneshige&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/tachibana-muneshige.png" alt="Banner of Tachibana Muneshige's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr><td>Army</td><td>Western Army</td></tr>
-    <tr><td>Category</td><td>Additional commander for the fictional expanded map</td></tr>
+    <tr><td>Category</td><td>Additional commander on the expanded map</td></tr>
     <tr><td>Troops</td><td>5,500</td></tr>
     <tr><td>Starting morale</td><td>109</td></tr>
     <tr><td>Attack</td><td>92</td></tr>
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high attack (92) and loyalty (92). Starting morale is 109, while hesitation is 8.
+This is a medium-sized unit, with notably high loyalty (92) and attack (92). Starting morale is 109, while hesitation is 8.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-The son of Takahashi Joun and adopted heir of Tachibana Dosetsu. A highly respected general, he fought for the Western side in the siege of Otsu and later regained his former domain under Tokugawa rule.
+Born the son of Takahashi Shoun and adopted into the Tachibana family, Muneshige earned renown for his military ability and the loyalty of his followers. He did not reach the main battlefield at Sekigahara but participated in the Western attack on Otsu Castle.
 
 ## Character and Reputation
 
-Widely respected for courage, command ability, and personal character. His restoration to his former domain under Tokugawa rule was highly unusual.
+He lost his domain after the defeat yet eventually returned to daimyo status. That recovery suggests the value of relationships and dependable service, and a willingness to endure hardship alongside his retainers.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Muneshige was born into the family of Takahashi Shoun and succeeded to the Tachibana house, gaining experience in many battles. Stories of his martial ability and the trust of his retainers are linked not merely to skill in combat but to steadfastness in adversity. In a difficult campaign, men follow a leader partly because they have learned to trust his decisions over time.
+
+He fought at Otsu Castle on the Western side rather than at the main battlefield. Although he subsequently lost his lands, he eventually regained the position of a daimyo. This recovery reflected not only military ability but also the relationships and service through which he rebuilt his prospects. His career offers a way to understand the strength of maintaining human ties after defeat.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

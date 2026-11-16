@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/akaza-naoyasu.png" alt="Banner of Akaza Naoyasu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/akaza-naoyasu.png" alt="Banner of Akaza Naoyasu's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a small unit, with particularly high attack (52) and defense (50). Starting morale is 89, while hesitation is 78.
+This is a small unit, with notably high attack (52) and defense (50). Starting morale is 89, while hesitation is 78.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A Toyotomi-era commander who was positioned with the Western Army and is counted among those who changed sides during Sekigahara.
+Naoyasu is also named among those said to have switched from the Western to the Eastern Army at Sekigahara. Biographical evidence is limited, making detailed claims about his personality difficult to support.
 
 ## Character and Reputation
 
-The historical record provides only a limited personal portrait. He appears to have survived the political transition by entering Maeda service.
+Even so, commanding a small unit amid great armies meant facing pressure to limit losses while deciding a course that could determine the future of his house. Careful observation and a willingness to act at the right moment are plausible responses to that predicament.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Sources tell us little about Naoyasu's personal character. Rather than inventing colorful anecdotes, it is more useful to consider the position of a minor lord at the end of the Sengoku era. As great armies collided, even a small commander had to choose whether to hold, withdraw, or follow a different power. Courage in danger and caution about unnecessary losses among his men were both necessary qualities.
+
+Later accounts discuss his conduct at Sekigahara, but the timing and motives of his decisions are uncertain. It is possible to imagine an effort to read the changing balance of power without reducing him to a simplistic figure of betrayal.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

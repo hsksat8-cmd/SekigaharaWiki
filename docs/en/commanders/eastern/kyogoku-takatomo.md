@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/kyogoku-takatomo.png" alt="Banner of Kyogoku Takatomo&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/kyogoku-takatomo.png" alt="Banner of Kyogoku Takatomo's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a medium-sized unit, with particularly high loyalty (78) and command confidence (72). Starting morale is 97, while hesitation is 36.
+This is a medium-sized unit, with notably high loyalty (78) and command confidence (72). Starting morale is 97, while hesitation is 36.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-A member of the prestigious Kyogoku family of Omi. He served the Toyotomi government, joined the Eastern Army at Sekigahara, and received Tango after the battle.
+As a member of the distinguished Kyogoku family, Takatomo became a daimyo under the Toyotomi government. He faced the challenge of preserving his family's name while finding a secure place in a changing political order. At Sekigahara he joined the Eastern Army.
 
 ## Character and Reputation
 
-More a survivor and organizer than a flamboyant battlefield hero, he preserved his house through major changes of regime.
+Steady service and the ability to hold his retainers together may have mattered more to him than spectacular feats. Such reliability was an important responsibility for a lord seeking to carry an old family into a new age.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+The Kyogoku were an old and prestigious family, but by the Sengoku period reputation alone could no longer protect a domain. For Takatomo, honoring his ancestry and demonstrating practical value to the new rulers were complementary obligations. His responsibilities to his retainers and lands extended beyond proving his personal bravery.
+
+His choice to join the Eastern Army need not be dismissed as merely siding with the likely victor. Maintaining an inherited standing required an understanding of the changing balance of power and a willingness to act within it. The realities facing the head of an old house can be seen in an emphasis on dependable service rather than flamboyant gestures.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

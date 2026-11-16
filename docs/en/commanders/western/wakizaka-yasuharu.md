@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/wakizaka-yasuharu.png" alt="Banner of Wakizaka Yasuharu&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/wakizaka-yasuharu.png" alt="Banner of Wakizaka Yasuharu's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a small unit, with particularly high attack (58) and defense (54). Starting morale is 90, while hesitation is 74.
+This is a small unit, with notably high attack (58) and defense (54). Starting morale is 90, while hesitation is 74.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-One of the Seven Spears of Shizugatake. Although initially positioned with the Western Army, he changed sides during Sekigahara and attacked the Western right wing.
+Having built his career under the Toyotomi, Yasuharu is said to have shifted toward the Eastern Army in response to Kobayakawa Hideaki's actions. For a lesser daimyo without the strength to decide the battle alone, the timing of such a decision was closely tied to his household's future.
 
 ## Character and Reputation
 
-A flexible survivor of political change, with experience in naval warfare and the Korean campaigns.
+His choice can be interpreted through the caution of a lord watching events unfold while weighing both personal obligation and the survival of his followers.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Although Yasuharu had earned distinction in Toyotomi service, at Sekigahara he was also a relatively small lord caught between far greater powers. When the battle's direction was uncertain, he had to consider whether to follow neighboring units or make an earlier independent choice. Warrior honor and the practical obligation to protect retainers and lands could demand different responses.
+
+Traditions concerning his change of sides need careful examination. A battlefield decision should not be dismissed as either cowardice or cunning without evidence. The caution needed to find a path through chaos was itself a skill demanded of a Sengoku daimyo.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.

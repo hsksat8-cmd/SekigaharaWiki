@@ -5,7 +5,7 @@
 <div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
-  <img src="../../../../assets/images/flags/shima-sakon.png" alt="Banner of Shima Sakon&#x27;s unit" class="wiki-image" style="width:50%; height:auto;" />
+  <img src="../../../../assets/images/flags/shima-sakon.png" alt="Banner of Shima Sakon's unit" class="wiki-image" style="width:50%; height:auto;" />
   <p class="image-caption">Unit banner</p>
 </div>
 
@@ -35,19 +35,24 @@
 
 ## In-Game Characteristics
 
-This is a small unit, with particularly high loyalty (92) and attack (88). Starting morale is 107, while hesitation is 10.
+This is a small unit, with notably high loyalty (92) and attack (88). Starting morale is 107, while hesitation is 10.
 
 !!! note
     These are fixed values used outside the random-ability scenario. In-game statistics are not intended as a direct historical judgment of the individual.
 
 ## Brief Career
 
-An experienced warrior who became a senior retainer of Ishida Mitsunari. He fought fiercely below Mount Sasao and is traditionally said to have died at Sekigahara.
+Sakon is celebrated as a warrior who supported Ishida Mitsunari, although much of his early life remains uncertain. His reported role in the front line at Sekigahara suggests a division of responsibilities in which Mitsunari handled politics while Sakon confronted the practical demands of battle.
 
 ## Character and Reputation
 
-Remembered as an experienced and formidable field commander whose reputation was great enough to enhance Mitsunari's own prestige.
+His keen eye for moments of enemy weakness and his readiness to support a faltering line form the core of the formidable warrior image developed around him in later accounts.
 
-## History and Game Representation
+## The Person and Their Background
 
-Historical background and in-game statistics are presented separately. Character descriptions summarize common historical interpretations rather than offering definitive personality diagnoses.
+Although Sakon is known as a capable fighter in Mitsunari's service, much of his earlier career is obscure. Later accounts present him as the man who directed troops and accepted danger at the front while Mitsunari handled politics and relations among commanders. A battlefield leader needed to recognize not only an enemy's momentum but also the moment when fear was beginning to spread among his own men.
+
+Not every story about Sakon can be accepted as fact. Still, his decision to serve Mitsunari can be interpreted as taking responsibility for turning a political vision into effective military action. His reputation for severity and dependability makes sense against that background.
+
+!!! note "About these character interpretations"
+    Interpretations of personality, feelings, and motives may include creative assumptions based on historical events and traditions. They should not be taken as definitive statements of the individual's actual thoughts or words.
