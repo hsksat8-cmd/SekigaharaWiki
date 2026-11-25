@@ -12,9 +12,9 @@ Deployments, concentration of force, encirclement, defeat in detail, and central
 
 </div>
 
-## Latest: Version 2.8.1
+## Latest: Version 2.8.2
 
-This update adds more dialogue variations for each commander and makes minor adjustments to unit behavior. See the [Version 2.8.1 release notes](updates/v2.8.1.md) for details.
+This update replaces two commanders in Ōtani's forces to better reflect historical records and makes minor adjustments to unit behavior. See the [Version 2.8.2 release notes](updates/v2.8.2.md) for details.
 
 ## Main Features
 

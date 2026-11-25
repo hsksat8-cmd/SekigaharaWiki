@@ -2,6 +2,11 @@
 
 The English version information is translated from the Japanese version information.
 
+## Version 2.8.2
+- Updated the commanders in Ōtani's forces to better reflect historical records.
+- Made minor adjustments to unit behavior.
+- [Details](v2.8.2.md)
+
 ## Version 2.8.1
 - Added more dialogue variations for each commander.
 - Made minor adjustments to unit behavior.
