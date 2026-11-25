@@ -26,8 +26,8 @@
 | 宇喜多秀家 | 西 | 17,000 | 104 | 82 | 82 | 78 | [表示](western/ukita-hideie.md) |
 | 小西行長 | 西 | 6,000 | 96 | 62 | 66 | 68 | [表示](western/konishi-yukinaga.md) |
 | 大谷吉継 | 西 | 600 | 108 | 70 | 92 | 96 | [表示](western/otani-yoshitsugu.md) |
-| 戸田重政 | 西 | 1,500 | 101 | 72 | 72 | 76 | [表示](western/toda-shigemasa.md) |
-| 平塚為広 | 西 | 1,500 | 105 | 84 | 78 | 82 | [表示](western/hiratsuka-tamehiro.md) |
+| 大谷吉勝 | 西 | 1,750 | 80 | 76 | 76 | 80 | [表示](western/otani-yoshikatsu.md) |
+| 木下頼継 | 西 | 1,250 | 78 | 70 | 76 | 78 | [表示](western/kinoshita-yoritsugu.md) |
 | 島津義弘 | 西 | 1,500 | 109 | 92 | 82 | 94 | [表示](western/shimazu-yoshihiro.md) |
 | 島左近 | 西 | 1,000 | 107 | 88 | 74 | 82 | [表示](western/shima-sakon.md) |
 | 毛利秀元 | 西 | 15,000 | 101 | 72 | 76 | 80 | [表示](western/mori-hidemoto.md) |

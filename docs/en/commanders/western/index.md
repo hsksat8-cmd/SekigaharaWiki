@@ -12,8 +12,8 @@ Additional commanders appear only in expanded-map scenarios.
 | Ukita Hideie | West | 17,000 | 104 | 82 | 82 | 78 | [View](ukita-hideie.md) |
 | Konishi Yukinaga | West | 6,000 | 96 | 62 | 66 | 68 | [View](konishi-yukinaga.md) |
 | Otani Yoshitsugu | West | 600 | 108 | 70 | 92 | 96 | [View](otani-yoshitsugu.md) |
-| Toda Shigemasa | West | 1,500 | 101 | 72 | 72 | 76 | [View](toda-shigemasa.md) |
-| Hiratsuka Tamehiro | West | 1,500 | 105 | 84 | 78 | 82 | [View](hiratsuka-tamehiro.md) |
+| Otani Yoshikatsu | West | 1,750 | 80 | 76 | 76 | 80 | [View](otani-yoshikatsu.md) |
+| Kinoshita Yoritsugu | West | 1,250 | 78 | 70 | 76 | 78 | [View](kinoshita-yoritsugu.md) |
 | Shimazu Yoshihiro | West | 1,500 | 109 | 92 | 82 | 94 | [View](shimazu-yoshihiro.md) |
 | Shima Sakon | West | 1,000 | 107 | 88 | 74 | 82 | [View](shima-sakon.md) |
 | Mori Hidemoto | West | 15,000 | 101 | 72 | 76 | 80 | [View](mori-hidemoto.md) |
