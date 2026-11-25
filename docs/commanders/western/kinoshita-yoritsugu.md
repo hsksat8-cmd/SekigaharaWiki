@@ -2,12 +2,12 @@
 
 [English version](../../en/commanders/western/kinoshita-yoritsugu.md)
 
-<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
+<div class="commander-data-layout has-portrait" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-<div class="commander-portrait" style="flex:0 0 192px; max-width:192px; text-align:center;">
-  <img src="../../../assets/images/commanders/kinoshita-yoritsugu.png" alt="木下頼継の武将画像" class="wiki-image" style="width:100%; height:auto; border-radius:4px;" />
-  <p class="image-caption">武将画像</p>
-</div>
+<figure class="commander-portrait">
+  <img src="../../../assets/images/commanders/kinoshita-yoritsugu.png" alt="木下頼継の武将画像" width="384" loading="lazy" decoding="async" />
+  <figcaption>武将画像</figcaption>
+</figure>
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
   <img src="../../../assets/images/flags/kinoshita-yoritsugu.png" alt="木下頼継隊の旗印" class="wiki-image" style="width:50%; height:auto;" />

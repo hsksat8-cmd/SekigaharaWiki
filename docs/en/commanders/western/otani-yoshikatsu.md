@@ -2,12 +2,12 @@
 
 [日本語版](../../../commanders/western/otani-yoshikatsu.md)
 
-<div class="commander-data-layout" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
+<div class="commander-data-layout has-portrait" style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-<div class="commander-portrait" style="flex:0 0 192px; max-width:192px; text-align:center;">
-  <img src="../../../../assets/images/commanders/otani-yoshikatsu.png" alt="Portrait of Otani Yoshikatsu" class="wiki-image" style="width:100%; height:auto; border-radius:4px;" />
-  <p class="image-caption">Commander portrait</p>
-</div>
+<figure class="commander-portrait">
+  <img src="../../../../assets/images/commanders/otani-yoshikatsu.png" alt="Portrait of Otani Yoshikatsu" width="384" loading="lazy" decoding="async" />
+  <figcaption>Commander portrait</figcaption>
+</figure>
 
 <div class="commander-flag" style="flex:0 0 220px; text-align:center;">
   <img src="../../../../assets/images/flags/otani-yoshikatsu.png" alt="Banner of Otani Yoshikatsu's unit" class="wiki-image" style="width:50%; height:auto;" />
